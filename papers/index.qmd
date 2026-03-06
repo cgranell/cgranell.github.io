@@ -45,4 +45,431 @@ A research team is a collaborative environment with its own dynamics. It's wonde
 - Apr 2013, [Hypocrites in the air: should climate change academics lead by example?](http://kevinanderson.info/blog/hypocrites-in-the-air-should-climate-change-academics-lead-by-example/)
 
 
-### Publications
+## Publications
+
+### Journal articles
+
+- [![2025](https://img.shields.io/badge/2025-10.1109/TITS.2025.3571101-brightgreen.svg)](http://dx.doi.org/10.1109/TITS.2025.3571101)
+Leonardo Monteiro-Fialho, Enrique Cueto-Rubio, Carlos Granell and Sergio Trilles.
+**Transportation analytics using smart card data: A systematic review**.
+*IEEE Transactions on Intelligent Transportation Systems*, 26(7): 11010-11033, 2025, ISSN 1558-0016.
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [Repositori UJI](http://hdl.handle.net/10234/748845)
+
+- [![2025](https://img.shields.io/badge/2025-10.6035/AgoraSalut.2025.11.11-brightgreen.svg)](http://dx.doi.org/10.6035/AgoraSalut.2025.11.11)
+Iratxe Alonso Olea, Laura Díaz Sanahuja, Sven Casteleyn, Carlos Granell Canut, Juana María Bretón López.
+**Diseño preliminar y caso de uso de la aplicación SYMPTOMS-JIT: una app para la exposición en vivo en trastornos de ansiedad**.
+*Àgora de Salut*, 11, 111-121, 2025, ISSN 2443-9827.
+
+- [![2025](https://img.shields.io/badge/2025-10.3846/transport.2025.24650-brightgreen.svg)](https://dx.doi.org/https://doi.org/10.3846/transport.2025.24650)
+Aaron Gutiérrez, Leonardo Monteiro-Fialho, Sergi Trilles, Benito Zaragozí, Carlos Granell, Daniel Miravet.
+**Tourists′ Local Buses Ridership and Pandemic Resilience: A Smart Card Data Analysis in Southern Catalonia**.
+*Transport*, 40(2), 173–196, 2025, ISSN 1648-4142.
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
+
+- [![2024](https://img.shields.io/badge/2024-10.1109/JBHI.2024.3456169-brightgreen.svg)](https://doi.org/10.1109/JBHI.2024.3456169)
+Miguel Matey-Sanz, Alberto González-Pérez, Sven Casteleyn, Carlos Granell.
+**Implementing and evaluating the Timed Up and Go test automation using smartphones and smartwatches**.
+*IEEE Journal of Biomedical and Health Informatics*, 28(11): 6594-6605, 2024, ISSN 2168-2194.
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [Repositori UJI](http://hdl.handle.net/10234/691992)
+
+- [![2024](https://img.shields.io/badge/2024-10.1177/20552076241283942-brightgreen.svg)](https://doi.org/10.1177/20552076241283942)
+Alberto González-Pérez, Laura Díaz-Sanahuja, Miguel Matey-Sanz, Jorge Osma, Carlos Granell, Juana Bretón-López, Sven Casteleyn.
+**Towards a self-applied, mobile-based geolocated exposure therapy software for anxiety disorders: SyMptOMS-ET app**.
+*Digital Health*, 10, 2024, ISSN 2055-2076.
+[CC BY-NC 4.0](https://creativecommons.org/licenses/by-nc/4.0/) | [Repositori UJI](http://hdl.handle.net/10234/710165)
+
+- [![2024](https://img.shields.io/badge/2024-10.3390/ijgi13080295-brightgreen.svg)](https://doi.org/10.3390/ijgi13080295)
+André Kotze, Moritz Hildemann, Vítor Santos, Carlos Granell.
+**Genetic Programming to Optimize 3D Trajectories**.
+*ISPRS International Journal of Geo-Information*, 13(8):295, 2024, ISSN 2220-9964. Pre-print at [SSRN](https://www.ssrn.com/index.cfm/en/), doi: [10.2139/ssrn.4438103](http://dx.doi.org/10.2139/ssrn.4438103).
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [Repositori UJI](http://hdl.handle.net/10234/209045)
+
+- [![2024](https://img.shields.io/badge/2024-10.1016/j.dib.2024.110356-brightgreen.svg)](https://doi.org/10.1016/j.dib.2024.110356)
+Lucie Klus, Roman Klus, Elena Simona Lohan, Jari Nurmi, Carlos Granell, Mikko Valkama, Jukka Talvitie, Sven Casteleyn, Joaquín Torres-Sospedra.
+**TUJI1 Dataset: Multi-device dataset for indoor localization with high measurement density**.
+*Data in Brief*, 54, 110356, 2024, ISSN 2352-3409. Pre-print at [SSRN](https://www.ssrn.com/index.cfm/en/), doi: [10.2139/ssrn.4456117](http://dx.doi.org/10.2139/ssrn.4456117).
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [Repositori UJI](http://hdl.handle.net/10234/206483)
+
+- [![2024](https://img.shields.io/badge/2024-10.1109/TMC.2023.3277333-brightgreen.svg)](https://doi.org/10.1109/TMC.2023.3277333)
+Lucie Klus, Roman Klus, Joaquín Torres Sospedra, Elena Simona Lohan, Carlos Granell, Jari Nurmi.
+**EWOk: Towards Efficient Multidimensional Compression of Indoor Positioning Datasets**.
+*IEEE Transactions on Mobile Computing*, 23(5): 3589-3604, 2024, ISSN 1558-0660.
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [Repositori UJI](http://hdl.handle.net/10234/206064)
+
+- [![2023](https://img.shields.io/badge/2023-10.1016/j.dib.2023.109809-brightgreen.svg)](https://doi.org/10.1016/j.dib.2023.109809)
+Miguel Matey-Sanz, Sven Casteleyn, Carlos Granell.
+**Dataset of inertial measurements of smartphones and smartwatches for human activity recognition**.
+*Data in Brief*, 51, 109809, 2023, ISSN 2352-3409.
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [Repositori UJI](http://hdl.handle.net/10234/205731)
+
+- [![2023](https://img.shields.io/badge/2023-10.1016/j.jbi.2023.104359-brightgreen.svg)](https://doi.org/10.1016/j.jbi.2023.104359)
+Alberto González-Pérez, Miguel Matey-Sanz, Carlos Granell, Laura Diaz-Sanahuja, Juana Breton-Lopez, Sven Casteleyn.
+**AwarNS: A framework for developing context-aware reactive mobile applications for health and mental health**.
+*Journal of Biomedical Informatics*, 141, 104359, 2023, ISSN 1532-0464.
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [Repositori UJI](http://hdl.handle.net/10234/202645)
+
+- [![2022](https://img.shields.io/badge/2022-10.1111/tgis.12990-brightgreen.svg)](https://doi.org/10.1111/tgis.12990)
+Albert Acedo, Alberto González-Pérez, Carlos Granell, Sven Casteleyn.
+**Emotive facets of place meet urban analytics**.
+*Transactions in GIS*, 26(7):2954–2974, 2022, ISSN 1361-1682.
+© Wiley | [download](http://www3.uji.es/~canut/eprints/2022-TGIS.pdf) | [Repositori UJI](http://hdl.handle.net/10234/201674)
+
+- [![2022](https://img.shields.io/badge/2022-10.3390/data7080118-brightgreen.svg)](https://doi.org/10.3390/data7080118)
+Marco Minghini, Alexander Kotsev, Carlos Granell.
+**A European Approach to the Establishment of Data Spaces**.
+*Data*, 7(8):118, 2022, ISSN 2306-5729.
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [Repositori UJI](http://hdl.handle.net/10234/202260)
+
+- [![2022](https://img.shields.io/badge/2022-10.3390/ijerph19073769-brightgreen.svg)](https://doi.org/10.3390/ijerph19073769)
+Laura Díaz-Sanahuja, Ignacio Miralles, Carlos Granell, Adriana Mira, Alberto González-Pérez, Sven Casteleyn, Azucena García-Palacios, Juana Bretón-López.
+**Client's Experiences Using a Location-Based Technology ICT System during Gambling Treatments' Crucial Components: A Qualitative Study**.
+*International Journal of Environmental Research and Public Health*, 19(7), 3769, 2022, ISSN 1660-4601.
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [Repositori UJI](http://hdl.handle.net/10234/197747)
+
+- [![2022](https://img.shields.io/badge/2022-10.1109/ACCESS.2022.3150869-brightgreen.svg)](https://doi.org/10.1109/ACCESS.2022.3150869)
+Carlos López-Vázquez, María Ester Gonzalez-Campos, Miguel A. Bernabé-Poveda, Daniela Moctezuma, Esther Hochsztain, María A. Barrera, Carlos Granell-Canut, María F. León-Pazmiño, Pablo López-Ramírez, Villie Morocho-Zurita, Javier Moya-Honduvilla, María T. Manrique-Sancho, Marcela E. Montiveros, Rocío Narváez-Benalcázar, José de Jesús Pérez-Alcázar, Yuri Resnichenko, Diego Seco.
+**Building a Gold Standard Dataset to Identify Articles About Geographic Information Science**.
+*IEEE Access*, 10, 19926-19936, 2022, ISSN 2169-3536.
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [Repositori UJI](http://hdl.handle.net/10234/197635)
+
+- [![2022](https://img.shields.io/badge/2022-10.1016/j.pmcj.2022.101550-brightgreen.svg)](https://doi.org/10.1016/j.pmcj.2022.101550)
+Alberto González-Pérez, Miguel Matey-Sanz, Carlos Granell, Sven Casteleyn.
+**Using Mobile Devices as Scientific Measurements Instruments: Reliable Android Task Scheduling**.
+*Pervasive and Mobile Computing*, 81, 101550, 2022, ISSN 1574-1192.
+[CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [download](https://doi.org/10.1016/j.pmcj.2022.101550) | [Repositori UJI](http://hdl.handle.net/10234/196827)
+
+- [![2021](https://img.shields.io/badge/2021-10.1109/LSENS.2021.3051809-brightgreen.svg)](https://doi.org/10.1109/LSENS.2021.3051809)
+Lucie Klus, Roman Klus, Elena Simona Lohan, Carlos Granell, Jukka Talvitie, Mikko Valkama, Jari Nurmi.
+**Direct Lightweight Temporal Compression for Wearable Sensor Data**.
+*IEEE Sensors Letters*, 5(2), 2021, ISSN 2475-1472.
+[Repositori UJI](http://hdl.handle.net/10234/192551)
+
+- [![2021](https://img.shields.io/badge/2021-10.1111/tgis.12720-brightgreen.svg)](https://doi.org/10.1111/tgis.12720)
+Carlos Granell, Paola Pesántez-Cabrera, Luis Vilches-Blázquez, Rosario Achig, Miguel Luaces, Alenjandro Cortiñas-Álvarez, Carolina Chayle, Villie Morocho-Zurita.
+**A scoping review on the use, processing, and fusion of geographic data in virtual assistants**.
+*Transactions in GIS*, 25(4), 1784-1808, 2021, ISSN 1361-1682.
+© Wiley | [download](http://www3.uji.es/~canut/eprints/2021-TGIS.pdf) | [Repositori UJI](http://hdl.handle.net/10234/192672)
+
+- [![2020](https://img.shields.io/badge/2020-10.35424/rcarto.v0i100.668-lightgray.svg)](https://doi.org/10.35424/rcarto.v0i100.668)
+C. Granell, B. Hofer, D. Nüst, F.O. Ostermann, R. Sileryte.
+**Reproducibilidad en AGILE: Experiencias, logros y recomendaciones**.
+*Revista Cartográfica*, 100, 155-172, 2020, ISSN 0080-2085.
+[CC BY-NC-ND 4.0](https://creativecommons.org/licenses/by-nc-nd/4.0/) | [Repositori UJI](http://hdl.handle.net/10234/188461)
+
+- [![2020](https://img.shields.io/badge/2020-10.2196/14897-brightgreen.svg)](https://doi.org/10.2196/14897)
+Ignacio Miralles, Carlos Granell, Laura Díaz-Sanahuja, William Van Woensel, Juana Bretón-López, Adriana Mira, Diana Castilla, Sven Casteleyn.
+**Smartphone apps for the treatment of mental disorders: a systematic review**.
+*JMIR mHealth and uHealth*, 8(3): e14897, 2020, ISSN 2291-5222.
+[Repositori UJI](http://hdl.handle.net/10234/187951)
+
+- [![2020](https://img.shields.io/badge/2020-10.1371/journal.pone.0228008-brightgreen.svg)](https://doi.org/10.1371/journal.pone.0228008)
+Sergi Trilles, Carlos Granell, Auriol Degbelo, Devanjan Bhattacharya.
+**Interactive guidelines: Public communication of data-based research in cities**.
+*PLoS ONE*, 15(1): e0228008, 2020, ISSN 1932-6203.
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [Repositori UJI](http://hdl.handle.net/10234/187587)
+
+- [![2020](https://img.shields.io/badge/2020-10.1177/1534650119892900-brightgreen.svg)](https://doi.org/10.1177/1534650119892900)
+Ignacio Miralles, Carlos Granell, Azucena García-Palacios, Diana Castilla, Alberto González-Pérez, Sven Casteleyn, Juana Bretón-López.
+**Enhancing In Vivo Exposure in the Treatment of Panic Disorder and Agoraphobia Using Location-Based Technologies: A Case Study**.
+*Clinical Case Studies*, 19(2):145-159, 2020, ISSN 1534-6501.
+
+- [![2019](https://img.shields.io/badge/2019-10.3390/ijerph16071197-brightgreen.svg)](https://doi.org/10.3390/ijerph16071197)
+I. Miralles, C. Granell.
+**Considerations for Designing Context-Aware Mobile Apps for Mental Health Interventions**.
+*International Journal of Environmental Research and Public Health*, 16(7), 1197, 2019, ISSN 1660-4601.
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [Repositori UJI](http://hdl.handle.net/10234/182504)
+
+- [![2019](https://img.shields.io/badge/2019-10.3390/ijgi8020054-brightgreen.svg)](https://doi.org/10.3390/ijgi8020054)
+L.E. Rodríguez-Pupo, C. Granell, S. Casteleyn.
+**An Analytics Platform for Integrating and Computing Spatio-temporal Metrics**.
+*ISPRS International Journal of Geo-Information*, 8(2), 54, 2019, ISSN 2220-9964.
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [Repositori UJI](http://hdl.handle.net/10234/189970)
+
+- [![2019](https://img.shields.io/badge/2019-10.1016/j.uclim.2018.12.010-brightgreen.svg)](https://doi.org/10.1016/j.uclim.2018.12.010)
+M. Smid, S. Russo, A.C. Costa, C. Granell, E. Pebesma.
+**Ranking European Capitals by Exposure to Heat Waves and Cold Waves**.
+*Urban Climate*, 27, 388-402, 2019, ISSN 2212-0955.
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [Repositori UJI](http://hdl.handle.net/10234/189959)
+
+- [![2019](https://img.shields.io/badge/2019-10.1016/j.agsy.2018.05.007-brightgreen.svg)](https://doi.org/10.1016/j.agsy.2018.05.007)
+Valentina Pagani, Tommaso Guarneri, Lorenzo Busetto, Luigi Ranghetti, Mirco Boschetti, Ermes Movedi, Manuel Campos-Taberner, Francisco Javier Garcia-Haro, Dimitrios Katsantonis, Dimitris Stavrakoudis, Elisabetta Ricciardelli, Filomena Romano, Francesco Holecz, Francesco Collivignarelli, Carlos Granell, Sven Casteleyn, Roberto Confalonieri.
+**A high-resolution, integrated system for rice yield forecasting at district level**.
+*Agricultural Systems*, 168, 181-190, 2019, ISSN 0308-521X.
+© Elsevier | [download](http://www3.uji.es/~canut/eprints/2019-AS.pdf) | [Repositori UJI](http://hdl.handle.net/10234/182258)
+
+- [![2018](https://img.shields.io/badge/2018-10.7717/peerj.5072-brightgreen.svg)](https://doi.org/10.7717/peerj.5072)
+Daniel Nüst, Carlos Granell, Barbara Hofer, Markus Konkol, Frank Ostermann, Rusne Sileryte, Valentina Cerutti.
+**Reproducible research and GIScience: an evaluation using AGILE conference papers**.
+*PeerJ*, 6:e5072, 2018, ISSN 2167-8359.
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [Repositori UJI](http://hdl.handle.net/10234/177822)
+
+- M. Portela, A. Acedo, C. Granell-Canut.
+**Looking for "in-between" places**.
+*Media Theory*, 2(1): 108-133, 2018, ISSN 2557-826X.
+[download](http://journalcontent.mediatheoryjournal.org/index.php/mt/article/view/38) | [Repositori UJI](http://hdl.handle.net/10234/176248)
+
+- [![2018](https://img.shields.io/badge/2018-10.1080/17538947.2017.1379154-brightgreen.svg)](https://doi.org/10.1080/17538947.2017.1379154)
+Barbara Hofer, Carlos Granell, Lars Bernard.
+**Innovation in geoprocessing for a Digital Earth**.
+*International Journal of Digital Earth*, 11(1), 3-6, 2018, ISSN 1753-8947.
+© Taylor & Francis | [download](http://www3.uji.es/~canut/eprints/2018-IJDE.pdf) | [Repositori UJI](http://hdl.handle.net/10234/173067)
+
+- [![2017](https://img.shields.io/badge/2017-10.3390/ijgi6100299-brightgreen.svg)](https://doi.org/10.3390/ijgi6100299)
+L.E. Rodríguez-Pupo, S. Casteleyn, C. Granell.
+**On Metrics for Location-aware Games**.
+*ISPRS International Journal of Geo-Information*, 6(10), 299, 2017, ISSN 2220-9964.
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [Repositori UJI](http://hdl.handle.net/10234/170067)
+
+- [![2017](https://img.shields.io/badge/2017-10.3390/ijgi6070191-brightgreen.svg)](https://dx.doi.org/10.3390/ijgi6070191)
+C. Granell, I. Miralles, L.E. Rodríguez-Pupo, A. González-Pérez, S. Casteleyn, L. Busetto, M. Pepe, M. Boschetti, and J. Huerta.
+**A Service-oriented Architecture and Implementation of a Regional Geoportal for Rice Monitoring**.
+*ISPRS International Journal of Geo-Information*, 6(7), 191, 2017, ISSN 2220-9964.
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [Repositori UJI](http://hdl.handle.net/10234/168493)
+
+- [![2017](https://img.shields.io/badge/2017-10.1109/JSTARS.2017.2679159-brightgreen.svg)](https://dx.doi.org/10.1109/JSTARS.2017.2679159)
+L. Busetto, S. Casteleyn, C. Granell, M. Pepe, M. Barbieri, M. Campos-Taberner, R. Casa, F. Collivignarelli, R. Confalonieri, A. Crema, F.J. García-Haro, L. Gatti, I.Z. Gitas, A. González-Pérez, G. Grau-Muedra, T. Guarneri, F. Holecz, D. Katsantonis, C. Minakou, I. Miralles, E. Movedi, F. Nutini, V. Pagani, A. Palombo, F. Di Paola, S. Pascucci, S. Pignatti, A. Rampini, L. Ranghetti, E. Ricciardelli, F. Romano, D.G. Stavrakoudis, D. Stroppiana, M. Viggiano, M. Boschetti.
+**Downstream services for rice crop monitoring in Europe: from regional to local scale**.
+*IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing (JSTARS)*, 10(12), 5423-5441, 2017, ISSN 2151-1535.
+© IEEE | [download](http://www3.uji.es/~canut/eprints/2017-JSTARS.pdf) | [Repositori UJI](http://hdl.handle.net/10234/169280)
+
+- [![2017](https://img.shields.io/badge/2017-10.20897/jisem.201702-lightgray.svg)](https://dx.doi.org/10.20897/jisem.201702)
+R. Kamberov, C. Granell, V. do Santos.
+**Sociology Paradigms for Dynamic Integration of Devices into a Context-Aware System**.
+*Journal of Information Systems Engineering & Management*, 2(1), 2, 2017, ISSN 2468-4376.
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [download](http://lectitopublishing.nl/Article/Detail/6FCP7NHQ) | [Repositori UJI](http://hdl.handle.net/10234/167795)
+
+- [![2017](https://img.shields.io/badge/2017-10.1111/tgis.12195-brightgreen.svg)](https://dx.doi.org/10.1111/tgis.12195)
+F.O. Ostermann, C. Granell.
+**Advancing Science with VGI: Reproducibility and Replicability of Recent Studies using VGI**.
+*Transactions in GIS*, 21(2): 224–237, 2017, ISSN 1361-1682.
+© Wiley | [download](http://www3.uji.es/~canut/eprints/2017-TGIS.pdf) | [Repositori UJI](http://hdl.handle.net/10234/167939)
+
+- S. Trilles, C. Granell, A. Degbelo, D. Bhattacharya.
+**Open City Toolkit: el rol de las ciencias geoespaciales para la realización de ciudades abiertas y participativas**.
+*Mapping: Revista International de Geomática y Ciencias de la Tierra*, 26(181), 42-50, 2017, ISSN 1131-9100.
+[download](http://www.mappinginteractivo.es/images/revistas/REVISTA%20MAPPING%20181/REVISTA%20MAPPING%20181.html)
+
+- [![2016](https://img.shields.io/badge/2016-10.29379/jedem.v8i2.420-lightgray.svg)](https://doi.org/10.29379/jedem.v8i2.420)
+A. Degbelo, S. Trilles, C. Kray, D. Bhattacharya, N. Schiestel, J. Wissing, C. Granell.
+**Designing Semantic APIs for Open Government Data**.
+*eJournal of eDemocracy and Open Government*, 8(2): 21-58, 2016, ISSN 2075-9517.
+[CC BY 3.0](http://creativecommons.org/licenses/by/3.0/) | [download](http://jedem.org/index.php/jedem/article/view/420) | [Repositori UJI](http://hdl.handle.net/10234/165302)
+
+- [![2016](https://img.shields.io/badge/2016-10.1016/j.acalib.2016.04.020-brightgreen.svg)](https://dx.doi.org/10.1016/j.acalib.2016.04.020)
+I. Vardakosta, E. Aguilar-Moreno, C. Granell-Canut, S. Kapidakis.
+**Geoskills amongst academic librarians in Greece, Cyprus and Spain**.
+*The Journal of Academic Librarianship*, 42(5): 485-494, 2016, ISSN 0099-1333.
+© Elsevier | [download](http://www3.uji.es/~canut/eprints/2016-JAL.pdf) | [Repositori UJI](http://hdl.handle.net/10234/164410)
+
+- [![2016](https://img.shields.io/badge/2016-10.3390/ijgi5020016-brightgreen.svg)](https://dx.doi.org/10.3390/ijgi5020016)
+A. Degbelo, C. Granell, S. Trilles, D. Bhattacharya, S. Casteleyn, C. Kray.
+**Opening up Smart Cities: Citizen-centric Challenges and Opportunities from GIScience**.
+*ISPRS International Journal of Geo-Information*, 5:16, 2016, ISSN 2220-9964.
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [Repositori UJI](http://hdl.handle.net/10234/159507)
+
+- [![2016](https://img.shields.io/badge/2016-10.1016/j.compenvurbsys.2016.01.006-brightgreen.svg)](https://dx.doi.org/10.1016/j.compenvurbsys.2016.01.006)
+C. Granell, F.O. Ostermann.
+**Beyond data collection: Objectives and methods of research using VGI and geo-social media for disaster management**.
+*Computers, Environment and Urban Systems*, 59:231–243, 2016, ISSN 0198-9715.
+© Elsevier | [download](http://www3.uji.es/~canut/eprints/2016-CEUS.pdf) | [Repositori UJI](http://hdl.handle.net/10234/162470)
+
+- [![2016](https://img.shields.io/badge/2016-10.1016/j.envsoft.2015.12.015-brightgreen.svg)](https://dx.doi.org/10.1016/j.envsoft.2015.12.015)
+C. Granell, D. Havlik, S. Schade, Z. Sabeur, C. Delaney, J. Pielorz, T. Usländer, P. Mazzetti, K. Schleidt, M. Kobernus, F. Havlik, N.R. Bodsberg, A. Berre, J. Lorenzo Mon.
+**Future Internet technologies for Environmental Applications**.
+*Environmental Modelling and Software*, 78:1-15, 2016, ISSN 1364-8152.
+© Elsevier | [download](http://www3.uji.es/~canut/eprints/2016-EMS.pdf) | [Repositori UJI](http://hdl.handle.net/10234/163376)
+
+- [![2015](https://img.shields.io/badge/2015-10.2902/17250463.2015.10.art6-lightgray.svg)](https://dx.doi.org/10.2902/1725-0463.2015.10.art6)
+B. Hofer, J. Brauner, M. Jackson, C. Granell, A. Rodrigues, D. Nüst, S. Wiemann.
+**Descriptions of Spatial Operations – Recent Approaches and Community Feedback**.
+*International Journal of Spatial Data Infrastructures Research*, 10: 124-137, 2015, ISSN 1725-0463.
+[CC BY-NC-ND 3.0](http://creativecommons.org/licenses/by-nc-nd/3.0/) | [Repositori UJI](http://hdl.handle.net/10234/159019)
+
+- [![2015](https://img.shields.io/badge/2015-10.3389/fenvs.2015.00076-lightgray.svg)](https://dx.doi.org/10.3389/fenvs.2015.00076)
+C. Granell, S. Casteleyn, C. Atzberger (editors).
+**Editorial: Geospatial data capturing, processing, analysis and visualization in Agro-Geoinformatics**.
+*Frontiers in Environmental Science*, 3:76, 2015, ISSN 2296-665X.
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
+
+- C. Granell, C. Moreno (editors).
+**Presentación. Innovación Abierta**.
+*Novática*, num. 233, 7-10, 2015. ATI, ISSN 0211-2124.
+© ATI | [Repositori UJI](http://hdl.handle.net/10234/156365) | [download](http://www.ati.es/novatica/2015/233/Nv233-Presentacion.pdf)
+
+- [![2015](https://img.shields.io/badge/2015-10.3989/redc.2015.2.1193-brightgreen.svg)](https://dx.doi.org/10.3989/redc.2015.2.1193)
+E. Aguilar-Moreno, C. Granell-Canut.
+**Gestión de datos geográficos en bibliotecas universitarias españolas: Estado de la cuestión**.
+*Revista Española de Documentación Científica*, 38(2): e085, 2015, ISSN 1988-4621.
+[CC BY-NC-ND 3.0 ES](http://creativecommons.org/licenses/by-nc-nd/3.0/es/deed.en)
+
+- [![2014](https://img.shields.io/badge/2014-10.1007/s00607.013.0339.8-brightgreen.svg)](https://dx.doi.org/10.1007/s00607-013-0339-8)
+A. Tamayo, C. Granell, L. Díaz, J. Huerta.
+**Personalised code generation from large schema sets for geospatial mobile applications**.
+*Computing*, 96(5): 355-379, 2014, ISSN 0010-485X.
+© Springer Wien | [Repositori UJI](http://hdl.handle.net/10234/132926) | [download](http://www3.uji.es/~canut/eprints/2014-Computing.pdf)
+
+- [![2014](https://img.shields.io/badge/2014-10.1080/17538947.2013.804600-brightgreen.svg)](https://dx.doi.org/10.1080/17538947.2013.804600)
+S. Schade, C. Granell.
+**Shaping Digital Earth Applications through Open Innovation - Setting the Scene for a Digital Earth Living Lab**.
+*International Journal of Digital Earth*, 7(7): 594-612, 2014, ISSN 1753-8947.
+© Taylor & Francis | [Repositori UJI](http://hdl.handle.net/10234/132274) | [download](http://www3.uji.es/~canut/eprints/2014-IJDE.pdf)
+
+- [![2014](https://img.shields.io/badge/2014-10.1016/j.future.2013.04.002-brightgreen.svg)](https://dx.doi.org/10.1016/j.future.2013.04.002)
+C. Granell, O. Belmonte, L. Díaz.
+**Geospatial information infrastructures to address spatial needs in health: collaboration, challenges and opportunities**.
+*Future Generation Computer Systems*, 31: 213-222, 2014, ISSN 0167-739X.
+© Elsevier | [Repositori UJI](http://hdl.handle.net/10234/89109) | [download](http://www3.uji.es/~canut/eprints/2014-FGCS.pdf)
+
+- [![2014](https://img.shields.io/badge/2014-10.1504/IJDMMM.2014.066765-brightgreen.svg)](https://dx.doi.org/10.1504/IJDMMM.2014.066765)
+C. Granell, L. Díaz, A. Tamayo, J. Huerta.
+**Assessment of OGC web processing service for REST principles**.
+*International Journal of Data Mining, Modelling and Management*, 6(4): 391-412, 2014, ISSN 1759-1171.
+© Inderscience | [ArXiv preprint arXiv:1202.0723](http://arxiv.org/abs/1202.0723)
+
+- [![2013](https://img.shields.io/badge/2013-10.3145/epi.2013.nov.10-brightgreen.svg)](https://dx.doi.org/10.3145/epi.2013.nov.10)
+C. Granell-Canut, E. Aguilar-Moreno.
+**Se busca geobibliotecario: los datos geográficos entran en la biblioteca**.
+*Profesional de la Información*, 22(6): 569-575, 2013, ISSN 1386-6710.
+© [EPI](http://www.elprofesionaldelainformacion.com) | [Repositori UJI](http://hdl.handle.net/10234/166512) | [e-LIS repository](http://eprints.rclis.org/20722/)
+
+- [![2013](https://img.shields.io/badge/2013-10.1016/j.compenvurbsys.2013.06.001-brightgreen.svg)](https://dx.doi.org/10.1016/j.compenvurbsys.2013.06.001)
+C. Granell, S. Schade, N. Ostländer.
+**Seeing the forest through the trees: A review of integrated environmental modelling tools**.
+*Computers, Environment and Urban Systems*, 41: 136-150, 2013, ISSN 0198-9715.
+© Elsevier | [download](http://www3.uji.es/~canut/eprints/2013-CEUS.pdf)
+
+- O. Belmonte Fernández, C. Granell Canut.
+**La importancia de la labor del programador. ¿Qué se espera? ¿Cómo se prepara? Análisis desde los lenguajes de programación**.
+*Novática*, 223: 70-78, 2013, ISSN 0211-2124.
+© ATI | [download](http://www.ati.es/novatica/2013/223/Nv223-70.pdf)
+
+- O. Belmonte Fernández, C. Granell Canut.
+**Presentación. Lenguajes de programación en perspectiva**.
+*Novática*, 222: 4-6, 2013, ISSN 0211-2124.
+© ATI | [download](http://www.ati.es/novatica/2013/222/Nv222-Presentacion.pdf)
+
+- [![2013](https://img.shields.io/badge/2013-10.1016/j.envsoft.2012.04.013-brightgreen.svg)](https://dx.doi.org/10.1016/j.envsoft.2012.04.013)
+C. Granell, L. Díaz, S. Schade, N. Ostländer, J. Huerta.
+**Enhancing Integrated Environmental Modelling by Designing Resource-Oriented Interfaces**.
+*Environmental Modelling & Software*, 39: 229-246, 2013, ISSN 1364-8152.
+© Elsevier | [download](http://www3.uji.es/~canut/eprints/2013-EMS.pdf)
+
+- [![2013](https://img.shields.io/badge/2013-10.3145/epi.2013.ene.11-brightgreen.svg)](https://dx.doi.org/10.3145/epi.2013.ene.11)
+E. Aguilar-Moreno, C. Granell-Canut.
+**Sistemas de información geográfica para unidades de información**.
+*Profesional de la Información*, 22(1):80-86, 2013, ISSN 1386-6710.
+© [EPI](http://www.elprofesionaldelainformacion.com) | [e-LIS repository](http://eprints.rclis.org/18667/)
+
+- [![2013](https://img.shields.io/badge/2013-10.1007/s11042.012.1025.0-brightgreen.svg)](https://dx.doi.org/10.1007/s11042-012-1025-0)
+A. Beltran, C. Abargues, C. Granell, M. Nuñez, L. Díaz, J. Huerta.
+**A virtual globe tool for searching and visualizing geo-referenced media resources in social networks**.
+*Multimedia Tools & Applications*, 64(1): 171-195, 2013, ISSN 1380-7501.
+© Springer | [download](http://www3.uji.es/~canut/eprints/2013-MTAP.pdf)
+
+- [![2012](https://img.shields.io/badge/2012-10.1016/j.apgeog.2012.09.008-brightgreen.svg)](https://dx.doi.org/10.1016/j.apgeog.2012.09.008)
+L. Díaz, C. Granell, J. Huerta, M. Gould.
+**Web 2.0 Broker: A standards-based service for spatio-temporal search of crowd-sourced information**.
+*Applied Geography*, 35(1-2): 448-459, 2012, ISSN 0143-6228.
+© Elsevier | [Repositori UJI](http://hdl.handle.net/10234/64272) | [download](http://www3.uji.es/~canut/eprints/2012-AG.pdf)
+
+- [![2012](https://img.shields.io/badge/2012-10.3390/s120912026-brightgreen.svg)](https://dx.doi.org/10.3390/s120912026)
+A. Tamayo, C. Granell, J. Huerta.
+**Using SWE Standards for Ubiquitous Environmental Sensing: A Performance Analysis**.
+*Sensors*, 12(9): 12026-12051, 2012, ISSN 1424-8220.
+[CC BY 3.0](http://creativecommons.org/licenses/by/3.0/) | [Repositori UJI](http://hdl.handle.net/10234/62253)
+
+- [![2012](https://img.shields.io/badge/2012-10.1007/s11119.012.9267.4-brightgreen.svg)](https://dx.doi.org/10.1007/s11119-012-9267-4)
+P. Aragó, C. Granell, P. Guilherme, J. Huerta.
+**Participative site-specific agriculture analysis for smallholders**.
+*Precision Agriculture*, 13(5): 594-610, 2012, ISSN 1385-2256.
+© Springer | [Repositori UJI](http://hdl.handle.net/10234/66255)
+
+- [![2012](https://img.shields.io/badge/2012-10.1080/13658816.2011.626602-brightgreen.svg)](https://dx.doi.org/10.1080/13658816.2011.626602)
+A. Tamayo, C. Granell, J. Huerta.
+**Measuring Complexity in OGC Web Services XML Schemas: Pragmatic Use and Solutions**.
+*International Journal of Geographical Information Science*, 26(6): 1109-1130, 2012, ISSN 1365-8816.
+© Taylor & Francis | [Repositori UJI](http://hdl.handle.net/10234/62168)
+
+- [![2012](https://img.shields.io/badge/2012-10.4018/jagr.2012040102-brightgreen.svg)](https://dx.doi.org/10.4018/jagr.2012040102)
+J. Gil, L. Díaz, C. Granell, J. Huerta.
+**Open Source Based Deployment of Environmental Data into Geospatial Information Infrastructures**.
+*International Journal of Applied Geospatial Research*, 3(2):6-23, 2012, ISSN 1947-9654.
+© IGI Global | [Repositori UJI](http://hdl.handle.net/10234/65153)
+
+- P. Aragó, C. Granell, J. Huerta, L. Díaz.
+**Evaluación del uso y necesidades de información geoespacial de los profesionales en prevención y extinción de incendios forestales**.
+*GeoFocus (Informes y comentarios)*, 12, 1-13, 2012, ISSN 1578-5157.
+[CC BY-NC-ND 4.0](http://creativecommons.org/licenses/by-nc-nd/4.0/) | [download](http://www.geofocus.org/index.php/geofocus/article/view/251)
+
+- [![2011](https://img.shields.io/badge/2011-10.1186/1476.072X.10.62-brightgreen.svg)](https://dx.doi.org/10.1186/1476-072X-10-62)
+P. Dominkovics, C. Granell, A. Pérez-Navarro, M. Casals, A. Orcau, J.A. Caylà.
+**Development of spatial density maps based on geoprocessing web services: application to tuberculosis incidence in Barcelona, Spain**.
+*International Journal of Health Geographics*, 10:62, 2011, ISSN 1476-072X.
+[CC BY 2.0](http://creativecommons.org/licenses/by/2.0/) | [Repositori UJI](http://hdl.handle.net/10234/38200)
+
+- [![2011](https://img.shields.io/badge/2011-10234/167213-brightgreen.svg)](http://hdl.handle.net/10234/167213)
+P. Dominkovics Coll, A. Pérez-Navarro, C. Granell.
+**Geolocalización en TB: producción de mapas de distribución espacial en TB en Barcelona**.
+*Enfermedades Emergentes*, 13(3-4): 118-120, 2011, ISSN 1575-4723.
+© Nexus Medica Editores | [download](http://www3.uji.es/~canut/eprints/2011-EnfEmerg.pdf) | [Repositori UJI](http://hdl.handle.net/10234/167213)
+
+- [![2011](https://img.shields.io/badge/2011-10.1016/j.future.2010.09.002-brightgreen.svg)](https://dx.doi.org/10.1016/j.future.2010.09.002)
+L. Díaz, C. Granell, M. Gould, J. Huerta.
+**Managing user generated information in geospatial cyberinfrastructures**.
+*Future Generation Computer Systems*, 27(3): 304-314, 2011, ISSN 0167-739X.
+© Elsevier | [download](http://www3.uji.es/~canut/eprints/2011-FGCS.pdf)
+
+- C. Granell, R. Lemmens.
+**Service Chaining in GEOSS (guest editorial preface)**. Special issue on "Trends in Service Chaining for GEOSS Themes".
+*International Journal of Applied Geospatial Research*, 2(1): ii-iii, 2011, ISSN 1947-9654.
+© IGI Global | [IJAGR special issue](http://www.igi-global.com/journal/international-journal-applied-geospatial-research/1138) | [download](http://www.igi-global.com/Files/Ancillary/1947-9654_2_1_Preface2.pdf)
+
+- [![2010](https://img.shields.io/badge/2010-10.1016/j.cities.2009.11.008-brightgreen.svg)](https://dx.doi.org/10.1016/j.cities.2009.11.008)
+G. Bugs, C. Granell, O. Fonts, J. Huerta, M. Painho.
+**An assessment of Public Participation GIS and Web 2.0 technologies in urban planning practice in Canela, Brazil**.
+*Cities: The International Journal of Urban Policy and Planning*, 27(3): 172-181, 2010, ISSN 0264-2751.
+© Elsevier | [download](http://www3.uji.es/~canut/eprints/2010-Cities.pdf)
+
+- [![2010](https://img.shields.io/badge/2010-10.1016/j.envsoft.2009.08.005-brightgreen.svg)](https://dx.doi.org/10.1016/j.envsoft.2009.08.005)
+C. Granell, L. Díaz, M. Gould.
+**Service-oriented applications for environmental models: reusable geospatial services**.
+*Environmental Modelling and Software*, 25(2): 182-198, 2010, ISSN 1364-8152.
+© Elsevier | [download](http://www3.uji.es/~canut/eprints/2010-EMS.pdf)
+
+- C. Abargues, C. Granell, L. Díaz, J. Huerta.
+**Aggregating Geoprocessing Services using the OAI-ORE Data Model**.
+*International Journal On Advances in Intelligent Systems*, 3(3&4): 200-210, 2010, ISSN 1942-2679.
+© IARIA | [download](http://www.thinkmind.org/index.php?view=article&articleid=intsys_v3_n34_2010_4)
+
+- [![2009](https://img.shields.io/badge/2009-10.1111/j.1467–9671.2009.01160.x-brightgreen.svg)](https://dx.doi.org/10.1111/j.1467-9671.2009.01160.x)
+A. Tamayo, J. Huerta, C. Granell, L. Díaz, R. Quirós.
+**gvSOS: A new client for OGC Sensor Observation Service interface standard**.
+*Transactions in GIS*, 13(s1): 46-61, 2009, ISSN 1361-1682.
+© Willey-Blackwell | [Repositori UJI](http://hdl.handle.net/10234/25746)
+
+- L. Díaz, C. Granell, J. Huerta, W. Simonazzi.
+**Global Earth Observation Initiatives: European Contributions to GEOSS**.
+*Upgrade: European Journal for the Informatics Professional*, X(2): 29-36, 2009, ISSN 1684-5285.
+© CEPIS | [download](http://www.cepis.org/upgrade/files/issue%20II-2009-diazsanchez.pdf)
+
+- L. Díaz, C. Granell, J. Huerta, W. Simonazzi.
+**Iniciativas globales para la Observación de la Tierra: Contribuciones europeas a GEOSS**.
+*Novática*, 198: 28-33, 2009, ISSN 0211-2124.
+© ATI | [Repositori UJI](http://hdl.handle.net/10234/22716)
+
+- [![2007](https://img.shields.io/badge/2009-10.1111/j.1467–9671.2007.01079.x-brightgreen.svg)](https://dx.doi.org/10.1111/j.1467-9671.2007.01079.x)
+R. Lemmens, A. Wytzisk, R. de By, C. Granell, M. Gould, P. van Oosterom.
+**Enhancing Geo-Service Chaining through Deep Service Descriptions**.
+*Transactions in GIS*, 11(6): 849-871, 2007, ISSN 1361-1682.
+© Blackwell Publishing | [download](http://www3.uji.es/~canut/eprints/2007-TGIS.pdf)
+
+- [![2006](https://img.shields.io/badge/2006-10.1109/MIC.2006.106-brightgreen.svg)](https://dx.doi.org/10.1109/MIC.2006.106)
+R. Lemmens, A. Wytzisk, R. de By, C. Granell, M. Gould, P. van Oosterom.
+**Integrating Semantic and Syntactic Descriptions to Chain Geographic Services**.
+*IEEE Internet Computing*, 10(5): 42-52, Sep/Oct 2006, ISSN 1089-7801.
+© IEEE Computer Soc. | [download](http://www3.uji.es/~canut/eprints/2006-IEEE-IC.pdf)
+
+- C. Granell, J. Poveda, M. Gould.
+**An Incremental Approach to Web Service Composition**.
+*Colombian Journal of Computation*, 5(1): 22-34, June 2004, ISSN 1657-2831.
+[download](https://revistas.unab.edu.co/index.php/rcc/article/view/1079)
