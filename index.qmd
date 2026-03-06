@@ -13,22 +13,36 @@ about:
           url: https://www.webofscience.com/wos/author/record/A-4374-2008
         - text: "{{< fa brands github >}} GitHub"
           url: https://github.com/cgranell
-        - text: "OSF"
+        - text: "{{< fa brands osf >}} OSF"
           url: https://osf.io/6xkmu/
 image: images/picture20150818.jpg
+comments: false
 ---
 
 ## Bio
 
-Carlos Granell is associate professor at UJI. He previously held a 5-year Ramón y Cajal post-doctoral fellowship, worked for 3 years as a postdoc in the Digital Earth and Reference Data Unit of the European Commission’s Joint Research Centre (Italy), and was a post- and pre-doctoral researcher during the period 2003-2010 at the Universitat Jaume I of Castellón, from which he holds a Ph.D. (2006). His research interests lie in multi-disciplinary GIS,  spatial analysis & visualization applied to mental health and mobility, and reproducibility research practice in GIScience. Carlos is also member of the <a href="https://agile-gi.eu/">AGILE</a> Council. 
+I am a GIScience researcher specializing in geospatial technologies, spatial analysis and visualization, and reproducibility practices in GIScience. I was a [Ramón y Cajal postdoctoral fellow]((https://en.wikipedia.org/wiki/Ram%C3%B3n_y_Cajal_(scholarship))) (2015–2020), a postdoctoral researcher in the then‑called Digital Earth and Reference Data Unit of the [European Commission’s Joint Research Centre](https://joint-research-centre.ec.europa.eu/about-us/jrc-sites-across-europe/jrc-ispra-italy_en) in Italy, Italy (2011–2014), and both a predoctoral and postdoctoral researcher at the Universitat Jaume I of Castellón (2003-2010), where I earned my Ph.D. (2006). I was appointed Associate Professor at UJI in 2021.
+
+I am a member of the [AGILE Council](https://agile-gi.eu/) (2018-), an active team meber of the [Reproducible AGILE initiative](https://reproducible-agile.github.io/) (2017-), a member of the [ACM](https://www.acm.org/) (2014-), and a member of [Geospatial Technologies research group](https://geotec.uji.es/) at UJI. I have been co-coordinating the group since November 2022. At GEOTEC, we leverage computing and geospatial technologies to address everyday problems from a multidisciplinary perspective, applying diverse theoretical approaches and practical methods to social and environmental issues such as mobility, transport, aging population, environmental health, and education. 
+
+You can find a [list of my publications here](papers). 
 
 ## Key research interests
 
+- **GIScience**: geospatial data science, geosptial data management, GeoAI, spatial analysis & visualisation, geospatial data fusion.
+
+- **Urban computing**: the use of computing and geospatial technologies to address urban problems, such as mobility, transport, aging population, environmental health, and education.
+
+- **Open science and reproducibility practices in GIScience**: Reuse, reproducibility, replicability, transparency, openness, integrity, ethics -- all in the context of computational research on geospatial data. 
 
 ## Teaching
 
+I am a lecturer on spatial data science and thesis supervisor for the [Master of Science in Geospatial Technologies](https://mastergeotech.info/) at UJI, and lecturer in software design for the [Bachelor of Science in Computer Engineering](https://www.uji.es/estudis/base/2026/graus/informatica-p26/) at UJI.
+
+From time to time I give talks and lectures on reproducibility research practices - you can read more about this [here](teaching).
 
 ## Selected papers
+
 
 
 ## Professional affiliations

@@ -4,7 +4,20 @@ project:
 website:
   title: "Carlos Granell"
   description: "Carlos Granell is a GIScience researcher and open science and reproducibility advocate"
+  site-url: "https://cgranell.github.io/"
+  repo-url: "https://github.com/cgranell/cgranell.github.io"
+  reader-mode: true
+
+  page-footer:
+    left: "[cgranell.github.io](https://cgranell.github.io/)"
+    right:
+    - text: "License"
+      href: LICENSE
+
   navbar:
+    logo: images/marca-uji-negre.jpg
+    logo-alt: "Universitat Jaume I"
+    
     left:
       - href: index.qmd
         text: Home
@@ -16,7 +29,7 @@ website:
         text: Outreach
       - href: extras
         text: Extras
-
+  
 format:
   html:
     theme:
