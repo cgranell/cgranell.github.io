@@ -3,9 +3,6 @@ title: "Carlos Granell"
 about:
     template: trestles
     links:
-        - icon: github
-          text: Github
-          url: https://github.com/cgranell
         - text: "{{< fa at >}} Email"
           url: mailto:carlos.granell@uji.es
         - text: "{{< fa brands orcid >}} ORCID 0000-0003-1004-9695"
@@ -14,6 +11,8 @@ about:
           url: https://scholar.google.com/citations?user=K9jGzhQAAAAJ
         - text: "RID A-A-4374-2008"
           url: https://www.webofscience.com/wos/author/record/A-4374-2008
+        - text: "{{< fa brands github >}} GitHub"
+          url: https://github.com/cgranell
         - text: "OSF"
           url: https://osf.io/6xkmu/
 image: images/picture20150818.jpg
