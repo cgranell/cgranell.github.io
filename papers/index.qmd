@@ -518,135 +518,283 @@ R. Lemmens, A. Wytzisk, R. de By, C. Granell, M. Gould, P. van Oosterom.
 **Affective technology for enchanting spaces and cultivating places**.
 In: A. Aurigi, N. Odendaal (Eds.) *Designing Smart for Better Cities: Re-thinking and Shaping Relationships between Urban Space and Digital Technologies*, 1st Edition.
 Amsterdam, The Netherlands: Academic Press (Elsevier). 2021, pp. 157-176, ISBN 978-0-12-818636-7.
-© Elsevier &nbsp;[[abstract]](https://doi.org/10.1016/B978-0-12-818636-7.00011-1) [[publisher]](https://www.elsevier.com/books/designing-smart-for-better-cities/aurigi/978-0-12-818636-7)
+© Elsevier [[abstract]](https://doi.org/10.1016/B978-0-12-818636-7.00011-1) [[publisher]](https://www.elsevier.com/books/designing-smart-for-better-cities/aurigi/978-0-12-818636-7)
 
 - S. Schade, C. Granell, G. Vancauwenberghe, C. Kessler, D. Vandenbroucke, I. Masser, M. Gould.
 **Geospatial Information Infrastructures**.
 In: H. Guo, M.F. Goodchild, A. Annoni (Eds). *Manual of Digital Earth*. Springer Singapore, 2020, pp. 161-190, ISBN 978-981-329-915-3.
-[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) &nbsp;[[download]](https://doi.org/10.1007/978-981-32-9915-3_5) [[Repositori UJI]](http://hdl.handle.net/10234/187662)
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) [[download]](https://doi.org/10.1007/978-981-32-9915-3_5) [[Repositori UJI]](http://hdl.handle.net/10234/187662)
 
 - C. Granell, A. Kamilaris, A. Kotsev, F. O. Ostermann, S. Trilles.
 **Internet of Things**.
 In: H. Guo, M.F. Goodchild, A. Annoni (Eds). *Manual of Digital Earth*. Springer Singapore, 2020, pp. 387-423, ISBN 978-981-329-915-3.
-[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) &nbsp;[[download]](https://doi.org/10.1007/978-981-32-9915-3_11)
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) [[download]](https://doi.org/10.1007/978-981-32-9915-3_11)
 
 - A. Degbelo, C. Granell, S. Trilles, D. Bhattacharya, J. Wissing.
 **Tell Me How My Open Data is Re-used: increasing transparency through the Open City Toolkit**.
 In: S. Hawken, H. Han, C. Pettit (Eds). *Open Cities | Open Data: Collaborative Cities in the Information Era*. Palgrave Macmillan, 2020, pp. 311-330, ISBN 978-981-13-6604-8.
-© Palgrave Macmillan &nbsp;[[abstract]](https://doi.org/10.1007/978-981-13-6605-5_14)
+© Palgrave Macmillan [[abstract]](https://doi.org/10.1007/978-981-13-6605-5_14)
 
 - C. Granell-Canut, E. Aguilar-Moreno.
 **Geospatial Influence in Science mapping**.
 In: M. Khosrow-Pour (Ed). *Encyclopedia of Information Science and Technology, 4th Edition*.
 Hershey: Information Science Reference (IGI Global), 2018, pp. 3473-3483, ISBN 978-1-5225-2255-3.
-© IGI Global &nbsp;[[publisher]](http://www.igi-global.com/book/encyclopedia-information-science-technology-fourth/173015) [[abstract]](https://www.igi-global.com/chapter/geospatial-influence-in-science-mapping/184058)
+© IGI Global [[publisher]](http://www.igi-global.com/book/encyclopedia-information-science-technology-fourth/173015) [[abstract]](https://www.igi-global.com/chapter/geospatial-influence-in-science-mapping/184058)
 
 - S. Schade, C. Granell, A. Perego.
 **Coupling Public Sector Information and Public-Funded Research Data: A Vision of an Open Data Ecosystem**.
 In: C.G. Reddick, L. Anthopoulos (Eds). *Information and Communication Technologies in Public Administration: Innovations from Developed Countries*.
 Boca Raton: CRC Press (Taylor & Francis Group), 2015, pp. 275-298, ISBN 978-1-4822-3929-4.
-© CRC Press &nbsp;[[publisher]](http://www.crcpress.com/product/isbn/9781482239294) [[abstract]](http://www.crcnetbase.com/doi/10.1201/b18321-16)
+© CRC Press [[publisher]](http://www.crcpress.com/product/isbn/9781482239294) [[abstract]](http://www.crcnetbase.com/doi/10.1201/b18321-16)
 
 - C. Granell.
 **Robust Workflow Systems + Flexible Geoprocessing Services = Geo-enabled Model Web?**
 In: E. Pourabbas (Ed). *Geographical Information Systems: Trends and Technologies*.
 Boca Raton: CRC Press (Taylor & Francis Group), 2014, pp. 172-204, ISBN 978-1-4665-9693-1.
-© CRC Press &nbsp;[[publisher]](http://www.crcpress.com/product/isbn/9781466596931) [[abstract]](http://www.crcnetbase.com/doi/abs/10.1201/b16871-8)
+© CRC Press [[publisher]](http://www.crcpress.com/product/isbn/9781466596931) [[abstract]](http://www.crcnetbase.com/doi/abs/10.1201/b16871-8)
 
 - C. Granell, S. Schade.
 **Environmental Informatics for Sustainable Development**.
 In: M. Khosrow-Pour (Ed). *Encyclopedia of Information Science and Technology, 3rd Edition*.
 Hershey: Information Science Reference (IGI Global), 2014, vol. IV, pp. 2942-2954, ISBN 978-1-4666-5888-2.
-© IGI Global &nbsp;[[publisher]](http://dx.doi.org/10.4018/978-1-4666-5888-2.ch287)
+© IGI Global [[publisher]](http://dx.doi.org/10.4018/978-1-4666-5888-2.ch287)
 
 - J. Gil, L. Díaz, C. Granell, J. Huerta.
 **Open Source Based Deployment of Environmental Data into Geospatial Information Infrastructures**.
 In: *Geographic Information Systems: Concepts, Methodologies, Tools, and Applications*.
 Hershey: Information Science Reference (IGI Global), 2013, pp. 952-969, ISBN 978-1-4666-2038-4.
-© IGI Global &nbsp;[[abstract]](http://www.igi-global.com/chapter/open-source-based-deployment-environmental/70487)
+© IGI Global [[abstract]](http://www.igi-global.com/chapter/open-source-based-deployment-environmental/70487)
 Note: Reprint of [2012 IJAGR paper](#journal:gil:12a)
 
 - M. Santoro, P. Mazzetti, S. Nativi, C. Fugazza, C. Granell, L. Díaz.
 **Methodologies for augmented discovery of geospatial resources**.
 In: *Geographic Information Systems: Concepts, Methodologies, Tools, and Applications*.
 Hershey: Information Science Reference (IGI Global), 2013, pp. 305-335, ISBN 978-1-4666-2038-4.
-© IGI Global &nbsp;[[abstract]](http://www.igi-global.com/chapter/methodologies-augmented-discovery-geospatial-resources/70448)
+© IGI Global [[abstract]](http://www.igi-global.com/chapter/methodologies-augmented-discovery-geospatial-resources/70448)
 Note: Reprint of [2012 IGI Book chapter](#chapter:santoro:12a)
 
 - M.A. Manso-Callejo, C. Granell.
 **CSW y WMS: Localizar y visualizar mapas e imágenes**.
 In: Miguel-Angel Bernabé-Poveda, Carlos-Manuel López-Vázquez (Eds). *Fundamentos de las Infraestructuras de Datos Espaciales*.
 Madrid: UPM Press, 2012, pp. 345-355, ISBN 978-84-939196-6-5.
-© UPM Press &nbsp;[[abstract]](http://blog-idee.blogspot.it/2012/07/nuevo-libro-fundamentos-de-las.html)
+© UPM Press [[abstract]](http://blog-idee.blogspot.it/2012/07/nuevo-libro-fundamentos-de-las.html)
 
 - L. Díaz, C. Granell.
 **Introducción a las Arquitecturas Orientadas a Servicios en el contexto de IDE**.
 In: Miguel-Angel Bernabé-Poveda, Carlos-Manuel López-Vázquez (Eds). *Fundamentos de las Infraestructuras de Datos Espaciales*.
 Madrid: UPM Press, 2012, pp. 299-308, ISBN 987-84-939196-6-5.
-© UPM Press &nbsp;[[abstract]](http://blog-idee.blogspot.it/2012/07/nuevo-libro-fundamentos-de-las.html)
+© UPM Press [[abstract]](http://blog-idee.blogspot.it/2012/07/nuevo-libro-fundamentos-de-las.html)
 
 - M. Santoro, P. Mazzetti, S. Nativi, C. Fugazza, C. Granell, L. Díaz.
 **Methodologies for augmented discovery of geospatial resources**.
 In: L. Díaz, C. Granell, J. Huerta (Eds). *Discovery of Geospatial Resources: Methodologies, Technologies, and Emergent Applications*.
 Hershey: Information Science Reference (IGI Global), April 2012, pp. 172-203, ISBN 978-1-4666-0947-1.
-© IGI Global &nbsp;[[abstract]](http://www.igi-global.com/book/discovery-geospatial-resources/60764)
+© IGI Global [[abstract]](http://www.igi-global.com/book/discovery-geospatial-resources/60764)
 
 - A. Tamayo, C. Granell, L. Díaz, M. Gould, J. Huerta.
 **Client-Side Processing for Sensor Web**.
 In: P. Alencar, D. Cowan (Eds). *Handbook of Research on Mobile Software Engineering: Design, Implementation, and Emergent Applications*.
 Hershey: Engineering Science Reference (IGI Global), Volume I, 2012, pp. 789-808, ISBN 978-1-4666-1612-7.
-© IGI Global &nbsp;[[abstract]](http://www.igi-global.com/book/handbook-research-mobile-software-engineering/61640)
+© IGI Global [[abstract]](http://www.igi-global.com/book/handbook-research-mobile-software-engineering/61640)
 
 - K. Stock, G. Hobona, C. Granell, M. Jackson.
 **Ontology-Based Geospatial Approaches for Semantic Awareness in Earth Observation Systems**.
 In: N. Ashish, A. Sheth (Eds). *Geospatial Semantics and the Semantic Web: Foundations, Algorithms, and Applications*.
 New York: Springer (Semantic Web and Beyond: Computing for Human Experience, Book Series), 2011, pp. 97-118, ISBN 978-1-4419-9445-5.
-© Springer-Verlag &nbsp;[[abstract]](http://www.springerlink.com/content/978-1-4419-9445-5)
+© Springer-Verlag [[abstract]](http://www.springerlink.com/content/978-1-4419-9445-5)
 
 - C. Granell, S. Schade, G. Hobona.
 **Linked Data: Connecting Spatial Data Infrastructures and Volunteered Geographic Information**.
 In: P. Zhao, L. Di (Eds). *Geospatial Web Services: Advances in Information Interoperability*.
 Hershey: Information Science Reference (IGI Global), 2011, pp. 189-226, ISBN 978-1-60960-192-8.
-© IGI Global &nbsp;[[abstract]](http://www.igi-global.com/chapter/linked-data-connecting-spatial-data/51488) [[download]](http://www3.uji.es/~canut/eprints/2011-BookChapter-GWS-SDI-LD.pdf)
+© IGI Global [[abstract]](http://www.igi-global.com/chapter/linked-data-connecting-spatial-data/51488) [[download]](http://www3.uji.es/~canut/eprints/2011-BookChapter-GWS-SDI-LD.pdf)
 
 - A. Beltran, L. Díaz, C. Granell, J. Huerta, C. Abargues.
 **Description and publication of geospatial information**.
 In: P.-G. Peter Ho (Ed). *Geoscience and Remote Sensing*.
 Vukovar: In-Tech, 2009, pp. 133-152, ISBN 978-953-307-003-2. doi: 10.5772/8285.
-© In-Tech &nbsp;[[download]](http://www.intechopen.com/books/geoscience-and-remote-sensing/description-and-publication-of-geospatial-information)
+© In-Tech [[download]](http://www.intechopen.com/books/geoscience-and-remote-sensing/description-and-publication-of-geospatial-information)
 
 - C. Abargues, C. Granell, L. Díaz, J. Huerta, A. Beltran.
 **Discovery of user-generated geographic data using web search engines**.
 In: G. Jedlovec (Ed). *Advances in Geoscience and Remote Sensing*.
 Vukovar: In-Tech, 2009, pp. 207-228, ISBN 978-953-307-005-6. doi: 10.5772/8331.
-© In-Tech &nbsp;[[download]](http://www.intechopen.com/books/advances-in-geoscience-and-remote-sensing/discovery-of-user-generated-geographic-data-using-web-search-engines)
+© In-Tech [[download]](http://www.intechopen.com/books/advances-in-geoscience-and-remote-sensing/discovery-of-user-generated-geographic-data-using-web-search-engines)
 
 - L. Díaz, C. Granell, M. Gould.
 **Spatial Data Integration over the Web**.
 In: V. E. Ferraggine, J.H. Doorn, L.C. Rivero (Eds). *Handbook of Research on Innovations in Database Technologies and Applications: Current and Future Trends*.
 Hershey: Information Science Reference (IGI Global), 2009, Volume II, pp. 325-333, ISBN 978-1-60566-242.
-© IGI Global &nbsp;[[download]](http://www3.uji.es/~canut/eprints/2009-BookChapter-IDTA.pdf)
+© IGI Global [[download]](http://www3.uji.es/~canut/eprints/2009-BookChapter-IDTA.pdf)
 
 - C. Granell, M. Gould, M.A. Esbrí.
 **Geospatial Web Service Chaining**.
 In: Hassan A. Karimi (Ed). *Handbook of Research on Geoinformatics*.
 Hershey: Information Science Reference (IGI Global), 2008, pp. 189-195, ISBN 978-1-59140-995-3.
-© IGI Global &nbsp;[[download]](http://www3.uji.es/~canut/eprints/2008-BookChapter-Geoinformatics-Chainning.pdf)
+© IGI Global [[download]](http://www3.uji.es/~canut/eprints/2008-BookChapter-Geoinformatics-Chainning.pdf)
 
 - C. Granell, M. Gould, M.A. Manso, M.A. Bernabé.
 **Spatial Data Infrastructures**.
 In: Hassan A. Karimi (Ed). *Handbook of Research on Geoinformatics*.
 Hershey: Information Science Reference (IGI Global), 2008, pp. 36-41, ISBN 978-1-59140-995-3.
-© IGI Global &nbsp;[[download]](http://www3.uji.es/~canut/eprints/2008-BookChapter-Geoinformatics-SDI.pdf)
+© IGI Global [[download]](http://www3.uji.es/~canut/eprints/2008-BookChapter-Geoinformatics-SDI.pdf)
 
 - L. Díaz, C. Granell, M. Gould.
 **Case Study: Geospatial Processing Services for Web-based Hydrological Applications**.
 In: J.T. Sample, K. Shaw, S. Tu, M. Abdelguerfi (Eds). *Geospatial Services and Applications for the Internet*.
 New York: Springer Science+Business Media, 2008, pp. 31-47, ISBN 978-0-387-74673-9. doi: [10.1007/978-0-387-74674-6_2](http://dx.doi.org/10.1007/978-0-387-74674-6_2).
-© Springer-Verlag &nbsp;[[download]](http://www.geoinfo.uji.es/pubs/2008-BookChapter_submitted.pdf)
+© Springer-Verlag [[download]](http://www.geoinfo.uji.es/pubs/2008-BookChapter_submitted.pdf)
 
 - C. Granell, L. Díaz, M. Gould.
 **Distributed Geospatial Processing Services**.
 In: M. Khosrow-Pour (Ed). *Encyclopedia of Information Science and Technology, Second Edition*.
 Hershey: Information Science Reference (IGI Global), 2008, pp. 1186-1193, ISBN 978-1-60566-026-4.
-© IGI Global &nbsp;[[download]](http://www3.uji.es/~canut/eprints/2008-BookChapter-IST.pdf)
+© IGI Global [[download]](http://www3.uji.es/~canut/eprints/2008-BookChapter-IST.pdf)
+
+### Intl. conference and workshop publications
+
+- Àngel Ruiz-Fas, Carlos Granell, José Francisco Ramos, Joaquín Huerta, Sergio Trilles. **A zone-based training approach for last-mile routing using Graph Neural Networks and Pointer Networks**. *[SMF26 – Sustainable Mobility Forum 2026](https://smf.unican.es/)*. Postprint on ArXiv, [10.48550/arXiv.2601.04705](https://doi.org/10.48550/arXiv.2601.04705)
+
+- Upeksha Indeewari Edirisooriya Kirihami Vidanelage, Mark van Vliet, Sven Casteleyn, Carlos Granell, Stanislav Ronzhin, Rob Lemmens. **Knowledge extraction and footprint generation using the GeoSpace Body of Knowledge**. *AGILE GIScience Series*, vol. 6, 48, 2025. doi: [10.5194/agile-giss-6-48-2025](https://doi.org/10.5194/agile-giss-6-48-2025). (Proceedings of the 28th AGILE Conference on Geographic Information Science 2025, Dresden, Germany, June 2025).
+
+- Miguel Matey-Sanz, Joaquín Torres-Sospedra, Alberto González-Pérez, Sven Casteleyn, Carlos Granell. **Analysis and Impact of Training Set Size in Cross-Subject Human Activity Recognition**. In: Vasconcelos, V., Domingues, I., Paredes, S. (eds). *Progress in Pattern Recognition, Image Analysis, Computer Vision, and Applications*. Lecture Notes in Computer Science, vol 14469, pp. 391–405. Springer, Cham. doi: [10.1007/978-3-031-49018-7_28](https://doi.org/10.1007/978-3-031-49018-7_28). 26th Iberoamerican Congress, [CIARP 2023](https://ciarp2023.isec.pt/), Coimbra, Portugal, November 27–30, 2023.
+
+- Rob Lemmens, Florian Albrecht, Stefan Lang, Sven Casteleyn, Martyna Stelmaszczuk-Górska, Marc Olijslagers, Mariana Belgiu, Carlos Granell, Ellen-Wien Augustijn, Carsten Pathe, Eva-Maria Missoni-Steinbacher and Aida Monfort Muriach. **Updating and using the EO4GEO Body of Knowledge for (AI) concept annotation**. *AGILE GIScience Series*, vol. 3, 44, 2022. doi: [10.5194/agile-giss-3-44-2022](https://doi.org/10.5194/agile-giss-3-44-2022). (Proceedings of the 25th AGILE Conference on Geographic Information Science 2022, Vilnius, Lithuania, June 2022).
+
+- Darwin Quezada-Gaibor, Lucie Klus, Joaquin Torres-Sospedra, Elena Simona Lohan, Jari Nurmi, Carlos Granell, Joaquín Huerta. **Data Cleansing for Indoor Positioning Wi-Fi Fingerprinting Datasets**. *2022 23rd IEEE International Conference on Mobile Data Management (MDM)*, pp. 349-354, IEEE. 6–9 June 2022, Online. doi: [10.1109/MDM55031.2022.00079](https://doi.org/10.1109/MDM55031.2022.00079). [Pre-print on ArXiv, [arXiv:2205.02096](https://doi.org/10.48550/arXiv.2205.02096)] [[Repositori UJI](http://hdl.handle.net/10234/200755)]
+
+- Rob Lemmens, Stefan Lang, Florian Albrecht, Ellen-Wien Augustijn, Carlos Granell, Marc Olijslagers, Carsten Pathe, Clémence Dubois, Martyna Stelmaszczuk-Górska. **Integrating concepts of artificial intelligence in the EO4GEO Body of Knowledge**. *The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences*, vol. XLIII-B4-2022, pp. 53–59, 2022, ISSN 2194-9034. XXIV ISPRS Congress (2022 edition), 6–11 June 2022, Nice, France. doi: [10.5194/isprs-archives-XLIII-B4-2022-53-2022](https://doi.org/10.5194/isprs-archives-XLIII-B4-2022-53-2022). [[Repositori UJI](http://hdl.handle.net/10234/200752)]
+
+- Lucie Klus, Darwin Quezada-Gaibor, Joaquin Torres-Sospedra, Elena Simona Lohan, Carlos Granell, Jari Nurmi. **Towards Accelerated Localization Performance Across Indoor Positioning Datasets**. In *Proceedings of the 2022 International Conference on Localization and GNSS (ICL-GNSS 2022)*. Tampere, Finland, 5-7 June 2022, IEEE. doi: [10.1109/ICL-GNSS54081.2022.9797035](https://doi.org/10.1109/ICL-GNSS54081.2022.9797035). Pre-print on ArXiv, [arXiv:2204.10788](https://doi.org/10.48550/arXiv.2204.10788).
+
+- Miguel Matey-Sanz, Alberto González-Pérez, Sven Casteleyn, Carlos Granell. **Instrumented Timed Up and Go Test Using Inertial Sensors from Consumer Wearable Devices**. In: Michalowski, M., Abidi, S.S.R., Abidi, S. (eds): *Artificial Intelligence in Medicine. AIME 2022*. Lecture Notes in Artificial Intelligence, vol 13263, pp. 144–154. 14-17 June 2022, Halifax, NS, Canada. Springer, Cham. ISBN 978-3031093418. doi: [10.1007/978-3-031-09342-5_14](https://doi.org/10.1007/978-3-031-09342-5_14). [[Repositori UJI](http://hdl.handle.net/10234/201062)]
+
+- Frank Ostermann, Daniel Nüst, Carlos Granell, Barbara Hofer, Markus Konkol. **Reproducible Research and GIScience: an evaluation using GIScience conference papers**. K. Janowicz and J.A. Verstegen (Eds.): *Proceedings of the 11th International Conference on Geographic Information Science ([GIScience 2021](https://www.giscience.org/)) - Part II*. LIPIcs, Volume 208, pp. 2:1–2:16. ISBN 978-3-95977-208-2. doi: [10.4230/LIPIcs.GIScience.2021.II.2](https://doi.org/10.4230/LIPIcs.GIScience.2021.II.2). Pre-print on EarthArXiv, doi: [10.31223/x5zk5v](https://doi.org/10.31223/x5zk5v). **Best Scientific Paper Award.**
+
+- Lucie Klus, Darwin Quezada-Gaibor, Joaquín Torres-Sospedra, Elena Simona Lohan, Carlos Granell, Jari Nurmi. **RSS Fingerprinting dataset size reduction using feature-wise adaptive k-means clustering**. In *Proceedings of the 12th International Congress on Ultra Modern Telecommunications and Control Systems and Workshops (ICUMT 2020)*. Online event, 5-7 October 2020, pp. 195-200. ISBN 978-1-7281-9281-9. doi: [10.1109/ICUMT51630.2020.9222458](https://doi.org/10.1109/ICUMT51630.2020.9222458).
+
+- L. Klus, E. Simona Lohan, C. Granell, J. Nurmi. **Lossy Compression Methods for Performance-Restricted Wearable Devices**. A. Ometov, J. Nurmi, E. Simona Lohan, J. Torres-Sospedra, H. Kuusniemi (Eds): *Proceedings of the International Conference on Localization and GNSS ([ICL GNSS 2020](http://ceur-ws.org/Vol-2626/))*. Tampere, Finland, June 2nd to 4th, 2020. [CEUR Workshop Proceedings](http://ceur-ws.org/), Vol 2626, ISSN 1613-0073. [[download](http://ceur-ws.org/Vol-2626/paper9.pdf)]
+
+- A. González-Pérez, I. Miralles, C. Granell, S. Casteleyn. **Technical challenges to deliver sensor-based psychological interventions using smartphones**. In *Proceedings of the 2019 ACM International Joint Conference on Pervasive and Ubiquitous Computing and Proceedings of the 2019 ACM International Symposium on Wearable Computers* ([UbiComp/ISWC '19](https://ubicomp-mental-health.github.io/)). ACM, New York, NY, USA, 2019, pp. 915-920. doi: [10.1145/3341162.3346271](https://doi.org/10.1145/3341162.3346271).
+
+- L. Díaz-Sanahuja, I. Miralles, C. Granell, J. Bretón-López, A. González, S. Casteleyn, D. Castilla, & A. García-Palacios. **Enhancing stimulus control in the treatment of gambling disorder using location-based technologies**. In *ESRII 2019 Abstract book 6th Scientific meeting 2019 ([ESRII 2019](https://www.esrii2019.org/))*. Copenhagen, DK, September 5-6 2019, pp. 63-64.
+
+- B. Hofer, K. W. Broman, C. Granell, A. Graser, K. Hettne, D. Nüst, F. Ostermann, R. Sileryte, M. Teperek. **Reproducible Publications at AGILE Conferences – Proposed Guidelines for Authors and Reviewers**. In: Kyriakidis, P., Hadjimitsis, D., Skarlatos, D. & Mansourian, A. (Eds.), 2019. *Accepted Short Papers and Posters from the 22nd AGILE Conference on Geo-information Science*. Cyprus University of Technology, 17-20 June 2019, Limassol, Cyprus. ISBN 978-90-816960-9-8. Publisher: Stichting AGILE. [[download](https://agile-online.org/images/conference_2019/documents/posters/43_Upload_your_PDF_file.pdf)]
+
+- C. Granell, D. Nüst, F. Ostermann, R. Sileryte. **Reproducible Research is like riding a bike**. *Open Source Geospatial Research & Education Symposium ([OGRS 2018](http://2018.ogrs-community.org/))*. PeerJ Preprints 6:e27216v1. Lugano, Switzerland, Oct 2018. doi: [10.7287/peerj.preprints.27216v1](https://doi.org/10.7287/peerj.preprints.27216v1).
+
+- C. Granell, D. Bhattacharya, S. Casteleyn, A. Degbelo, M. Gould, C. Kray, M. Painho, S. Trilles. **GEO-C: Enabling Open Cities and the Open City Toolkit**. *The International Archives of the Photogrammetry, Remote Sensing and Spatial Information Sciences (Free and open-source software for GIS conference - [FOSS4G 2018](http://2018.foss4g.org/))*, vol. XLII-4/W8, pp. 61-68, 2018, ISSN 2194-9034. Dar es Salaam, Tanzania, Aug 2018. doi: [10.5194/isprs-archives-XLII-4-W8-61-2018](https://doi.org/10.5194/isprs-archives-XLII-4-W8-61-2018). [[download](https://www.int-arch-photogramm-remote-sens-spatial-inf-sci.net/XLII-4-W8/61/2018/)]
+
+- M. Portela, C. Granell. **Geographies of light, affective atmospheres and digital sensory enhancements**. Abstract presented at *European Association for the study of science and technology conference ([EASST 2018](https://easst2018.easst.net/)), panel "[Socio-technical encounters in the city: urban spaces, data infrastructures and new modes of civic engagement](https://easst2018.easst.net/panels#6218)"*. Lancaster University, UK, July 2018.
+
+- R. Kamberov, C. Granell, V. Santos. **Use Case Scenarios of Dynamically Integrated Devices for Improving Human Experience in Collective Computing**. Á. Rocha et al. (Eds.): *Trends and Advances in Information Systems and Technologies (6th World Conference on Information Systems and Technologies, [WorldCist 2018](http://www.worldcist.org/))*. Naples, Italy, Mar 2018. Springer International Publishing AG, AISC vol. 746, pp. 581-592, ISBN 978-3-319-77712-2. doi: [10.1007/978-3-319-77712-2_54](https://doi.org/10.1007/978-3-319-77712-2_54).
+
+- M. Smid, A.C. Costa, S. Russo, E.J. Pebesma, C. Granell Canut. **Ranking of European Capitals according to the impact of Future Heat Waves**. Presented at *2017 AGU Fall Meeting*. New Orleans, Louisiana, Dec 2017. [[download](https://agu.confex.com/agu/fm17/preliminaryview.cgi/Paper275932.html)]
+
+- I. Miralles, C. Granell, L. Rodríguez-Pupo, S. Casteleyn, J. Huerta. **Games, health and the city: Developing location-aware games for leveraging the most suitable places for physical activity**. In *Proceedings of the 2017 Annual Symposium on Computer-Human Interaction in Play Companion Extended Abstracts ([CHI PLAY 2017](https://chiplay.acm.org/2017/))*. Amsterdam, The Netherlands, Oct 2017. ACM, pp. 239-245, ISBN 978-1-4503-5111-9. doi: [10.1145/3130859.3131313](https://doi.org/10.1145/3130859.3131313). [[download](http://www3.uji.es/~canut/eprints/2017-CHIPLAY.pdf)]
+
+- M. Portela, C. Granell-Canut. **A new friend in our Smartphone? observing interactions with chatbots in the search of emotional engagement**. In *Proceedings of 18th International Conference Human Computer Interaction ([Interaccion'17](http://webmilab.com/interaccion2017/))*. Cancun, Mexico, Sep 2017. ACM, Article 48, 7 pages, ISBN 978-1-4503-5229-1. doi: [10.1145/3123818.3123826](https://doi.org/10.1145/3123818.3123826). [[download](http://www3.uji.es/~canut/eprints/2017-Interaccion.pdf)]
+
+- M. Portela, C. Granell-Canut. **A call to De-Familiarize with Everyday Objects: Understanding Modes of Ordering and Politics of Interaction**. Presented at *Digital Cities 10: Towards a Localised Socio-Technical Understanding of the 'Real' Smart City workshop*, collocated with the Communities and Technologies conference ([C&T 2017](http://comtech.community/)). Troyes, France, Jun 2017.
+
+- M. Portela, C. Granell-Canut. **Approaching Empathy in the interaction with everyday objects. A comprehensive path to understand Affect and Place in the urban context**. Presented at *the Doctoral Consortium*, collocated with the Communities and Technologies conference ([C&T 2017](http://comtech.community/)). Troyes, France, Jun 2017.
+
+- M. Portela, C. Granell-Canut. **Methods to Observe and Evaluate Interactions with Everyday Context-Aware Objects**. C.R. García, P. Caballero-Gil, M. Burmester, A. Quesada-Arencibia (Eds): *Ubiquitous Computing and Ambient Intelligence (10th International Conference on Ubiquitous Computing and Ambient Intelligence, [UCAmI 2016](http://mami.uclm.es/ucami-2016/))*. Canary Islands, Spain, Nov 2016. Springer, vol. 10069, pp. 385-392, ISBN 978-3-319-48746-5.
+
+- I. Miralles, C. Granell, J. Huerta. **Playability Index, Built Environment and Geo-Games Technology to Promoting Physical Activity in Urban Areas**. C.R. García, P. Caballero-Gil, M. Burmester, A. Quesada-Arencibia (Eds): *Ubiquitous Computing and Ambient Intelligence (10th International Conference on Ubiquitous Computing and Ambient Intelligence, [UCAmI 2016](http://mami.uclm.es/ucami-2016/))*. Canary Islands, Spain, Nov 2016. Springer, vol. 10070, pp. 437-444, ISBN 978-3-319-48799-1.
+
+- A. Degbelo, D. Bhattacharya, C. Granell, S. Trilles. **Toolkits for Smarter Cities: A Brief Assessment**. C.R. García, P. Caballero-Gil, M. Burmester, A. Quesada-Arencibia (Eds): *Ubiquitous Computing and Ambient Intelligence (10th International Conference on Ubiquitous Computing and Ambient Intelligence, [UCAmI 2016](http://mami.uclm.es/ucami-2016/))*. Canary Islands, Spain, Nov 2016. Springer, vol. 10070, pp. 431-436, ISBN 978-3-319-48799-1.
+
+- S. Casteleyn, A. González Pérez, L. Rodríguez, I. Miralles Tena, C. Granell, L. Busetto, M. Boschetti, J. Huerta. **Mobile, expert and crowd sourced data collection to enable sustainable agricultural practices and management**. *Mobile Tartu 2016 Conference: Mobile Data, Geography, LBS ([MobileTartu 2016](http://mobilitylab.ut.ee/mobiletartu/2016/))*. Tartu, Estonia, Jun 2016.
+
+- R. Kamberov, V. dos Santos, C. Granell. **Towards social paradigms for mobile context-aware computing in smart cities**. *Proceedings of 11ª Conferencia Ibérica de Sistemas y Tecnologías de Información ([CISTI 2016](http://www.aisti.eu/cisti2016/))*. Gran Canaria, Spain, Jun 2016. AISTI & IEEE DL, vol. I, pp. 793-798, ISBN 978-989-98434-6-2. doi: [10.1109/CISTI.2016.7521453](http://dx.doi.org/10.1109/CISTI.2016.7521453). [[download](http://geo-c.eu/pubs/CISTI_2016_Kamberov.pdf)]
+
+- M. Smid, A. Costa, E. Pebesma, C. Granell, D. Bhattacharya. **A review of downscaling procedures – a contribution to the research on climate change impacts at city scale**. *European Geosciences Union General Assembly 2016 ([EGU 2016](http://meetings.copernicus.org/egu2016/))*. Vienna, Austria, Apr 2016. Geophysical Research Abstracts ([GRA](http://www.geophysical-research-abstracts.net/index.html)), vol 18. Copernicus Publications (Germany, 2016), ISSN 1607-7962. [[OA copy](http://meetingorganizer.copernicus.org/EGU2016/EGU2016-6768.pdf)]
+
+- S. Casteleyn, C. Granell, S. Trilles, J. Huerta, M. Boschetti, L. Busetto, M. Pepe, D. Katsantonis, R. Confalonieri, F. Holecz, J. García Haro, I. Gitas. **How Earth Observation, Crop Modelling and ICT can enhance rice cultivation: the ERMES project**. J. Huerta, S. Schade, C. Granell (Eds): *Proceedings of the 17th AGILE International Conference on Geographic Information Science ([AGILE 2014](http://www.agile-online.org/))*. Castellón, Spain, June 2014. AGILE, ISBN 978-90-816960-4-3.
+
+- T. Usländer, A. Berre, C. Granell, D. Havlik, J. Lorenzo, Z. Sabeur, S. Modafferi. **The Future Internet Enablement of the Environment Information Space**. J. Hrebícek, G. Schimak, M. Kubásek, A.E. Rizzoli (Eds): *Environmental Software Systems. Fostering Information Sharing (10th IFIP WG 5.11 International Symposium on Environmental Software Systems, [ISESS 2013](http://www.isess2013.org/))*. Neusiedl am See, Austria, October 2013. Springer, IFIP Advances in Information and Communication Technology, vol. 413, pp. 109-120, ISBN 978-3-642-41150-2. doi: [10.1007/978-3-642-41151-9_11](http://dx.doi.org/10.1007/978-3-642-41151-9_11). **Best Scientific Paper Award.** [[download](http://www3.uji.es/~canut/eprints/2013-ISESS.pdf)]
+
+- D. Havlik, J. Soriano, C. Granell, S.E. Middleton, H. van der Schaaf, A. Berre, J. Pielorz. **Future Internet enablers for VGI applications**. B. Page, AG. Fleischer, J. Göbel, V. Wohlgemuth (Eds): *Environmental Informatics and Renewable Energies (Proceedings of the 27th Conference on Environmental Informatics, [EnviroInfo 2013](http://www.enviroinfo2013.org/))*. Hamburg, Germany, September 2013. Shaker Verlag, Aachen, pp. 622-630, ISBN 978-3-8440-1676-5. [[presentation](http://de.slideshare.net/DenisHavlik/2013-0901-enviroinfo-presentation-final-25884414)] [[download](http://www3.uji.es/~canut/eprints/2013-EnviroInfo.pdf)]
+
+- T. Kliment, C. Granell, V. Cetl, M. Kliment. **Publishing OGC resources discovered on the mainstream web in an SDI catalogue**. D. Vandenbroucke, B. Bucher, J. Crompvoets (Eds): *Proceedings of the 16th AGILE International Conference on Geographic Information Science ([AGILE 2013](http://www.agile-online.org/))*. Leuven, Belgium, May 2013. AGILE, ISBN 978-3-319-00615-4. [[download](http://agile.gis.geo.tu-dresden.de/web/Conference_Paper/CDs/AGILE%202013/Short%20Papers/SP_S5.3_Kliment.pdf)]
+
+- F. Ramos, C. Granell, O. Ripolles. **An Architecture for the Intelligent Creation of Imaginary Worlds for Running**. D. Plemenos, G. Miaoulis (Eds): *Intelligent Computer Graphics 2012 (International Conference on Computer Graphics and Artificial Intelligence, [3IA 2012](http://3ia.teiath.gr/))*. Berlin: Springer (Studies in Computational Intelligence, Book Series), vol. 441, 2013, pp. 209-227, ISBN 978-3-642-31744-6. [[abstract](http://www.springerlink.com/content/u6768h2426585538/)]
+
+- A. Tamayo, C. Granell, L. Díaz, J. Huerta. **Building Standards-Based Geoprocessing Mobile Clients**. J. Gensel, D. Josselin, D. Vandenbroucke (Eds): *Proceedings of the 15th AGILE International Conference on Geographic Information Science ([AGILE 2012](http://agile2012.imag.fr/))*. Avignon, France, April 2012. AGILE, ISBN 978-90-816960-0-5. [[download](http://agile.gis.geo.tu-dresden.de/web/Conference_Paper/CDs/AGILE%202012/proceedings/papers/Paper_Tamayo_Building_Standards-Based_Geoprocessing_Mobile_Clients_2012.pdf)]
+
+- S. Schade, N. Ostländer, C. Granell, M. Schulz, D. McInerney, G. Dubois, L. Vaccari, M. Chinosi, L. Díaz, L. Bastin, R. Jones. **Which Service Interfaces fit the Model Web?** C.-P. Rückemann, B. Resch (Eds): *Proceedings of the Fourth International Conference on Advanced Geographic Information Systems, Applications, and Services ([GEOProcessing 2012](http://www.iaria.org/conferences2012/GEOProcessing12.html))*. Valencia, Spain, February 2012. IARIA & XPS, pp. 1-6, ISBN 978-1-61208-178-6. [[download](http://www.thinkmind.org/index.php?view=article&articleid=geoprocessing_2012_1_10_30081)]
+
+- A. Tamayo, C. Granell, J. Huerta. **Instance-based XML Data Binding for Mobile Devices**. S. Terzis (Eds): *Proceedings of the Third International Workshop on Middleware for Pervasive Mobile and Embedded Computing ([M-MPAC 2011](http://www.smartlab.cis.strath.ac.uk/M-MPAC/))*. Lisbon, Portugal, December 2011. ACM DL, ISBN 978-1-4503-1065-9. doi: [10.1145/2090316.2090318](http://dx.doi.org/10.1145/2090316.2090318). [ArXiv preprint [arXiv:1112.0662](http://arxiv.org/abs/1112.0662)]
+
+- A. Tamayo, C. Granell, J. Huerta. **Analysing Performance of XML Data Binding Solutions for SOS Applications**. *Workshop on Sensor Web Enablement 2011 ([SWE 2011](http://sensorweb.geomatics.ucalgary.ca/swe2011)) as part of Cybera Summit 2011*. Banff, Alberta, Canada, October 2011. [[download](http://dl.dropbox.com/u/8611634/swe2011/swe2011_submission_14.pdf)]
+
+- A. Tamayo, P. Viciano, C. Granell, J. Huerta. **Sensor Observation Service Client for Android Mobile Phones**. *Workshop on Sensor Web Enablement 2011 ([SWE 2011](http://sensorweb.geomatics.ucalgary.ca/swe2011)) as part of Cybera Summit 2011*. Banff, Alberta, Canada, October 2011. [[download](http://dl.dropbox.com/u/8611634/swe2011/swe2011_submission_13.pdf)]
+
+- A. Tamayo, C. Granell, J. Huerta. **Dealing with large schema sets in mobile SOS-based applications**. L. Liao (Eds): *Proceedings of the 2nd International Conference on Computing for Geospatial Research & Applications ([COM.Geo 2011](http://www.com-geo.org/))*. Washington, DC., May 2011. ACM DL, ISBN 978-1-4503-0681-2. [ArXiv preprint [arXiv:1110.0209](http://arxiv.org/abs/1110.0209)]
+
+- A. Tamayo, C. Granell, J. Huerta. **Analysing complexity of XML schemas in geospatial web services**. L. Liao (Eds): *Proceedings of the 2nd International Conference on Computing for Geospatial Research & Applications ([COM.Geo 2011](http://www.com-geo.org/))*. Washington, DC., May 2011. ACM DL, ISBN 978-1-4503-0681-2. [ArXiv preprint [arXiv:1110.0207](http://arxiv.org/abs/1110.0207)]
+
+- A. Beltran, C. Granell, J. Huerta. **Describing heterogeneous resources through Apache Tika and OSGeo FDO**. S. Geertman, W. Reinhardt, F. Toppen (Eds): *Proceedings of the 14th AGILE International Conference on Geographic Information Science ([AGILE 2011](http://www.uu.nl/geo/agile2011))*. Utrecht, The Netherlands, April 2011. AGILE, ISBN 978-90-816960-1-2. [[OA copy](http://plone.itc.nl/agile_old/Conference/2011-utrecht/contents/pdf/posters/p_103.pdf)]
+
+- A. Tamayo, P. Viciano, C. Granell, J. Huerta. **Empirical study of Sensor Observation Service Server Instances**. S. Geertman, W. Reinhardt, F. Toppen (Eds): *Advancing Geoinformation Science for a Changing World (14th AGILE International Conference on Geographic Information Science, [AGILE 2011](http://www.uu.nl/geo/agile2011))*. Utrecht, The Netherlands, April 2011. Springer, LNGC, pp. 185-210, ISBN 978-3-642-19788-8. [ArXiv preprint [arXiv:1109.4503](http://arxiv.org/abs/1109.4503)]
+
+- M. Nuñez, L. Díaz, C. Granell, J. Huerta. **Web 2.0 Broker: a tool for massive collection of user information**. *European Geosciences Union (EGU) General Assembly 2011 ([EGU 2011](http://meetings.copernicus.org/egu2011/))*. Vienna, Austria, Apr 2011. Geophysical Research Abstracts ([GRA](http://www.geophysical-research-abstracts.net/index.html)), vol 13. Copernicus Publications (Germany, 2011), ISSN 1607-7962. [[OA copy](http://meetingorganizer.copernicus.org/EGU2011/EGU2011-13742.pdf)]
+
+- S. Schade, C. Granell, L. Díaz. **[Augmenting SDI with Linked Data](http://ceur-ws.org/Vol-691/paper3.pdf)**. K. Janowicz, T. Pehle, G. Hart, P. Maué (Eds): *Proceedings of the Workshop on Linked Spatiotemporal Data 2010 ([LSTD 2010](http://sunsite.informatik.rwth-aachen.de/Publications/CEUR-WS/Vol-691/))*. Zurich, Switzerland, September 2010. [CEUR Workshop Proceedings](http://ceur-ws.org/), Vol 691, ISSN 1613-0073.
+
+- L. Díaz, M. Pepe, C. Granell, P. Carrara, A. Rampini. **[Developing and chaining Web processing services for hydrological models](http://www.geoinfo.uji.es/pubs/2010-webmgs.pdf)**. M.A. Brovelli, S. Dragicevic, S. Li, B. Veenendaal (Eds): *ISPRS Workshop on Pervasive Web Mapping, Geoprocessing and Services XXXVIII-4/W13 ([WebMGS 2010](http://webmgs2010.como.polimi.it))*. Como, Italy, August 2010, ISSN 1682-1777.
+
+- A. Tamayo, C. Granell, J. Huerta. **[OGC Schemas Browser: Visualizing OWS' XML Schemas](http://plone.itc.nl/agile_old/Conference/2010-guimaraes/ShortPapers_PDF%5C82_DOC.pdf)**. *Proceedings of the 13th AGILE International Conference on Geographic Information Science ([AGILE 2010](http://agile2010.dsi.uminho.pt/))*. Guimarães, Portugal, May 2010, ISBN 978-989-20-1953-6.
+
+- C. Abargues, A. Beltrán, C. Granell. **[MIMEXT: a KML extension for georeferencing and easy share MIME type resources](http://link.springer.com/chapter/10.1007/978-3-642-12326-9_17)**. M. Painho, M.Y. Santos, H. Pundt (Eds): *Geospatial Thinking (Proceedings of the 13th AGILE International Conference on Geographic Information Science ([AGILE 2010](http://agile2010.dsi.uminho.pt/)))*. Guimarães, Portugal, May 2010. Springer, LNGC, pp. 315-334, ISBN 978-3-642-12325-2.
+
+- L. Díaz, C. Granell, M. Gould, J. Huerta. **[User-driven generation of standard data services](http://meetingorganizer.copernicus.org/EGU2010/EGU2010-10579.pdf)**. *European Geosciences Union (EGU) General Assembly 2010 ([EGU 2010](http://meetings.copernicus.org/egu2010/))*. Vienna, Austria, May 2010. Geophysical Research Abstracts ([GRA](http://www.geophysical-research-abstracts.net/index.html)), vol 12. Copernicus Publications (Germany, 2010), ISSN 1607-7962.
+
+- C. Martín-Reinhold, J. Huerta, C. Granell. **[gvSIGDroid: An open source GIS solution for the Android platform](http://www.geoinfo.uji.es/pubs/2010-webist.pdf)**. J. Filipe, J. Cordeiro (Eds): *Proceedings of the 6th Intl Conference on Web Information Systems and Technologies, Volume 2 ([WEBIST 2010](http://www.webist.org/))*. Valencia, Spain, Apr 2010, pp. 195-199, ISBN 978-989-674-025-2.
+
+- L. Díaz, P. Aragó, C. Granell, J. Huerta. **[Integrating user-generated information for emergency management](http://www.geoinfo.uji.es/pubs/2010-gi4dm.pdf)**. *Proceedings of the Gi4DM 2010 Conference: Geomatics for Crisis Management ([Gi4DM 2010](http://www.gi4dm-2010.org/))*. Torino, Italy, Feb 2010, ISBN 978-88-903132-3-3.
+
+- C. Granell, C. Abargues, L. Díaz, J. Huerta. **[Interlinking geoprocessing services](http://www.geoinfo.uji.es/pubs/2010-geoprocessing.pdf)**. V. Lobo, B. Resch, B. Schäffer (Eds): *2nd International Conference on Advanced Geographic Information Systems, Applications, and Services ([GEOProcessing 2010](http://www.iaria.org/conferences2010/GEOProcessing10.html))*. St. Maarten, Netherlands Antilles, Feb 2010. IEEE CS (Piscataway, 2010), pp. 99-104, ISBN 978-0-7695-3951-5. **Best Paper Award.**
+
+- L. Díaz, C. Granell, M. Gould, V. Olaya. **[An open service network for geospatial data processing](http://conference.osgeo.org/index.php/foss4g/2008/paper/view/301/98)**. S. Coetzee, I. Netterberg (Eds): *Academic Proceedings of the 2008 Free and Open Source Software for Geospatial Conference ([FOSS4G 2008](http://www.foss4g2008.org/))*. Cape Town, South Africa, Sep 2008, pp. 410-419, ISBN 978-0-620-42117-1.
+
+- L. Díaz, M. Gould, A. Beltrán, A. Llaves, C. Granell. **[Multipurpose metadata management in gvSIG](http://conference.osgeo.org/index.php/foss4g/2008/paper/view/297/94)**. S. Coetzee, I. Netterberg (Eds): *Academic Proceedings of the 2008 Free and Open Source Software for Geospatial Conference ([FOSS4G 2008](http://www.foss4g2008.org/))*. Cape Town, South Africa, Sep 2008, pp. 90-99, ISBN 978-0-620-42117-1.
+
+- C. Granell, L. Díaz, M. Gould. **[Geospatial web service integration and mashups for water resource applications](http://www.isprs.org/congresses/beijing2008/proceedings/4_pdf/117.pdf)**. *XXI Congress of the International Society for Photogrammetry and Remote Sensing ([ISPRS 2008](http://www.isprs2008-beijing.org/))*. Beijing, China, Jul 2008. International Society for Photogrammetry and Remote Sensing (Lemmer, 2008), Volume XXXVII Part B4, pp. 661-666, ISSN 1682-1750.
+
+- C. Granell, L. Díaz, M. Pepe, J. Parajka, M. Gould, A. Rampini, G. Blöschl. **[Exposing snow melt models as geoprocessing services](http://www.cosis.net/abstracts/EGU2008/02094/EGU2008-A-02094.pdf)**. *European Geosciences Union (EGU) General Assembly 2008 ([EGU 2008](http://meetings.copernicus.org/egu2008/))*. Vienna, Austria, Apr 2008. Geophysical Research Abstracts ([GRA](http://www.geophysical-research-abstracts.net/index.html)), vol 10. Copernicus Publications (Germany, 2008), ISSN 1607-7962.
+
+- C. Granell, D.M. Llidó, R. Berlanga, M. Gould. **[An Ontology-Driven Architecture for re-using Semantic Web Services](http://www.geoinfo.uji.es/pubs/2007-otm.pdf)**. In R. Meersman, Z. Tari, P. Herrrero (Eds): *On the Move to Meaningful Internet Systems 2007: OTM 2007 Workshops ([SWWS 2007](http://www.cs.rmit.edu.au/fedconf/index.html?page=swws2007cfp))*. Vilamoura, Algarve, Portugal, November 2007. Springer (Berlin, 2007), LNCS 4806, pp. 1215-1221, ISBN 978-3-540-76889-0.
+
+- C. Granell, L. Díaz, M. Gould. **[Managing Earth Observation data with distributed geoprocessing services](http://www.geoinfo.uji.es/pubs/igarss07-geoservices-cameraready.pdf)**. *Proceedings of the International Geoscience and Remote Sensing Symposium ([IGARSS 2007](http://www.igarss07.org))*. Barcelona, Spain, July 2007. IEEE CS (Piscataway, 2008), pp. 4777-4780, ISBN 978-1-4244-1212-9.
+
+- L. Díaz, C. Martín, M. Gould, C. Granell, M. A. Manso. **[Semi-automatic metadata extraction from imagery and cartographic data](http://www.geoinfo.uji.es/pubs/igarss07-metadata-cameraready.pdf)**. *Proceedings of the International Geoscience and Remote Sensing Symposium ([IGARSS 2007](http://www.igarss07.org))*. Barcelona, Spain, July 2007. IEEE CS (Piscataway, 2008), pp. 3051-3052, ISBN 978-1-4244-1212-9.
+
+- C. Granell, L. Díaz, M. Gould, V. Pascual, J. Guimet, P. Carrara, M. Pepe. **[Developing geoprocessing services for a hydrological model application](http://www.geoinfo.uji.es/pubs/earsel07-cameraready.pdf)**. In M. Gomarasca (Ed): *Geoinformation in Europe. Proceedings of the 27th Symposium of the European Association of Remote Sensing Laboratories ([EARSeL 2007](http://milano.irea.cnr.it/EARSeL/Symposium_2007.html))*. Bolzano, Italy, June 2007. Millpress (Rotterdam, 2008), pp. 369-376, ISBN 978-90-5966-061-8.
+
+- C. Granell, M. Gould, D. Llidó, R. Berlanga. **[A Model-Driven Approach for Reusing Service Compositions](http://www.geoinfo.uji.es/pubs/IEEE-EATIS2007-cameraready.pdf)**. In R. PC do Nascimento, A. Berqia, P. Serendero, E. Carrilo (Eds): *Proceedings of the Euro American Conference on Telematics and Information Systems Conference ([EATIS 2007](http://eatis.org/eatis2007/index.php))*. Faro, Portugal, May 2007. ACM-DL Proceedings (2007), ISBN 978-1-59593-598-4.
+
+- L. Díaz, S. Costa, C. Granell, M. Gould. **[Migrating geoprocessing routines to web services for water resource management applications](http://www.plan.aau.dk/~enc/AGILE2007/PDF/151_PDF.pdf)**. In M. Warchowicz, L. Bodum (Eds): *Proceedings of the 10th AGILE Conference on Geographic Information Science ([AGILE 2007](http://www.agile2007.dk))*. Aalborg, Denmark, May 2007. AGILE (2007), ISBN 978-87-918-3004-4.
+
+- F. Ramos, M. Chover, O. Ripollés, C. Granell. **Continuous Level of Detail on Graphics Hardware**. In A. Kuba, L.G. Nyúl, K. Palágyi (Eds): *Proceedings of the 13th International Conference on Discrete Geometry for Computer Imagery ([DGCI 2006](http://www.inf.u-szeged.hu/dgci/))*. Szeged, Hungary, October 2006. Springer (Berlin, 2006), LNCS 4025, pp. 460-469, ISBN 978-3-540-47651-2.
+
+- F. Ramos, M. Chover, O. Ripollés, C. Granell. **[Efficient Implementation of LodStrips](http://www.actapress.com/Abstract.aspx?paperId=28037)**. In J.J. Villanueva (Ed): *Proceedings of the 6th IASTED International Conference on Visualization, Imaging, and Image Processing ([VIIP 2006](http://www.iasted.org/conferences/2006/Spain/viip.htm))*. Palma de Mallorca, Spain, August 2006. Acta Press (Anaheim, 2006), pp. 365-369, ISBN 0-88986-598-1, ISSN 1482-7921.
+
+- R. Lemmens, C. Granell, A. Wytzisk, R. de By, M. Gould, P. van Oosterom. **[Semantic and syntactic service descriptions at work in geo-service chaining](http://www.agile2006.hu/papers/a051.pdf)**. In J. Suarez, B. Markus (Eds): *Proceedings of the 9th AGILE Conference on Geographic Information Science ([AGILE 2006](http://www.agile-secretariat.org/Conference/2006-visegrad/visegrad.html))*. Visegrád, Hungary, April 2006. University of West Hungary (Budapest, 2006), pp. 51-61, ISBN 963-229-422-X.
+
+- C. Granell, M. Gould, R. Gronmo, D. Skogan. **[Improving Reuse of Web Service Compositions](http://www.geoinfo.uji.es/pubs/ecweb05.pdf)**. In K. Baukneckt, B. Pröll, H. Werthner (Eds): *Proceedings of the 6th International Conference on E-Commerce and Web Technologies ([EC-Web 2005](http://www.dexa.org/dexa/dexa2005/drupal/index71ca.html))*. Copenhagen, Denmark, August 2005. Springer (Berlin, 2005), LNCS 3590, pp. 358-367, ISBN 3-540-28467-2.
+
+- C. Granell, M. Gould, F. Ramos. **Service Composition for SDIs: integrated components creation**. *Proceedings of 16th International Workshop on Database and Expert Systems Applications ([GIM 2005](http://www.dexa.org/previous/dexa2005/drupal/index71ca.html))*. Copenhagen, Denmark, August 2005. IEEE CS Press (Los Alamitos, 2005), pp. 475-479, ISBN 0-7695-2424-9.
+
+- J. Poveda, M. Gould, C. Granell. **Composition of e-Commerce and Geographic Information Services for Emergency management**. In R. Traünmuller (Ed): *Proceedings of the Third International Conference on Electronic Government ([EGOV 2004](http://www.dexa.org/previous/dexa2004/index.php?include=main.php))*. Zaragoza, Spain, September 2004. Springer (Berlin, 2004), LNCS 3183, pp. 562-563, ISBN 3-540-22916-7.
+
+- C. Granell, J.F. Ramos. **[An Object-Oriented Approach to GI Web Service Composition](http://www.geoinfo.uji.es/pubs/2004-gim.pdf)**. *Proceedings of 15th International Workshop on Database and Expert Systems Applications ([GIM 2004](http://www.dexa.org/previous/dexa2004/index.php?include=main.php))*. Zaragoza, Spain, September 2004. IEEE CS Press (Los Alamitos, 2004), pp. 835-839, ISBN 0-7695-2195-9.
+
+- J.F. Ramos, M. Chover, C. Granell. **Real-time Terrain Rendering using LodStrip Multiresolution**. *Proceedings of 15th International Workshop on Database and Expert Systems Applications ([GIM 2004](http://www.dexa.org/previous/dexa2004/index.php?include=main.php))*. Zaragoza, Spain, September 2004. IEEE CS Press (Los Alamitos, 2004), pp. 819-823, ISBN 0-7695-2195-9.
+
+- C. Granell, J. Poveda, M. Gould. **[Incremental Composition of Geographic Web Services: An Emergency Management Context](http://plone.itc.nl/agile_old/Conference/greece2004/papers/4-2-1_Granell.pdf)**. In F. Toppen, P. Pastracos (Eds): *Proceedings of the 7th AGILE Conference on Geographic Information Science ([AGILE 2004](http://www.agile-secretariat.org/Conference/greece2004/heraklion.html))*. Heraklion, Greece, April 2004. Crete University Press (Heraklion, 2004), pp. 343-348, ISBN 960-524-176-5.
+
+- J. Poveda, M. Gould, C. Granell. **[ACE GIS Project Overview: Adaptable and Composable E-commerce and Geographic Information Services](http://plone.itc.nl/agile_old/Conference/greece2004/papers/P-11_Poveda.pdf)**. In F. Toppen, P. Pastracos (Eds): *Proceedings of the 7th AGILE Conference on Geographic Information Science ([AGILE 2004](http://www.agile-secretariat.org/Conference/greece2004/heraklion.html))*. Heraklion, Greece, April 2004. Crete University Press (Heraklion, 2004), pp. 795-799, ISBN 960-524-176-5.
+
+- C. Granell, J. Poveda, M. Gould. **[Incremental Weak Composition and Invocation of Geographic Web Services](http://geopro.cic.ipn.mx/Agranell.pdf)**. In S. Levachkine, J. Serra, M. Egenhofer (Eds): *Proceedings of the 2nd International Workshop on Semantic Processing of Spatial Data ([GEOPRO 2003](http://148.204.45.130/geopro/))*. Mexico D.F., Mexico, November 2003. Centre for Computing Research (Mexico D.F., 2003), pp. 179-187, ISBN 970-36-0103-0.
