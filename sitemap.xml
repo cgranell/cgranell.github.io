@@ -2,14 +2,18 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cgranell.github.io/extras/index.html</loc>
-    <lastmod>2026-03-06T10:15:38.881Z</lastmod>
+    <lastmod>2026-03-06T15:55:12.713Z</lastmod>
   </url>
   <url>
     <loc>https://cgranell.github.io/teaching/index.html</loc>
-    <lastmod>2026-03-06T10:15:38.891Z</lastmod>
+    <lastmod>2026-03-06T15:55:12.723Z</lastmod>
   </url>
   <url>
     <loc>https://cgranell.github.io/index.html</loc>
-    <lastmod>2026-03-06T10:15:38.890Z</lastmod>
+    <lastmod>2026-03-06T15:55:12.722Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cgranell.github.io/papers/index.html</loc>
+    <lastmod>2026-03-06T15:55:12.723Z</lastmod>
   </url>
 </urlset>
