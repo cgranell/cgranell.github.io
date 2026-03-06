@@ -1,0 +1,11 @@
+---
+title: "Teaching"
+listing:
+    contents: "teaching/*/index.qmd"
+    sort: "title asc"
+    type: grid
+    categories: true
+    fields: [image, title, reading-time, categories, description]
+page-layout: full
+title-block-banner: true
+---

@@ -2,12 +2,20 @@ project:
   type: website
 
 website:
-  title: "cgranell.github.io"
+  title: "Carlos Granell"
+  description: "Carlos Granell is a GIScience researcher and open science and reproducibility advocate"
   navbar:
     left:
       - href: index.qmd
         text: Home
-      - about.qmd
+      - href: papers
+        text: Papers
+      - href: teaching
+        text: Teaching
+      - href: outreach
+        text: Outreach
+      - href: extras
+        text: Extras
 
 format:
   html:
@@ -16,6 +24,8 @@ format:
       - brand
     css: styles.css
     toc: true
-
+    toc-depth: 3
+    toc-float: true
+    toc-smooth-scroll: true
 
 

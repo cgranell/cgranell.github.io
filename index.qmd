@@ -1,7 +1,35 @@
 ---
-title: "cgranell.github.io"
+title: "Carlos Granell"
+about:
+    template: trestles
+    links:
+        - icon: github
+          text: Github
+          url: https://github.com/cgranell
+        - text: "{{< fa envelope >}} Email"
+          url: mailto:carlos.granell@uji.es
+        - text: "{{< ai orcid >}} ORCID 0000-0003-1004-9695"
+          url: https://orcid.org/0000-0003-1004-9695
+        - text: "{{< ai google-scholar >}} Google Scholar"
+          url: https://scholar.google.com/citations?user=K9jGzhQAAAAJ
+        - text: "{{< ai researcherid >}} RID A-A-4374-2008"
+          url: https://www.webofscience.com/wos/author/record/A-4374-2008
+        - text: "{{< ai osf >}} OSF"
+          url: https://osf.io/6xkmu/
+image: images/picture20150818.jpg
 ---
 
-This is a Quarto website.
+## Bio
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Carlos Granell is associate professor at UJI. He previously held a 5-year Ramón y Cajal post-doctoral fellowship, worked for 3 years as a postdoc in the Digital Earth and Reference Data Unit of the European Commission’s Joint Research Centre (Italy), and was a post- and pre-doctoral researcher during the period 2003-2010 at the Universitat Jaume I of Castellón, from which he holds a Ph.D. (2006). His research interests lie in multi-disciplinary GIS,  spatial analysis & visualization applied to mental health and mobility, and reproducibility research practice in GIScience. Carlos is also member of the <a href="https://agile-gi.eu/">AGILE</a> Council. 
+
+## Key research interests
+
+
+## Teaching
+
+
+## Selected papers
+
+
+## Professional affiliations
