@@ -44,7 +44,6 @@ From time to time I give talks and lectures on reproducibility research practice
 ## Selected papers
 
 
-
 ## Professional affiliations
 
 **[AGILE - Association of Geographic Information Laboratories in Europe](https://agile-gi.eu/)** | Member since 2003

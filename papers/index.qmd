@@ -44,8 +44,32 @@ A research team is a collaborative environment with its own dynamics. It's wonde
 - May 2019, [As a climate researcher, should I change my air-travel habits?](https://www.nature.com/articles/d41586-019-01652-2)
 - Apr 2013, [Hypocrites in the air: should climate change academics lead by example?](http://kevinanderson.info/blog/hypocrites-in-the-air-should-climate-change-academics-lead-by-example/)
 
-
 ## Publications
+
+::: {.callout-caution collapse="true"}
+## Work in preparation or submitted (newest on top)
+
+- Nüst et al. **Reproducibility in Research using Geospatial Data**. *Chapter in prep to [Handbook for Reproduction and Replication Studies](https://forrt.org/replication_handbook/)* (May 2026)
+
+- Leonardo Monteiro-Fialho et al. **First Steps Towards an Open-Source Framework to Support Public Transport Data Management**. *Submitted to [GISTAM 2026](https://gistam.scitevents.org/)* (24 Feb 2026)
+
+- Sarah Lennon et al. **ChemExpo - a Joint Master Erasmus Mundus programme on Chemical Exposome and Human Health: From Research to Decision**. *Submitted to [IMSC 2026](https://imsc26.com/)* (13 Feb 2026)
+
+- Iratxe Alonso-Olea, Patricia Gual-Montolio, Laura Díaz-Sanahuja, Lucas Niño-Ruiz, Adriana Mira, Sven Casteleyn, Carlos Granell, Azucena García-Palacios, Juana María Bretón-López. **Maximizing the efficacy of in vivo exposure therapy using smartphone-assisted just-in-time adaptive intervention for anxiety disorders: study protocol for a randomized controlled trial**. *Submitted to [BMJ Open](https://bmjopen.bmj.com/)* (20 Jan 2026)
+
+- Celia Sáenz-Martínez, Belén Ibáñez Montoliu, José Francisco Ramos-Romero, Carlos Granell, Sergio Trilles. **Evolución de la plataforma *Sucre4Stem* para el aprendizaje del Internet de las Cosas en las aulas**. *Submitted to 2026 Congreso de Tecnología, Aprendizaje y Enseñanza de la Electrónica ([TAEE 2026](https://congresotaee.es/))* (15 Dec 2025)
+
+- Granell, C. et al. **Longitudinal assessment of research in GIScience domain shows a positive impact of reproducible research practices**. *Submitted to [https://josis.org/index.php/josis](https://doi.org/10.17605/OSF.IO/XZJCH)* (3 Dec 2025). Preprint on EarthArXiv, [10.31223/X5RJ3W](https://doi.org/10.31223/X5RJ3W)
+
+- Nüst, D., Granell, C., & Ostermann, F. O. **Impact of reproducible paper guidelines on computational papers: A longitudinal study on the AGILE and GIScience conference series**. *OSF Preregistered study*, [OSF.IO/XZJCH](https://doi.org/10.17605/OSF.IO/XZJCH) (24 Jul 2023)
+
+- Alberto González-Pérez, Juana Bretón-López, Carlos Granell, Jorge Osma, Lucas Niño-Ruiz, Javier Herrero-González, Miguel Matey-Sanz, Iratxe Alonso Olea, Laura Díaz-Sanahuja, Sven Casteleyn. **Driving a geolocation-based app for self-guided in-vivo exposure therapy towards an RCT through a qualitative evaluation**. *Submitted to [Intelligent Medicine](https://www.sciencedirect.com/journal/intelligent-medicine)* (27 Jun 2025)
+
+- Miguel Matey-Sanz, Joaquín Torres-Sospedra, Sven Casteleyn, Carlos Granell. **A Study on Training Set Size and Model Performance in Smartphone- and Smartwatch-Based Human Activity Recognition**. *Submitted to [IEEE Transactions on Human-Machine System](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221037)* (End Aug 2025)
+
+- Flavio Vata, Marco Octávio Painho, Ana Cristina Costa, Carlos Granell. **An Integrated Framework to Assess Social Inequity and Flood Susceptibility: A Case Study of Harris County, Texas**. *Submitted to [Climate Risk Management](https://www.sciencedirect.com/journal/climate-risk-management)* (10 Nov 2025)
+
+:::
 
 ### Journal articles
 
