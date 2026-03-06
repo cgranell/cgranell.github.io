@@ -473,3 +473,180 @@ R. Lemmens, A. Wytzisk, R. de By, C. Granell, M. Gould, P. van Oosterom.
 **An Incremental Approach to Web Service Composition**.
 *Colombian Journal of Computation*, 5(1): 22-34, June 2004, ISSN 1657-2831.
 [download](https://revistas.unab.edu.co/index.php/rcc/article/view/1079)
+
+
+### Authored/edited books and special issues
+
+- Alexander Kotsev, Marco Minguini, Massimo Craglia, Stefano Nativi, Carlos Granell (Guest editors). **Special Issue [A European Approach to the Establishment of Data Spaces](https://www.mdpi.com/journal/data/special_issues/EU_DataSpaces)**. *Data*, 2022. MDPI AG, ISSN 2306-5729.
+
+- Granell C., Mooney P., Jirka S., Rieke M., Ostermann F., van den Broecke J., Sarretta A., Verhulst S., Dencik L., Oost H., Micheli M., Minghini M., Kotsev A., Schade S. **Emerging approaches for data-driven innovation in Europe: Sandbox experiments on the governance of data and technology**. EUR 30969 EN, Publications Office of the European Union, Luxembourg, 2022, ISBN 978-92-76-46936-0, JRC127730, doi:[10.2760/511775](http://dx.doi.org/10.2760/511775). [[OA]](https://publications.jrc.ec.europa.eu/repository/handle/JRC127730) [[Repositori UJI]](http://hdl.handle.net/10234/197094)
+
+- Carlos Granell (Guest editor). **Special Issue [Spatial Stream Processing](http://www.mdpi.com/journal/ijgi/special_issues/Spatial_Stream_Processing)**. *ISPRS International Journal of Geo-Information*, 2018. MDPI AG, ISSN 2220-9964.
+
+- Barbara Hofer, Carlos Granell, Lars Bernard (Guest editors). **Special Issue [Innovation in Geoprocessing for a Digital Earth](https://doi.org/10.1080/17538947.2017.1379154)**. *International Journal of Digital Earth*, 11(1), 2018. Taylor & Francis, ISSN 1753-8947.
+
+- Carlos Granell, Sven Casteleyn, Angela Schwering (Guest editors). **Special Issue [Geospatial applications, tools and location-based services for education](http://www.mdpi.com/journal/ijgi/special_issues/geospatial_education)**. *ISPRS International Journal of Geo-Information*, 2017. MDPI AG, ISSN 2220-9964.
+
+- C. Granell, C. Moreno (editors). **Special issue in 'Innovación Abierta'**. *Novática*, num. 233, 2015. ATI, ISSN 0211-2124.
+
+- Carlos Granell, Sven Casteleyn, Clement Atzberger (Guest editors). **Research Topic [Geospatial data capturing, processing, analysis and visualization in Agro-Geoinformatics](http://journal.frontiersin.org/researchtopic/3272/geospatial-data-capturing-processing-analysis-and-visualization-in-agro-geoinformatics)**. *Frontiers in Environmental Science (Environmental Informatics Section)*, 2015. Frontiers, ISSN 2296-665X.
+
+- E. Aguilar-Moreno, C. Granell-Canut. **Geobibliotecas**. Barcelona: Editorial UOC, *Colección El profesional de la información*, n. 30, 2015, ISBN 978-84-9064-581-9. [[publisher]](http://www.editorialuoc.cat/geobibliotecas-p-1665.html?language=es&cPath=1). Book reviews: [COBDC blog post](http://www.cobdc.net/observatori/perfils-professionals/geobibliotecas-la-importancia-de-la-ubicacio/); [Juanjo Bote's post](http://juanjobote.com/geobibliotecas-profesional-de-la-informacion/); [video-review](https://youtu.be/QmCEvx2mM8Y); [Dokumentalistas' blog post](http://www.dokumentalistas.com/articulos/resenas/geobibliotecas-libro-sobre-informacion-geografica-bibliotecas/); [SIMILE num 29](http://issuu.com/cobdcv-valencia/docs/simile_29/42?e=2542856/14168166); [REDC 39(2), e135 - Crítica de libros](http://redc.revistas.csic.es/index.php/redc/article/view/939/1383)
+
+- M. Craglia, C. Granell (editors). **Citizen Science and Smart Cities**. Luxembourg: Publications Office of the European Union, *JRC Scientific and Technical Reports*, EUR 26652 EN, 2014, ISBN 978-92-79-38373-1. doi:[10.2788/80461](http://dx.doi.org/10.2788/80461). [[OA]](http://publications.jrc.ec.europa.eu/repository/handle/111111111/31873)
+
+- J. Huerta, S. Schade, C. Granell (editors). **Connecting a Digital Europe through Location and Place. Selected papers of the 17th AGILE Conference on Geographic Information Science**. *Lecture Notes in Geoinformation and Cartography*, Springer, 2014, ISBN 978-3-319-03610-6. [[publisher]](http://link.springer.com/book/10.1007/978-3-319-03611-3)
+
+- J. Huerta, S. Schade, C. Granell (editors). **Connecting a Digital Europe through Location and Place. Selected best short papers and posters of the AGILE 2014 Conference, 03-06 June 2014, Castellón, Spain**. *AGILE*, 2014, ISBN 978-90-816960-4-3. [[Repositori UJI]](http://repositori.uji.es/xmlui/handle/10234/96674)
+
+- O. Belmonte, C. Granell (guest editors). **Special issue in 'Lenguajes de programación'**. *Novática*, num. 222, 2013. ATI, ISSN 0211-2124.
+
+- O. Belmonte, C. Granell, MC. Erdozain. **Desarrollo de proyectos informáticos con tecnología Java** (in Spanish), 2012. [CC BY-NC-SA 3.0](https://creativecommons.org/licenses/by-nc-sa/3.0/deed.es). [[download]](http://www3.uji.es/~belfern/libroJava.pdf)
+
+- L. Díaz, C. Granell, J. Huerta (editors). **Discovery of Geospatial Resources: Methodologies, Technologies, and Emergent Applications**. Hershey: Information Science Reference (IGI Global), April 2012, ISBN 978-1-4666-0947-1. doi:10.4018/978-1-4666-0945-7. [[publisher]](http://www.igi-global.com/book/discovery-geospatial-resources/60764)
+
+- C. Granell, R. Lemmens (guest editors). **Special issue in Trends on service chaining for GEOSS themes**. *[International Journal of Applied Geospatial Research](http://www.igi-global.com/ijagr)*, 2(1), 2011. IGI Global, ISSN 1947-9654.
+
+- C. Granell. **Servicios OGC. Introducción a las Infraestructuras de Datos Espaciales**. Material docente de la UOC. Fundación UOC (Barcelona, 2011), Dep. Legal B-5.573-2011 (in Spanish). [[OA copy]](http://ocw.uoc.edu/informatica-tecnologia-y-multimedia/serveis-ogc/Course_listing)
+
+- C. Granell, M. Gould (editors). **Avances en las Infraestructuras de Datos Espaciales**. Publicacions de la Universitat Jaume I (Castellón, 2006), ISBN 84-8021-590-9 (in Spanish).
+
+
+### Book chapters
+
+- M. Portela, C. Granell-Canut.
+**Affective technology for enchanting spaces and cultivating places**.
+In: A. Aurigi, N. Odendaal (Eds.) *Designing Smart for Better Cities: Re-thinking and Shaping Relationships between Urban Space and Digital Technologies*, 1st Edition.
+Amsterdam, The Netherlands: Academic Press (Elsevier). 2021, pp. 157-176, ISBN 978-0-12-818636-7.
+© Elsevier &nbsp;[[abstract]](https://doi.org/10.1016/B978-0-12-818636-7.00011-1) [[publisher]](https://www.elsevier.com/books/designing-smart-for-better-cities/aurigi/978-0-12-818636-7)
+
+- S. Schade, C. Granell, G. Vancauwenberghe, C. Kessler, D. Vandenbroucke, I. Masser, M. Gould.
+**Geospatial Information Infrastructures**.
+In: H. Guo, M.F. Goodchild, A. Annoni (Eds). *Manual of Digital Earth*. Springer Singapore, 2020, pp. 161-190, ISBN 978-981-329-915-3.
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) &nbsp;[[download]](https://doi.org/10.1007/978-981-32-9915-3_5) [[Repositori UJI]](http://hdl.handle.net/10234/187662)
+
+- C. Granell, A. Kamilaris, A. Kotsev, F. O. Ostermann, S. Trilles.
+**Internet of Things**.
+In: H. Guo, M.F. Goodchild, A. Annoni (Eds). *Manual of Digital Earth*. Springer Singapore, 2020, pp. 387-423, ISBN 978-981-329-915-3.
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) &nbsp;[[download]](https://doi.org/10.1007/978-981-32-9915-3_11)
+
+- A. Degbelo, C. Granell, S. Trilles, D. Bhattacharya, J. Wissing.
+**Tell Me How My Open Data is Re-used: increasing transparency through the Open City Toolkit**.
+In: S. Hawken, H. Han, C. Pettit (Eds). *Open Cities | Open Data: Collaborative Cities in the Information Era*. Palgrave Macmillan, 2020, pp. 311-330, ISBN 978-981-13-6604-8.
+© Palgrave Macmillan &nbsp;[[abstract]](https://doi.org/10.1007/978-981-13-6605-5_14)
+
+- C. Granell-Canut, E. Aguilar-Moreno.
+**Geospatial Influence in Science mapping**.
+In: M. Khosrow-Pour (Ed). *Encyclopedia of Information Science and Technology, 4th Edition*.
+Hershey: Information Science Reference (IGI Global), 2018, pp. 3473-3483, ISBN 978-1-5225-2255-3.
+© IGI Global &nbsp;[[publisher]](http://www.igi-global.com/book/encyclopedia-information-science-technology-fourth/173015) [[abstract]](https://www.igi-global.com/chapter/geospatial-influence-in-science-mapping/184058)
+
+- S. Schade, C. Granell, A. Perego.
+**Coupling Public Sector Information and Public-Funded Research Data: A Vision of an Open Data Ecosystem**.
+In: C.G. Reddick, L. Anthopoulos (Eds). *Information and Communication Technologies in Public Administration: Innovations from Developed Countries*.
+Boca Raton: CRC Press (Taylor & Francis Group), 2015, pp. 275-298, ISBN 978-1-4822-3929-4.
+© CRC Press &nbsp;[[publisher]](http://www.crcpress.com/product/isbn/9781482239294) [[abstract]](http://www.crcnetbase.com/doi/10.1201/b18321-16)
+
+- C. Granell.
+**Robust Workflow Systems + Flexible Geoprocessing Services = Geo-enabled Model Web?**
+In: E. Pourabbas (Ed). *Geographical Information Systems: Trends and Technologies*.
+Boca Raton: CRC Press (Taylor & Francis Group), 2014, pp. 172-204, ISBN 978-1-4665-9693-1.
+© CRC Press &nbsp;[[publisher]](http://www.crcpress.com/product/isbn/9781466596931) [[abstract]](http://www.crcnetbase.com/doi/abs/10.1201/b16871-8)
+
+- C. Granell, S. Schade.
+**Environmental Informatics for Sustainable Development**.
+In: M. Khosrow-Pour (Ed). *Encyclopedia of Information Science and Technology, 3rd Edition*.
+Hershey: Information Science Reference (IGI Global), 2014, vol. IV, pp. 2942-2954, ISBN 978-1-4666-5888-2.
+© IGI Global &nbsp;[[publisher]](http://dx.doi.org/10.4018/978-1-4666-5888-2.ch287)
+
+- J. Gil, L. Díaz, C. Granell, J. Huerta.
+**Open Source Based Deployment of Environmental Data into Geospatial Information Infrastructures**.
+In: *Geographic Information Systems: Concepts, Methodologies, Tools, and Applications*.
+Hershey: Information Science Reference (IGI Global), 2013, pp. 952-969, ISBN 978-1-4666-2038-4.
+© IGI Global &nbsp;[[abstract]](http://www.igi-global.com/chapter/open-source-based-deployment-environmental/70487)
+Note: Reprint of [2012 IJAGR paper](#journal:gil:12a)
+
+- M. Santoro, P. Mazzetti, S. Nativi, C. Fugazza, C. Granell, L. Díaz.
+**Methodologies for augmented discovery of geospatial resources**.
+In: *Geographic Information Systems: Concepts, Methodologies, Tools, and Applications*.
+Hershey: Information Science Reference (IGI Global), 2013, pp. 305-335, ISBN 978-1-4666-2038-4.
+© IGI Global &nbsp;[[abstract]](http://www.igi-global.com/chapter/methodologies-augmented-discovery-geospatial-resources/70448)
+Note: Reprint of [2012 IGI Book chapter](#chapter:santoro:12a)
+
+- M.A. Manso-Callejo, C. Granell.
+**CSW y WMS: Localizar y visualizar mapas e imágenes**.
+In: Miguel-Angel Bernabé-Poveda, Carlos-Manuel López-Vázquez (Eds). *Fundamentos de las Infraestructuras de Datos Espaciales*.
+Madrid: UPM Press, 2012, pp. 345-355, ISBN 978-84-939196-6-5.
+© UPM Press &nbsp;[[abstract]](http://blog-idee.blogspot.it/2012/07/nuevo-libro-fundamentos-de-las.html)
+
+- L. Díaz, C. Granell.
+**Introducción a las Arquitecturas Orientadas a Servicios en el contexto de IDE**.
+In: Miguel-Angel Bernabé-Poveda, Carlos-Manuel López-Vázquez (Eds). *Fundamentos de las Infraestructuras de Datos Espaciales*.
+Madrid: UPM Press, 2012, pp. 299-308, ISBN 987-84-939196-6-5.
+© UPM Press &nbsp;[[abstract]](http://blog-idee.blogspot.it/2012/07/nuevo-libro-fundamentos-de-las.html)
+
+- M. Santoro, P. Mazzetti, S. Nativi, C. Fugazza, C. Granell, L. Díaz.
+**Methodologies for augmented discovery of geospatial resources**.
+In: L. Díaz, C. Granell, J. Huerta (Eds). *Discovery of Geospatial Resources: Methodologies, Technologies, and Emergent Applications*.
+Hershey: Information Science Reference (IGI Global), April 2012, pp. 172-203, ISBN 978-1-4666-0947-1.
+© IGI Global &nbsp;[[abstract]](http://www.igi-global.com/book/discovery-geospatial-resources/60764)
+
+- A. Tamayo, C. Granell, L. Díaz, M. Gould, J. Huerta.
+**Client-Side Processing for Sensor Web**.
+In: P. Alencar, D. Cowan (Eds). *Handbook of Research on Mobile Software Engineering: Design, Implementation, and Emergent Applications*.
+Hershey: Engineering Science Reference (IGI Global), Volume I, 2012, pp. 789-808, ISBN 978-1-4666-1612-7.
+© IGI Global &nbsp;[[abstract]](http://www.igi-global.com/book/handbook-research-mobile-software-engineering/61640)
+
+- K. Stock, G. Hobona, C. Granell, M. Jackson.
+**Ontology-Based Geospatial Approaches for Semantic Awareness in Earth Observation Systems**.
+In: N. Ashish, A. Sheth (Eds). *Geospatial Semantics and the Semantic Web: Foundations, Algorithms, and Applications*.
+New York: Springer (Semantic Web and Beyond: Computing for Human Experience, Book Series), 2011, pp. 97-118, ISBN 978-1-4419-9445-5.
+© Springer-Verlag &nbsp;[[abstract]](http://www.springerlink.com/content/978-1-4419-9445-5)
+
+- C. Granell, S. Schade, G. Hobona.
+**Linked Data: Connecting Spatial Data Infrastructures and Volunteered Geographic Information**.
+In: P. Zhao, L. Di (Eds). *Geospatial Web Services: Advances in Information Interoperability*.
+Hershey: Information Science Reference (IGI Global), 2011, pp. 189-226, ISBN 978-1-60960-192-8.
+© IGI Global &nbsp;[[abstract]](http://www.igi-global.com/chapter/linked-data-connecting-spatial-data/51488) [[download]](http://www3.uji.es/~canut/eprints/2011-BookChapter-GWS-SDI-LD.pdf)
+
+- A. Beltran, L. Díaz, C. Granell, J. Huerta, C. Abargues.
+**Description and publication of geospatial information**.
+In: P.-G. Peter Ho (Ed). *Geoscience and Remote Sensing*.
+Vukovar: In-Tech, 2009, pp. 133-152, ISBN 978-953-307-003-2. doi: 10.5772/8285.
+© In-Tech &nbsp;[[download]](http://www.intechopen.com/books/geoscience-and-remote-sensing/description-and-publication-of-geospatial-information)
+
+- C. Abargues, C. Granell, L. Díaz, J. Huerta, A. Beltran.
+**Discovery of user-generated geographic data using web search engines**.
+In: G. Jedlovec (Ed). *Advances in Geoscience and Remote Sensing*.
+Vukovar: In-Tech, 2009, pp. 207-228, ISBN 978-953-307-005-6. doi: 10.5772/8331.
+© In-Tech &nbsp;[[download]](http://www.intechopen.com/books/advances-in-geoscience-and-remote-sensing/discovery-of-user-generated-geographic-data-using-web-search-engines)
+
+- L. Díaz, C. Granell, M. Gould.
+**Spatial Data Integration over the Web**.
+In: V. E. Ferraggine, J.H. Doorn, L.C. Rivero (Eds). *Handbook of Research on Innovations in Database Technologies and Applications: Current and Future Trends*.
+Hershey: Information Science Reference (IGI Global), 2009, Volume II, pp. 325-333, ISBN 978-1-60566-242.
+© IGI Global &nbsp;[[download]](http://www3.uji.es/~canut/eprints/2009-BookChapter-IDTA.pdf)
+
+- C. Granell, M. Gould, M.A. Esbrí.
+**Geospatial Web Service Chaining**.
+In: Hassan A. Karimi (Ed). *Handbook of Research on Geoinformatics*.
+Hershey: Information Science Reference (IGI Global), 2008, pp. 189-195, ISBN 978-1-59140-995-3.
+© IGI Global &nbsp;[[download]](http://www3.uji.es/~canut/eprints/2008-BookChapter-Geoinformatics-Chainning.pdf)
+
+- C. Granell, M. Gould, M.A. Manso, M.A. Bernabé.
+**Spatial Data Infrastructures**.
+In: Hassan A. Karimi (Ed). *Handbook of Research on Geoinformatics*.
+Hershey: Information Science Reference (IGI Global), 2008, pp. 36-41, ISBN 978-1-59140-995-3.
+© IGI Global &nbsp;[[download]](http://www3.uji.es/~canut/eprints/2008-BookChapter-Geoinformatics-SDI.pdf)
+
+- L. Díaz, C. Granell, M. Gould.
+**Case Study: Geospatial Processing Services for Web-based Hydrological Applications**.
+In: J.T. Sample, K. Shaw, S. Tu, M. Abdelguerfi (Eds). *Geospatial Services and Applications for the Internet*.
+New York: Springer Science+Business Media, 2008, pp. 31-47, ISBN 978-0-387-74673-9. doi: [10.1007/978-0-387-74674-6_2](http://dx.doi.org/10.1007/978-0-387-74674-6_2).
+© Springer-Verlag &nbsp;[[download]](http://www.geoinfo.uji.es/pubs/2008-BookChapter_submitted.pdf)
+
+- C. Granell, L. Díaz, M. Gould.
+**Distributed Geospatial Processing Services**.
+In: M. Khosrow-Pour (Ed). *Encyclopedia of Information Science and Technology, Second Edition*.
+Hershey: Information Science Reference (IGI Global), 2008, pp. 1186-1193, ISBN 978-1-60566-026-4.
+© IGI Global &nbsp;[[download]](http://www3.uji.es/~canut/eprints/2008-BookChapter-IST.pdf)
