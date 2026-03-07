@@ -22,10 +22,10 @@ website:
         text: Home
       - href: research
         text: Research
-      - href: teaching
-        text: Teaching
       - href: papers
         text: Papers
+      - href: teaching
+        text: Teaching
       - href: outreach
         text: Outreach
       - href: extras
