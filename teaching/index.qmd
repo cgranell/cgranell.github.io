@@ -1,7 +1,7 @@
 ---
 title: "Teaching"
 subtitle: |
-  A colleciton of teaching activities, including master courses, thesis supervision, and talks and lectures given on reproducibility research practices
+  A collection of teaching activities, including master courses, thesis supervision, and talks and lectures on reproducibility research practices
 listing:
   contents: 
     - "data-science/index.qmd"
@@ -9,7 +9,6 @@ listing:
   type: grid
   grid-columns: 3
   fields: [image, title, description]
-page-layout: full
 title-block-banner: true
 ---
 
