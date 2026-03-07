@@ -1,5 +1,6 @@
 ---
 title: "Extras"
+title-block-banner: true
 ---
 
 ## Forthcoming trips/events

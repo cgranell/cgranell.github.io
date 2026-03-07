@@ -31,9 +31,7 @@ format:
 
 :::
 
-## Publications
-
-### Journal articles
+## Journal articles
 
 - [![2025](https://img.shields.io/badge/2025-10.1109/TITS.2025.3571101-brightgreen.svg)](http://dx.doi.org/10.1109/TITS.2025.3571101)
 Leonardo Monteiro-Fialho, Enrique Cueto-Rubio, Carlos Granell and Sergio Trilles.
@@ -461,7 +459,7 @@ R. Lemmens, A. Wytzisk, R. de By, C. Granell, M. Gould, P. van Oosterom.
 [download](https://revistas.unab.edu.co/index.php/rcc/article/view/1079)
 
 
-### Authored/edited books and special issues
+## Authored/edited books and special issues
 
 - Alexander Kotsev, Marco Minguini, Massimo Craglia, Stefano Nativi, Carlos Granell (Guest editors). **Special Issue [A European Approach to the Establishment of Data Spaces](https://www.mdpi.com/journal/data/special_issues/EU_DataSpaces)**. *Data*, 2022. MDPI AG, ISSN 2306-5729.
 
@@ -498,7 +496,7 @@ R. Lemmens, A. Wytzisk, R. de By, C. Granell, M. Gould, P. van Oosterom.
 - C. Granell, M. Gould (editors). **Avances en las Infraestructuras de Datos Espaciales**. Publicacions de la Universitat Jaume I (Castellón, 2006), ISBN 84-8021-590-9 (in Spanish).
 
 
-### Book chapters
+## Book chapters
 
 - M. Portela, C. Granell-Canut.
 **Affective technology for enchanting spaces and cultivating places**.
@@ -637,7 +635,7 @@ In: M. Khosrow-Pour (Ed). *Encyclopedia of Information Science and Technology, S
 Hershey: Information Science Reference (IGI Global), 2008, pp. 1186-1193, ISBN 978-1-60566-026-4.
 © IGI Global [[download]](http://www3.uji.es/~canut/eprints/2008-BookChapter-IST.pdf)
 
-### Intl. conference and workshop publications
+## Intl. conference and workshop publications
 
 - Àngel Ruiz-Fas, Carlos Granell, José Francisco Ramos, Joaquín Huerta, Sergio Trilles. **A zone-based training approach for last-mile routing using Graph Neural Networks and Pointer Networks**. *[SMF26 – Sustainable Mobility Forum 2026](https://smf.unican.es/)*. Postprint on ArXiv, [10.48550/arXiv.2601.04705](https://doi.org/10.48550/arXiv.2601.04705)
 
