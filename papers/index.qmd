@@ -2,50 +2,6 @@
 title: Papers
 ---
 
-
-## Research perspective
-
-Doing research is exciting and challenging. That's true. If you join a research team, it's worth asking yourself [how you do your research](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html). This is not a trivial question when researchers are continuously frustated by [bureaucracy](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000197) and [evaluation metrics](https://medium.com/confessions-of-a-re-tired-academic/i-wasnt-very-productive-if-you-believe-the-numbers-game-d6232332f73d) (how many high-impact papers, how many citations, etc) that can interfere in the real objective of research: *improving people's lives adn making the world a better place*.
-
-Research is no longer an individual task. If you think you can tackle the big challenges of our society alone, you are mistaken. Doing science means communicating: talk with your office mates, chat with colleagues in person or remotedly, and network whenever you can. You never know when inspiration will strike.
-
-To quote Richard Hamming, "The closed door is symbolic of a closed mind." In his [talk](http://www.cs.virginia.edu/~robins/YouAndYourResearch.html), Hamming observed that *"if you have the door to your office closed, you get more work done today and tomorrow, and you are more productive than most. But 10 years later somehow you don't know quite know what problems are worth working on; all the hard work you do is sort of tangential in importance. He who works with the door open gets all kinds of interruptions, but he also occasionally gets clues as to what the world is and what might be important."* So why not try to follow this simple rule: ["Leave Your Door Open"](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.0030213).
-
-A research team is a collaborative environment with its own dynamics. It's wonderful when you work effectively to develop innovative solutions that improve people's quality of life, but, most importantly, you are part of a group and should help ensure the well-being and healthy relationships of team members and colleagues. Remember: in science, the whole is greater than the sum of the parts.
-
-### Initial readings
-
-- [Ten Simple Rules for Doing Your Best Research, According to Hamming](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.0030213)
-- [Ten Simple Rules for Reviewers](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.0020110)
-- [Ten Simple Rules for Graduate Students](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.0030229)
-- [Ten Simple Rules for a Successful Collaboration](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.0030044)
-- [Ten Simple Rules for Getting Grants](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.0020012)
-- [Ten Simple Rules for Getting Published](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.0010057)
-- [Ten Simple Rules for Providing a Scientific Web Resource](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1001126)
-- [Ten Simple Rules for Chairing a Scientific Session](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1000517)
-- [Ten Simple Rules To Combine Teaching and Research](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.1000358)
-- [Ten Simple Rules for Making Good Oral Presentations](http://www.ploscompbiol.org/article/info%3Adoi%2F10.1371%2Fjournal.pcbi.0030077)
-- [Real Lives and White Lies in the Funding of Scientific Research](http://www.plosbiology.org/article/info%3Adoi%2F10.1371%2Fjournal.pbio.1000197)
-- [Science 2.0 (change will happen..)](http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/2961/2573)
-- [Digging into data using new collaborative infrastructures supporting humanities-based computer science research](http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/3372/2950)
-- [How college students use the Web to conduct everyday life research](http://firstmonday.org/htbin/cgiwrap/bin/ojs/index.php/fm/article/view/3484/2857)
-- [How to build a bad Research Center](http://cacm.acm.org/magazines/2014/3/172507-how-to-build-a-bad-research-center/abstract)
-- [Data sharing and how it can benefit your scientific career](https://www.nature.com/articles/d41586-019-01506-x)
-- [Ways to give an effective seminar about your research project](https://www.nature.com/articles/d41586-019-01574-z)
-- [Toolkit: How to write a great academic CV](https://www.nature.com/articles/d41586-019-01358-5)
-- [Scientific presentations: A cheat sheet](http://blogs.nature.com/naturejobs/2017/01/11/scientific-presentations-a-cheat-sheet/)
-- [How to give a great scientific talk](https://www.nature.com/articles/d41586-018-07780-5)
-- [Look beyond publications in assessment of PhDs](https://www.nature.com/articles/s41562-019-0763-7)
-
-### Be green
-
-- [Green Books Publisher](http://www.greenbooks.co.uk/)
-- Sep 2019, [Seven steps to make travel to scientific conferences more sustainable](https://www.nature.com/articles/d41586-019-02747-6)
-- May 2019, [As a climate researcher, should I change my air-travel habits?](https://www.nature.com/articles/d41586-019-01652-2)
-- Apr 2013, [Hypocrites in the air: should climate change academics lead by example?](http://kevinanderson.info/blog/hypocrites-in-the-air-should-climate-change-academics-lead-by-example/)
-
-## Publications
-
 ::: {.callout-caution collapse="true"}
 ## Work in preparation or submitted (newest on top)
 
@@ -70,6 +26,8 @@ A research team is a collaborative environment with its own dynamics. It's wonde
 - Flavio Vata, Marco Octávio Painho, Ana Cristina Costa, Carlos Granell. **An Integrated Framework to Assess Social Inequity and Flood Susceptibility: A Case Study of Harris County, Texas**. *Submitted to [Climate Risk Management](https://www.sciencedirect.com/journal/climate-risk-management)* (10 Nov 2025)
 
 :::
+
+## Publications
 
 ### Journal articles
 

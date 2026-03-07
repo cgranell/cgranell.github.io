@@ -21,10 +21,12 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - href: papers
-        text: Papers
+      - href: research
+        text: Research
       - href: teaching
         text: Teaching
+      - href: papers
+        text: Papers
       - href: outreach
         text: Outreach
       - href: extras

@@ -4,7 +4,6 @@ title: "Extras"
 
 ## Forthcoming trips/events
 
-- **Brighton, UK (22-25 Jun 2026)**. [ACM Interaction Design and Children (IDC)](https://idc.acm.org/2026/) conference.
 - **Tartu, Estonia (16-19 Jun 2026)**. [AGILE 2026](https://www.agile-online.org/) conference.
 - **(Virtual) Basel, Switzerland (8-10 Jun 2026)**. [GeoPython 2026](https://2026.geopython.net/) conference.
 - **Barcelona, Spain (13-15 Apr 2026)**. [ACM CHI 2026](https://chi2026.acm.org/) conference.
