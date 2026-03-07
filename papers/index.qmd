@@ -1,7 +1,9 @@
 ---
 title: Papers
 title-block-banner: true
-page-layout: full
+format: 
+  html:
+    page-layout: full
 ---
 
 ::: {.callout-caution collapse="true"}

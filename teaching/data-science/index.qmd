@@ -2,7 +2,7 @@
 title: "Spatial Data Science"
 subtitle: "Teaching"
 description: "Geospatial data analysis and visualisation with Python"
-image: feature.png
+image: featured.png
 fields: [image, title, subtitle,  description]
 code-overflow: wrap
 ---
