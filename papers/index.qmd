@@ -1,5 +1,6 @@
 ---
 title: Papers
+title-block-banner: true
 ---
 
 ::: {.callout-caution collapse="true"}

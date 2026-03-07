@@ -17,7 +17,6 @@ website:
   navbar:
     logo: images/marca-uji-negre.jpg
     logo-alt: "Universitat Jaume I"
-    
     left:
       - href: index.qmd
         text: Home
@@ -37,7 +36,6 @@ format:
     theme:
       - cosmo
       - brand
-    css: styles.css
     toc: true
     toc-depth: 3
     toc-float: true
