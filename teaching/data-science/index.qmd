@@ -1,10 +1,9 @@
 ---
 title: "Spatial Data Science"
-subtitle: "Teaching materials and methods"
-description: "description here"
-categories: [master, thesis]
-image: featured.png
-fields: [image, title, subtitle, categories, description, abstract]
+subtitle: "Teaching"
+description: "Geospatial data analysis and visualisation with Python"
+image: feature.png
+fields: [image, title, subtitle,  description]
 code-overflow: wrap
 ---
 
