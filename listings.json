@@ -2,6 +2,7 @@
   {
     "listing": "/teaching/index.html",
     "items": [
+      "/teaching/repro-practices/index.html",
       "/teaching/data-science/index.html"
     ]
   }
