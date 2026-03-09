@@ -9,7 +9,7 @@ fields: [image, title, description]
 
 ::: {.column-margin}
 
-![](featured.png){width=50%}
+![](featured.png)
 
 :::
 

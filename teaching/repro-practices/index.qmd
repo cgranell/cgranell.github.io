@@ -9,7 +9,7 @@ fields: [image, title, description]
 
 ::: {.column-margin}
 
-![](featured.png){width=50%}
+![](featured.png)
 
 :::
 
@@ -33,7 +33,7 @@ The course is designed to be practical and hands-on, with a focus on the princip
 
 ::: {.column-margin}
 
-![](https://reproducible-agile.github.io/public/images/reproducible-AGILE-logo-square.svg){width=50%}
+![](https://reproducible-agile.github.io/public/images/reproducible-AGILE-logo-square.svg)
 
 :::
 
