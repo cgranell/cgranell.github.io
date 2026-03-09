@@ -5,6 +5,7 @@ subtitle: |
 listing:
   contents: 
     - "data-science/index.qmd"
+    - "repro-practices/index.qmd"
   sort: "title asc"
   type: grid
   grid-columns: 3
