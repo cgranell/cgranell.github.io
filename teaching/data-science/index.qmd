@@ -1,6 +1,7 @@
 ---
 title: "Spatial Data Science"
 description: "Geospatial data analysis and visualisation with Python"
+categories: [master courses]
 image: featured.png
 fields: [image, title, description]
 ---
@@ -8,7 +9,7 @@ fields: [image, title, description]
 
 ::: {.column-margin}
 
-![](featured.png)
+![](featured.png){width=50%}
 
 :::
 

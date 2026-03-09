@@ -1,6 +1,7 @@
 ---
 title: "Open and Reproducible Research"
 description: "Practices and tools for open and reproducible research in general and applied to GIScience in particular"
+categories: [training courses]
 image: featured.png
 fields: [image, title, description]
 ---

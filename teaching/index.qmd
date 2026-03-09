@@ -9,7 +9,8 @@ listing:
   sort: "title asc"
   type: grid
   grid-columns: 3
-  fields: [image, title, description]
+  categories: true
+  fields: [image, title, categories, description]
 title-block-banner: true
 ---
 
