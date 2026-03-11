@@ -73,7 +73,7 @@ ul.task-list li input[type="checkbox"] {
 <script>
 
   window.document.addEventListener("DOMContentLoaded", function (_event) {
-    const listingTargetEl = window.document.querySelector('#listing-listing .list');
+    const listingTargetEl = window.document.querySelector('#listing-contents .list');
     if (!listingTargetEl) {
       // No listing discovered, do not attach.
       return; 
@@ -86,7 +86,7 @@ ul.task-list li input[type="checkbox"] {
     };
 
     window['quarto-listings'] = window['quarto-listings'] || {};
-    window['quarto-listings']['listing-listing'] = new List('listing-listing', options);
+    window['quarto-listings']['listing-contents'] = new List('listing-contents', options);
 
     if (window['quarto-listing-loaded']) {
       window['quarto-listing-loaded']();
@@ -211,7 +211,13 @@ window.Quarto = {
 <!-- sidebar -->
 <!-- margin-sidebar -->
     <div id="quarto-margin-sidebar" class="sidebar margin-sidebar">
-        
+        <nav id="TOC" role="doc-toc" class="toc-active">
+    <h2 id="toc-title">On this page</h2>
+   
+  <ul>
+  <li><a href="#teaching-papers" id="toc-teaching-papers" class="nav-link active" data-scroll-target="#teaching-papers">Teaching papers</a></li>
+  </ul>
+</nav>
     <h5 class="quarto-listing-category-title">Categories</h5><div class="quarto-listing-category category-default"><div class="category" data-category="">All <span class="quarto-category-count">(2)</span></div><div class="category" data-category="bWFzdGVyJTIwY291cnNlcw==">master courses <span class="quarto-category-count">(1)</span></div><div class="category" data-category="dHJhaW5pbmclMjBjb3Vyc2Vz">training courses <span class="quarto-category-count">(1)</span></div></div></div>
 <!-- main -->
 <main class="content quarto-banner-title-block" id="quarto-document-content">
@@ -220,13 +226,9 @@ window.Quarto = {
 
 
 
-
-
-
-
-<div class="quarto-listing quarto-listing-container-grid" id="listing-listing">
+<div id="listing-contents" class="quarto-listing quarto-listing-container-grid">
 <div class="list grid quarto-listing-cols-3">
-<div class="g-col-1" data-index="0" data-categories="dHJhaW5pbmclMjBjb3Vyc2Vz" data-listing-file-modified-sort="1773253725065" data-listing-reading-time-sort="2" data-listing-word-count-sort="216">
+<div class="g-col-1" data-index="0" data-categories="dHJhaW5pbmclMjBjb3Vyc2Vz" data-listing-file-modified-sort="1773254747014" data-listing-reading-time-sort="2" data-listing-word-count-sort="216">
 <a href="../teaching/repro-practices/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -247,7 +249,7 @@ Open and Reproducible Research
 </div>
 </div></a>
 </div>
-<div class="g-col-1" data-index="1" data-categories="bWFzdGVyJTIwY291cnNlcw==" data-listing-file-modified-sort="1773253725064" data-listing-reading-time-sort="1" data-listing-word-count-sort="89">
+<div class="g-col-1" data-index="1" data-categories="bWFzdGVyJTIwY291cnNlcw==" data-listing-file-modified-sort="1773254747013" data-listing-reading-time-sort="1" data-listing-word-count-sort="89">
 <a href="../teaching/data-science/index.html" class="quarto-grid-link">
 <div class="quarto-grid-item card h-100 card-left">
 <p class="card-img-top">
@@ -270,7 +272,45 @@ Spatial Data Science
 </div>
 </div>
 <div class="listing-no-matching d-none">No matching items</div>
-</div></main> <!-- /main -->
+</div>
+<div class="callout callout-style-default callout-caution callout-titled">
+<div class="callout-header d-flex align-content-center collapsed" data-bs-toggle="collapse" data-bs-target=".callout-1-contents" aria-controls="callout-1" aria-expanded="false" aria-label="Toggle callout">
+<div class="callout-icon-container">
+<i class="callout-icon"></i>
+</div>
+<div class="callout-title-container flex-fill">
+<span class="screen-reader-only">Caution</span>Work in preparation or submitted (newest on top)
+</div>
+<div class="callout-btn-toggle d-inline-block border-0 py-1 ps-1 pe-0 float-end"><i class="callout-toggle"></i></div>
+</div>
+<div id="callout-1" class="callout-1-contents callout-collapse collapse">
+<div class="callout-body-container callout-body">
+<ul>
+<li><p>Sarah Lennon et al.&nbsp;<strong>ChemExpo - a Joint Master Erasmus Mundus programme on Chemical Exposome and Human Health: From Research to Decision</strong>. <em>Submitted to <a href="https://imsc26.com/">IMSC 2026</a></em> (13 Feb 2026).</p></li>
+<li><p>Matey-Sanz, M., Granell, C., Mollineda, R. A. <strong>Responsible Integration of Generative AI in Software Engineering Education.</strong> <em>Submitted to IEEE Journal of Latin-American Learning Technologies (IEEE-RITA)</em>, ISSN 1932-8540 (5 Dec 2025).</p></li>
+</ul>
+</div>
+</div>
+</div>
+<section id="teaching-papers" class="level2">
+<h2 class="anchored" data-anchor-id="teaching-papers">Teaching papers</h2>
+<ul>
+<li><p>Matey Sanz, M., Granell Canut, C., Mollineda Cárdenas, R. A. <strong>La IA generativa como acompañante en el ciclo de vida del software.</strong> <em>Actas de las Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2025)</em>, vol 10, pp 45-53, 2025, ISSN 2531-0607. Valladolid, Spain, 9-11 Jul 2025. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> | <a href="https://aenui.org/actas/fichas/JENUI_2025_005.html">[download]</a></p></li>
+<li><p>Ramos, J. F., Trilles, S., Granell, C. <strong>Are You Able to Tell Stories with Data?</strong> <em>EDULEARN24 Proceedings</em>, pp.&nbsp;6978-6982, 2024, ISBN 978-84-09-62938-1. DOI: <a href="https://doi.org/10.21125/edulearn.2024.1653">10.21125/edulearn.2024.1653</a>. Palma de Mallorca, Spain, 1–3 Jul 2024.</p></li>
+<li><p>Matey-Sanz, M., Granell, C., Mollineda Cárdenas, R. A. <strong>Estrategias de control y seguimiento activo de proyectos de desarrollo de software.</strong> <em>Actas de las Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2024)</em>, vol 9, pp 165-172, 2024, ISSN 2531-0607. A Coruña, Spain, 19-21 Jun 2024. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> | <a href="https://aenui.org/actas/pdf/JENUI_2024_021.pdf">[download]</a> | <a href="http://hdl.handle.net/10234/208249">[repositori UJI]</a> | <a href="https://jenui2024.udc.es/premios-jenui-2024/">[premio SISTEDES al mejor trabajo sobre ingeniería del software]</a></p></li>
+<li><p>González Pérez, A., Granell Canut, C., Mollineda Cárdenas, R. A. <strong>Coordinación de asignaturas dirigida por un proyecto de desarrollo ágil con evaluación unificada.</strong> <em>Actas de las Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2022)</em>, vol 7, pp 127-134, 2022, ISSN 2531-0607. A Coruña, Spain, Jul 2022. <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/">CC BY-NC-SA 4.0</a> | <a href="https://aenui.org/actas/pdf/JENUI_2022_017.pdf">[download]</a></p></li>
+<li><p>Gómez-Cambronero, Á., Miralles, I., Granell, C. <strong>Escape Room Video Game to Learn and Practice Different Writing Systems.</strong> <em>Proceedings of INTED 2018</em>, pp.&nbsp;3268-3273, 2018, ISBN 978-84-697-9480-7. Valencia, Spain, Mar 2018.</p></li>
+<li><p>Granell-Canut, C. <strong>Artículo B394. SIG y bibliotecas.</strong> <em>Máster Universitario en Información Digital</em>, Universidad Pompeu Fabra, Apr 2015. <a href="https://www.youtube.com/watch?v=2YMTK-ZjBoU">[video presentation]</a></p></li>
+<li><p>Granell, C., Belmonte, O., Erdozain, MC. <strong>A Proposal for Teaching Java Programming Language for Developing Real-World Projects.</strong> <em>Proceedings of INTED 2011</em>, ISBN 978-84-614-7423-3. Valencia, Spain, Mar 2011.</p></li>
+<li><p>Belmonte, O., Granell, C. <strong>Covering Demands in Java Employability.</strong> <em>Proceedings of INTED 2009</em>, ISBN 978-84-612-7578-6. Valencia, Spain, Mar 2009.</p></li>
+<li><p>Huerta, J., Gould, M., Quirós, R., Granell, C., Chover, M. <strong>Success Factors in the Application, Starting and Teaching of a Master’s Degree within the Erasmus Mundus Program.</strong> <em>Proceedings of INTED 2008</em>, ISBN 978-84-612-0190-7. Valencia, Spain, Mar 2008.</p></li>
+</ul>
+
+
+
+</section>
+
+</main> <!-- /main -->
 <script id="quarto-html-after-body" type="application/javascript">
   window.document.addEventListener("DOMContentLoaded", function (event) {
     const icon = "";
