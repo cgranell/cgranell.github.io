@@ -10,33 +10,11 @@ format:
 ::: {.callout-caution collapse="true"}
 ## Work in preparation or submitted (newest on top)
 
-- Sarah Lennon et al. **ChemExpo - a Joint Master Erasmus Mundus programme on Chemical Exposome and Human Health: From Research to Decision**. *Submitted to [IMSC 2026](https://imsc26.com/)* (13 Feb 2026)
+- Celia Sáenz-Martínez, Carlos Granell, José Francisco Ramos, Sergio Trilles. **Implementing Interdisciplinary STEAM projects with Sucre4STEAM: from block-based programming to real prototyping in a rural school.** *Submitted to [Edulearn 2026](https://iated.org/edulearn/)* (12 Mar 2026).
 
 - Celia Sáenz-Martínez, Belén Ibáñez Montoliu, José Francisco Ramos-Romero, Carlos Granell, Sergio Trilles. **Evolución de la plataforma *Sucre4Stem* para el aprendizaje del Internet de las Cosas en las aulas**. *Submitted to 2026 Congreso de Tecnología, Aprendizaje y Enseñanza de la Electrónica ([TAEE 2026](https://congresotaee.es/))* (15 Dec 2025)
 
-- Matey-Sanz, M., Granell, C., Mollineda, R. A. **Responsible Integration of Generative AI in Software Engineering Education.** *Submitted to IEEE Journal of Latin-American Learning Technologies (IEEE-RITA)*, ISSN 1932-8540 (5 Dec 2025).
-
 :::
-
-## Teaching papers
-
-- Matey Sanz, M., Granell Canut, C., Mollineda Cárdenas, R. A. **La IA generativa como acompañante en el ciclo de vida del software.** *Actas de las Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2025)*, vol 10, pp 45-53, 2025, ISSN 2531-0607. Valladolid, Spain, 9-11 Jul 2025. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [[download]](https://aenui.org/actas/fichas/JENUI_2025_005.html)
-
-- Ramos, J. F., Trilles, S., Granell, C. **Are You Able to Tell Stories with Data?** *EDULEARN24 Proceedings*, pp. 6978-6982, 2024, ISBN 978-84-09-62938-1. DOI: [10.21125/edulearn.2024.1653](https://doi.org/10.21125/edulearn.2024.1653). Palma de Mallorca, Spain, 1–3 Jul 2024.
-
-- Matey-Sanz, M., Granell, C., Mollineda Cárdenas, R. A. **Estrategias de control y seguimiento activo de proyectos de desarrollo de software.** *Actas de las Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2024)*, vol 9, pp 165-172, 2024, ISSN 2531-0607. A Coruña, Spain, 19-21 Jun 2024. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [[download]](https://aenui.org/actas/pdf/JENUI_2024_021.pdf) |  [[repositori UJI]](http://hdl.handle.net/10234/208249) | [[premio SISTEDES al mejor trabajo sobre ingeniería del software]](https://jenui2024.udc.es/premios-jenui-2024/)
-
-- González Pérez, A., Granell Canut, C., Mollineda Cárdenas, R. A. **Coordinación de asignaturas dirigida por un proyecto de desarrollo ágil con evaluación unificada.** *Actas de las Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2022)*, vol 7, pp 127-134, 2022, ISSN 2531-0607. A Coruña, Spain, Jul 2022. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [[download]](https://aenui.org/actas/pdf/JENUI_2022_017.pdf)
-
-- Gómez-Cambronero, Á., Miralles, I., Granell, C. **Escape Room Video Game to Learn and Practice Different Writing Systems.** *Proceedings of INTED 2018*, pp. 3268-3273, 2018, ISBN 978-84-697-9480-7. Valencia, Spain, Mar 2018.
-
-- Granell-Canut, C. **Artículo B394. SIG y bibliotecas.** *Máster Universitario en Información Digital*, Universidad Pompeu Fabra, Apr 2015. [[video presentation]](https://www.youtube.com/watch?v=2YMTK-ZjBoU)
-
-- Granell, C., Belmonte, O., Erdozain, MC. **A Proposal for Teaching Java Programming Language for Developing Real-World Projects.** *Proceedings of INTED 2011*, ISBN 978-84-614-7423-3. Valencia, Spain, Mar 2011.
-
-- Belmonte, O., Granell, C. **Covering Demands in Java Employability.** *Proceedings of INTED 2009*, ISBN 978-84-612-7578-6. Valencia, Spain, Mar 2009.
-
-- Huerta, J., Gould, M., Quirós, R., Granell, C., Chover, M. **Success Factors in the Application, Starting and Teaching of a Master's Degree within the Erasmus Mundus Program.** *Proceedings of INTED 2008*, ISBN 978-84-612-0190-7. Valencia, Spain, Mar 2008.
 
 
 ## Computationnal thinking papers
