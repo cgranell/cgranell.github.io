@@ -15,11 +15,30 @@ title-block-banner: true
 
 :::
 
-## Teaching-related papers
-
-- Trilles, S., Juan, P., Santagueda Villanueva, M., Granell, C., Ramos, J. F. **SUCRE4KIDS: A Tangible Programming Approach for Introducing Computational Thinking in Early Education.** *ICERI25 Proceedings*, pp. 8779-8784, 2025, ISBN 978-84-09-78706-7. DOI: [10.21125/iceri.2025.2476](https://doi.org/10.21125/iceri.2025.2476). Seville, Spain, 10–12 Nov 2025.
+## Teaching papers
 
 - Matey Sanz, M., Granell Canut, C., Mollineda Cárdenas, R. A. **La IA generativa como acompañante en el ciclo de vida del software.** *Actas de las Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2025)*, vol 10, pp 45-53, 2025, ISSN 2531-0607. Valladolid, Spain, 9-11 Jul 2025. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [[download]](https://aenui.org/actas/fichas/JENUI_2025_005.html)
+
+- Ramos, J. F., Trilles, S., Granell, C. **Are You Able to Tell Stories with Data?** *EDULEARN24 Proceedings*, pp. 6978-6982, 2024, ISBN 978-84-09-62938-1. DOI: [10.21125/edulearn.2024.1653](https://doi.org/10.21125/edulearn.2024.1653). Palma de Mallorca, Spain, 1–3 Jul 2024.
+
+- Matey-Sanz, M., Granell, C., Mollineda Cárdenas, R. A. **Estrategias de control y seguimiento activo de proyectos de desarrollo de software.** *Actas de las Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2024)*, vol 9, pp 165-172, 2024, ISSN 2531-0607. A Coruña, Spain, 19-21 Jun 2024. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [[download]](https://aenui.org/actas/pdf/JENUI_2024_021.pdf) |  [[repositori UJI]](http://hdl.handle.net/10234/208249) | [[premio SISTEDES al mejor trabajo sobre ingeniería del software]](https://jenui2024.udc.es/premios-jenui-2024/)
+
+- González Pérez, A., Granell Canut, C., Mollineda Cárdenas, R. A. **Coordinación de asignaturas dirigida por un proyecto de desarrollo ágil con evaluación unificada.** *Actas de las Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2022)*, vol 7, pp 127-134, 2022, ISSN 2531-0607. A Coruña, Spain, Jul 2022. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [[download]](https://aenui.org/actas/pdf/JENUI_2022_017.pdf)
+
+- Gómez-Cambronero, Á., Miralles, I., Granell, C. **Escape Room Video Game to Learn and Practice Different Writing Systems.** *Proceedings of INTED 2018*, pp. 3268-3273, 2018, ISBN 978-84-697-9480-7. Valencia, Spain, Mar 2018.
+
+- Granell-Canut, C. **Artículo B394. SIG y bibliotecas.** *Máster Universitario en Información Digital*, Universidad Pompeu Fabra, Apr 2015. [[video presentation]](https://www.youtube.com/watch?v=2YMTK-ZjBoU)
+
+- Granell, C., Belmonte, O., Erdozain, MC. **A Proposal for Teaching Java Programming Language for Developing Real-World Projects.** *Proceedings of INTED 2011*, ISBN 978-84-614-7423-3. Valencia, Spain, Mar 2011.
+
+- Belmonte, O., Granell, C. **Covering Demands in Java Employability.** *Proceedings of INTED 2009*, ISBN 978-84-612-7578-6. Valencia, Spain, Mar 2009.
+
+- Huerta, J., Gould, M., Quirós, R., Granell, C., Chover, M. **Success Factors in the Application, Starting and Teaching of a Master's Degree within the Erasmus Mundus Program.** *Proceedings of INTED 2008*, ISBN 978-84-612-0190-7. Valencia, Spain, Mar 2008.
+
+
+## Computationnal thinking papers
+
+- Trilles, S., Juan, P., Santagueda Villanueva, M., Granell, C., Ramos, J. F. **SUCRE4KIDS: A Tangible Programming Approach for Introducing Computational Thinking in Early Education.** *ICERI25 Proceedings*, pp. 8779-8784, 2025, ISBN 978-84-09-78706-7. DOI: [10.21125/iceri.2025.2476](https://doi.org/10.21125/iceri.2025.2476). Seville, Spain, 10–12 Nov 2025.
 
 <!-- Special Issue on "Coding, Computational, Algorithmic, Design, Creative, and Critical Thinking in K-16 education" -->
 - [![2024](https://img.shields.io/badge/2024-10.1109/TE.2024.342266-brightgreen.svg)](https://doi.org/10.1109/TE.2024.3422666)
@@ -27,27 +46,14 @@ Trilles, S., Monfort-Muriach, A., Cueto-Rubio, E., López-Girona, C., Granell, C
 
 - Trilles, S., Granell, C., Ramos, J. F. **SUCRE4STEM's Dual Approach to Enhancing Computational Thinking and Programming Skills.** *EDULEARN24 Proceedings*, pp. 8094-8103, 2024, ISBN 978-84-09-62938-1. DOI: [10.21125/edulearn.2024.1908](https://doi.org/10.21125/edulearn.2024.1908). Palma de Mallorca, Spain, 1–3 Jul 2024.
 
-- Ramos, J. F., Trilles, S., Granell, C. **Are You Able to Tell Stories with Data?** *EDULEARN24 Proceedings*, pp. 6978-6982, 2024, ISBN 978-84-09-62938-1. DOI: [10.21125/edulearn.2024.1653](https://doi.org/10.21125/edulearn.2024.1653). Palma de Mallorca, Spain, 1–3 Jul 2024.
-
-- Matey-Sanz, M., Granell, C., Mollineda Cárdenas, R. A. **Estrategias de control y seguimiento activo de proyectos de desarrollo de software.** *Actas de las Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2024)*, vol 9, pp 165-172, 2024, ISSN 2531-0607. A Coruña, Spain, 19-21 Jun 2024. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [[download]](https://aenui.org/actas/pdf/JENUI_2024_021.pdf) |  [[repositori UJI]](http://hdl.handle.net/10234/208249) | [[premio SISTEDES al mejor trabajo sobre ingeniería del software]](https://jenui2024.udc.es/premios-jenui-2024/)
-
 - Granell, C., Trilles, S. **Alcance del pensamiento computacional en educación secundaria: Currículo nacional y percepción docente.** *OSF Preprint*, [osf.io/dze94](https://doi.org/10.31219/osf.io/dze94) (29 Jan 2024).
 
 - Trilles, S., Monfort-Muriach, A., Lacomba, D., Granell, C. **Introducción a los conceptos del pensamiento computacional en educación infantil y primaria con programación tangible.** *Actas de las Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2023)*, vol 8, pp 257-260, 2023, ISSN 2531-0607. Granada, Spain, Jul 2023. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [[download]](https://aenui.org/actas/pdf/JENUI_2023_032.pdf) | [[repositori UJI]](http://hdl.handle.net/10234/204116) 
 
-- Nüst, D., Ostermann, F. O., Granell, C. **A peer review process for higher reproducibility of publications in GIScience can also work for Earth System Sciences.** *EGU General Assembly 2023*, Vienna, Austria, 24–28 Apr 2023. DOI: [10.5194/egusphere-egu23-15384](https://doi.org/10.5194/egusphere-egu23-15384).
-
 - Trilles, S., Monfort-Muriach, A., Cueto-Rubio, E., Granell, C., Juan, P. **Sucre4Stem: Internet of Things in Classrooms.** *2022 Congreso de Tecnología, Aprendizaje y Enseñanza de la Electrónica (TAEE)*, pp. 1-4, 2022, ISBN 978-1-6654-2161-4. Teruel, Spain, Jul 2022. DOI: [10.1109/TAEE54169.2022.9840703](https://doi.org/10.1109/TAEE54169.2022.9840703). [[repositorio UJI]](http://hdl.handle.net/10234/200644)
-
-- González Pérez, A., Granell Canut, C., Mollineda Cárdenas, R. A. **Coordinación de asignaturas dirigida por un proyecto de desarrollo ágil con evaluación unificada.** *Actas de las Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2022)*, vol 7, pp 127-134, 2022, ISSN 2531-0607. A Coruña, Spain, Jul 2022. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [[download]](https://aenui.org/actas/pdf/JENUI_2022_017.pdf)
-
 
 - [![2022](https://img.shields.io/badge/2022-10.1109/RITA.2022.3166854-brightgreen.svg)](https://doi.org/10.1109/RITA.2022.3166854)
 Trilles, S., Monfort-Muriach, A., Gómez-Cambronero, Á., Granell, C. **Sucre4Stem: Collaborative Projects Based on IoT Devices for Students in Secondary and Pre-University Education.** *IEEE Journal of Latin-American Learning Technologies (IEEE-RITA)*, 17(2), 150-159, 2022, ISSN 1932-8540. DOI: 10.1109/RITA.2022.3166854.
-
-- Granell, C., Sileryte, R., Nüst, D. **Reproducible Graduate Theses in GIScience.** *Abstract presented at Research Reproducibility 2020 conference*, 2020. [[download]](https://pwd.aa.ufl.edu/researchre-pro/wp-content/uploads/sites/8/2020/11/Paper_2-1_Granell_Carlos.pdf) | [[presentation]](https://osf.io/wcexy/)
-
-- Nüst, D., Ostermann, F., Granell, C., Kmoch, A. **Improving Reproducibility of Geospatial Conference Papers – Lessons Learned from a First Implementation of Reproducibility Reviews.** *Septentrio Conference Series*, 4, 2020, ISSN 2387-3086. DOI: [10.7557/5.5601](https://doi.org/10.7557/5.5601).
 
 - [![2020](https://img.shields.io/badge/2020-10.1002/cae.22319-brightgreen.svg)](https://doi.org/10.1002/cae.22319)
 Trilles, S., Granell, C. **Advancing Preuniversity Students' Computational Thinking Skills Through an Educational Project Based on Tangible Elements and Virtual Block-Based Programming.** *Computer Applications in Engineering Education*, 28(6), 1490-1502, 2020, ISSN 1099-0542. DOI: 10.1002/cae.22319.
@@ -61,15 +67,14 @@ Trilles, S., Granell, C. **Advancing Preuniversity Students' Computational Think
 
 - Trilles, S., Granell, C. **SUCRE4Kids: El fomento del pensamiento computacional a través de la interacción social y tangible.** *Actas de las Jornadas sobre Enseñanza Universitaria de la Informática*, vol 3, pp 303-310, 2018, ISSN 2531-0607. Barcelona, Spain, Jul 2018. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [[download]](https://aenui.org/actas/pdf/JENUI_2018_016.pdf)
 
-- Gómez-Cambronero, Á., Miralles, I., Granell, C. **Escape Room Video Game to Learn and Practice Different Writing Systems.** *Proceedings of INTED 2018*, pp. 3268-3273, 2018, ISBN 978-84-697-9480-7. Valencia, Spain, Mar 2018.
+## Reproducibility papers
 
-- Granell-Canut, C. **Artículo B394. SIG y bibliotecas.** *Máster Universitario en Información Digital*, Universidad Pompeu Fabra, Apr 2015. [[video presentation]](https://www.youtube.com/watch?v=2YMTK-ZjBoU)
+- Nüst, D., Ostermann, F. O., Granell, C. **A peer review process for higher reproducibility of publications in GIScience can also work for Earth System Sciences.** *EGU General Assembly 2023*, Vienna, Austria, 24–28 Apr 2023. DOI: [10.5194/egusphere-egu23-15384](https://doi.org/10.5194/egusphere-egu23-15384).
 
-- Granell, C., Belmonte, O., Erdozain, MC. **A Proposal for Teaching Java Programming Language for Developing Real-World Projects.** *Proceedings of INTED 2011*, ISBN 978-84-614-7423-3. Valencia, Spain, Mar 2011.
+- Granell, C., Sileryte, R., Nüst, D. **Reproducible Graduate Theses in GIScience.** *Abstract presented at Research Reproducibility 2020 conference*, 2020. [[download]](https://pwd.aa.ufl.edu/researchre-pro/wp-content/uploads/sites/8/2020/11/Paper_2-1_Granell_Carlos.pdf) | [[presentation]](https://osf.io/wcexy/)
 
-- Belmonte, O., Granell, C. **Covering Demands in Java Employability.** *Proceedings of INTED 2009*, ISBN 978-84-612-7578-6. Valencia, Spain, Mar 2009.
+- Nüst, D., Ostermann, F., Granell, C., Kmoch, A. **Improving Reproducibility of Geospatial Conference Papers – Lessons Learned from a First Implementation of Reproducibility Reviews.** *Septentrio Conference Series*, 4, 2020, ISSN 2387-3086. DOI: [10.7557/5.5601](https://doi.org/10.7557/5.5601).
 
-- Huerta, J., Gould, M., Quirós, R., Granell, C., Chover, M. **Success Factors in the Application, Starting and Teaching of a Master's Degree within the Erasmus Mundus Program.** *Proceedings of INTED 2008*, ISBN 978-84-612-0190-7. Valencia, Spain, Mar 2008.
 
 ## Media
 
