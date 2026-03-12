@@ -22,6 +22,8 @@ title-block-banner: true
 ::: {.callout-caution collapse="true"}
 ## Work in preparation or submitted (newest on top)
 
+- J. F. Ramos, S. Trilles, C. Granell. **Using LEGO® Serious Play to improve data visuatilization through data storytelling**. *Submitted to [Edulearn 2026](https://iated.org/edulearn/)* (12 Mar 2026).
+
 - Sarah Lennon et al. **ChemExpo - a Joint Master Erasmus Mundus programme on Chemical Exposome and Human Health: From Research to Decision**. *Submitted to [IMSC 2026](https://imsc26.com/)* (13 Feb 2026).
 
 - Matey-Sanz, M., Granell, C., Mollineda, R. A. **Responsible Integration of Generative AI in Software Engineering Education.** *Submitted to IEEE Journal of Latin-American Learning Technologies (IEEE-RITA)*, ISSN 1932-8540 (5 Dec 2025).
