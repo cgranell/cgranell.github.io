@@ -11,13 +11,15 @@ format:
 
 - Nüst et al. **Reproducibility in Research using Geospatial Data**. *Chapter in prep to [Handbook for Reproduction and Replication Studies](https://forrt.org/replication_handbook/)* (May 2026)
 
+- Scheider, S., et al. **GIScience as a meta-science: Adding the missing theory to our geo-information practice**. *In prep for [JOSIS](https://josis.org/index.php/josis)* (End Mar 2026)
+
 - Leonardo Monteiro-Fialho et al. **First Steps Towards an Open-Source Framework to Support Public Transport Data Management**. *Submitted to [GISTAM 2026](https://gistam.scitevents.org/)* (24 Feb 2026)
 
 - Iratxe Alonso-Olea, Patricia Gual-Montolio, Laura Díaz-Sanahuja, Lucas Niño-Ruiz, Adriana Mira, Sven Casteleyn, Carlos Granell, Azucena García-Palacios, Juana María Bretón-López. **Maximizing the efficacy of in vivo exposure therapy using smartphone-assisted just-in-time adaptive intervention for anxiety disorders: study protocol for a randomized controlled trial**. *Submitted to [BMJ Open](https://bmjopen.bmj.com/)* (20 Jan 2026)
 
-- Granell, C. et al. **Longitudinal assessment of research in GIScience domain shows a positive impact of reproducible research practices**. *Submitted to [https://josis.org/index.php/josis](https://doi.org/10.17605/OSF.IO/XZJCH)* (3 Dec 2025). Preprint on EarthArXiv, [10.31223/X5RJ3W](https://doi.org/10.31223/X5RJ3W)
+- Granell, C. et al. **Longitudinal assessment of research in GIScience domain shows a positive impact of reproducible research practices**. *Submitted to [JOSIS](https://josis.org/index.php/josis)* (3 Dec 2025). Preprint on EarthArXiv, [10.31223/X5RJ3W](https://doi.org/10.31223/X5RJ3W). Prereg study below
 
-- Nüst, D., Granell, C., & Ostermann, F. O. **Impact of reproducible paper guidelines on computational papers: A longitudinal study on the AGILE and GIScience conference series**. *OSF Preregistered study*, [OSF.IO/XZJCH](https://doi.org/10.17605/OSF.IO/XZJCH) (24 Jul 2023)
+  - Nüst, D., Granell, C., & Ostermann, F. O. **Impact of reproducible paper guidelines on computational papers: A longitudinal study on the AGILE and GIScience conference series**. *OSF Preregistered study*, [OSF.IO/XZJCH](https://doi.org/10.17605/OSF.IO/XZJCH) (24 Jul 2023)
 
 - Alberto González-Pérez, Juana Bretón-López, Carlos Granell, Jorge Osma, Lucas Niño-Ruiz, Javier Herrero-González, Miguel Matey-Sanz, Iratxe Alonso Olea, Laura Díaz-Sanahuja, Sven Casteleyn. **Driving a geolocation-based app for self-guided in-vivo exposure therapy towards an RCT through a qualitative evaluation**. *Submitted to [Intelligent Medicine](https://www.sciencedirect.com/journal/intelligent-medicine)* (27 Jun 2025)
 
