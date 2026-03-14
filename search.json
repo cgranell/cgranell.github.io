@@ -23,7 +23,7 @@
   {
     "objectID": "teaching/repro-agile/index.html",
     "href": "teaching/repro-agile/index.html",
-    "title": "eproducible Research @ AGILE",
+    "title": "Reproducible Research @ AGILE",
     "section": "",
     "text": "The Reproducible Research @ AGILE website hosts the workshop series on reproducible research practices in GIScience collocated in the AGILE conference series, the AGILE Reproducible Reviews held at each AGILE conference since 2020n, and related publications."
   },
@@ -32,7 +32,7 @@
     "href": "teaching/repro-practices/index.html",
     "title": "Open and Reproducible Research @ UJI",
     "section": "",
-    "text": "Open and reproducible research: practices and tools training course is part of the cross-disciplinary training programme of the Doctoral School at UJI. I have been teaching this course since 2020, and I have been updating the content every year:\n\nReproducible Research Practices (academic year 2019/2020).\n[Reproducible Research Practices (academic year 2020/2021)(https://cgranell.github.io/rrp21/), or What can I do to make my next article (more) reproducible?.\nReproducible Research Practices (academic years 2021/2022 and 2022/2023), or What can I do to make my next article (more) reproducible?.\nReproducible Research Practices (academic year 2023/2024), or What can I do to make my next article (more) reproducible?.\nNotebooks for Academics (academic year 2023/2024), or Use of Quarto for research and teaching documents.\nOpen and reproducible research: practices and tools (academic year 2025/2026-), that integrates the previous courses on Reproducible Research Practices and Notebooks for Academics into one course.\n\nThe course is designed to be practical and hands-on, with a focus on the principles and strategies of open science and on tools and practices to make research projects and scientific and technical materials more reproducible. The aim is to provide students with the knowledge and skills they need to conduct open and reproducible research, and to help them understand the importance of these practices in the scientific community."
+    "text": "Open and reproducible research: practices and tools training course is part of the cross-disciplinary training programme of the Doctoral School at UJI. I have been teaching this course since 2020, and I have been updating the content every year:\n\nReproducible Research Practices (academic year 2019/2020).\n[Reproducible Research Practices (academic year 2020/2021)(https://cgranell.github.io/rrp21/), or What can I do to make my next article (more) reproducible?.\nReproducible Research Practices (academic years 2021/2022 and 2022/2023), or What can I do to make my next article (more) reproducible?.\nReproducible Research Practices (academic year 2023/2024), or What can I do to make my next article (more) reproducible?.\nNotebooks for Academics (academic year 2023/2024), or Use of Quarto for research and teaching documents.\nOpen and reproducible research: practices and tools (academic year 2025/2026-), that integrates the previous courses Reproducible Research Practices and Notebooks for Academics into one course.\n\nThe course is designed to be practical and hands-on, with a focus on the principles and strategies of open science and on tools and practices to make research projects and scientific and technical materials more reproducible. The aim is to provide students with the knowledge and skills they need to conduct open and reproducible research, and to help them understand the importance of these practices in the scientific community."
   },
   {
     "objectID": "research/index.html",
@@ -144,7 +144,7 @@
     "href": "teaching/index.html",
     "title": "Teaching",
     "section": "",
-    "text": "training courses\n\n\n\nPractices and tools for open and reproducible research in general\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmaster courses\n\n\n\nGeospatial data analysis and visualisation with Python\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ntraining courses\n\n\n\nPractices and tools for open and reproducible research in GIScience\n\n\n\n\n\nNo matching items"
+    "text": "training courses\n\n\n\nPractices and tools for open and reproducible research in general\n\n\n\n\n\n\n\n\n\n\n\n\n\n\ntraining courses\n\n\n\nPractices and tools for open and reproducible research in GIScience\n\n\n\n\n\n\n\n\n\n\n\n\n\n\nmaster courses\n\n\n\nGeospatial data analysis and visualisation with Python\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "teaching/index.html#teaching-papers",

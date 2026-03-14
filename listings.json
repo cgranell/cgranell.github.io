@@ -3,8 +3,8 @@
     "listing": "/teaching/index.html",
     "items": [
       "/teaching/repro-practices/index.html",
-      "/teaching/data-science/index.html",
-      "/teaching/repro-agile/index.html"
+      "/teaching/repro-agile/index.html",
+      "/teaching/data-science/index.html"
     ]
   }
 ]
