@@ -2,34 +2,38 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
     <loc>https://cgranell.github.io/extras/index.html</loc>
-    <lastmod>2026-03-13T13:51:39.087Z</lastmod>
+    <lastmod>2026-03-14T13:37:19.904Z</lastmod>
   </url>
   <url>
-    <loc>https://cgranell.github.io/teaching/data-science/index.html</loc>
-    <lastmod>2026-03-13T13:51:39.099Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cgranell.github.io/teaching/index.html</loc>
-    <lastmod>2026-03-13T13:51:39.099Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cgranell.github.io/outreach/index.html</loc>
-    <lastmod>2026-03-13T13:51:39.097Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cgranell.github.io/index.html</loc>
-    <lastmod>2026-03-13T13:51:39.097Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cgranell.github.io/research/index.html</loc>
-    <lastmod>2026-03-13T13:51:39.097Z</lastmod>
+    <loc>https://cgranell.github.io/teaching/repro-agile/index.html</loc>
+    <lastmod>2026-03-14T13:37:19.916Z</lastmod>
   </url>
   <url>
     <loc>https://cgranell.github.io/teaching/repro-practices/index.html</loc>
-    <lastmod>2026-03-13T13:51:39.100Z</lastmod>
+    <lastmod>2026-03-14T13:37:19.917Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cgranell.github.io/research/index.html</loc>
+    <lastmod>2026-03-14T13:37:19.915Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cgranell.github.io/index.html</loc>
+    <lastmod>2026-03-14T13:37:19.914Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cgranell.github.io/outreach/index.html</loc>
+    <lastmod>2026-03-14T13:37:19.914Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cgranell.github.io/teaching/index.html</loc>
+    <lastmod>2026-03-14T13:37:19.916Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cgranell.github.io/teaching/data-science/index.html</loc>
+    <lastmod>2026-03-14T13:37:19.916Z</lastmod>
   </url>
   <url>
     <loc>https://cgranell.github.io/papers/index.html</loc>
-    <lastmod>2026-03-13T13:51:39.097Z</lastmod>
+    <lastmod>2026-03-14T13:37:19.915Z</lastmod>
   </url>
 </urlset>
