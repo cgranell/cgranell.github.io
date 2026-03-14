@@ -1,5 +1,5 @@
 ---
-title: "eproducible Research @ AGILE"
+title: "Reproducible Research @ AGILE"
 description: "Practices and tools for open and reproducible research in GIScience"
 categories: [training courses]
 image: https://reproducible-agile.github.io/public/images/reproducible-AGILE-logo-square.svg
