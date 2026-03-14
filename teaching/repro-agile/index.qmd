@@ -1,0 +1,18 @@
+---
+title: "eproducible Research @ AGILE"
+description: "Practices and tools for open and reproducible research in GIScience"
+categories: [training courses]
+image: https://reproducible-agile.github.io/public/images/reproducible-AGILE-logo-square.svg
+fields: [image, title, description]
+---
+
+
+::: {.column-margin}
+
+![](https://reproducible-agile.github.io/public/images/reproducible-AGILE-logo-square.svg)
+
+:::
+
+The [Reproducible Research @ AGILE](https://reproducible-agile.github.io/) website hosts the workshop series on reproducible research practices in GIScience collocated in the [AGILE conference series](https://agile-gi.eu/), the AGILE Reproducible Reviews held at each  AGILE conference since 2020n, and related publications.
+
+

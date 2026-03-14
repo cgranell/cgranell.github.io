@@ -1,6 +1,6 @@
 ---
-title: "Open and Reproducible Research"
-description: "Practices and tools for open and reproducible research in general and applied to GIScience in particular"
+title: "Open and Reproducible Research @ UJI"
+description: "Practices and tools for open and reproducible research in general"
 categories: [training courses]
 image: featured.png
 fields: [image, title, description]
@@ -14,8 +14,6 @@ fields: [image, title, description]
 :::
 
 
-## Open and reproducible research @ UJI
-
 **Open and reproducible research: practices and tools** training course is part of the [cross-disciplinary training programme of the Doctoral School at UJI](https://www.uji.es/estudis/centres/escola-doctorat/base/Formacio-transversal/). I have been teaching this course since 2020, and I have been updating the content every year: 
 
 - [Reproducible Research Practices (academic year 2019/2020)](https://github.com/cgranell/rrp20).
@@ -23,18 +21,10 @@ fields: [image, title, description]
 - [Reproducible Research Practices (academic years 2021/2022 and 2022/2023)](https://cgranell.github.io/rrp-uji/), or *What can I do to make my next article (more) reproducible?*.
 - [Reproducible Research Practices (academic year 2023/2024)](https://cgranell.github.io/rrp/), or *What can I do to make my next article (more) reproducible?*. 
 - [Notebooks for Academics (academic year 2023/2024)](https://cgranell.github.io/n4a/), or *Use of [Quarto](https://quarto.org/) for research and teaching documents*.
-- Open and reproducible research: practices and tools (academic year 2025/2026-), that integrates the previpus course on Reproducible Research Practices and Notebooks for Academics.
+- Open and reproducible research: practices and tools (academic year 2025/2026-), that integrates the previous courses on Reproducible Research Practices and Notebooks for Academics into one course.
 
 The course is designed to be practical and hands-on, with a focus on the principles and strategies of open science and on tools and practices to make research projects and scientific and technical materials more reproducible. The aim  is to provide students with the knowledge and skills they need to conduct open and reproducible research, and to help them understand the importance of these practices in the scientific community.
 
 
-## Reproducible Research @ AGILE
-
-
-::: {.column-margin}
-
-![](https://reproducible-agile.github.io/public/images/reproducible-AGILE-logo-square.svg)
-
-:::
 
 
