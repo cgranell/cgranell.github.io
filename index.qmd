@@ -1,13 +1,14 @@
 ---
 title: "Carlos Granell"
-affiliations:
-  - name: Universitat Jaume I
-    city: Castellón
-    country: Spain
-    postal-code: 12071
-    group: Geospatial Technologies research group
-    url: https://geotec.uji.es/
-    address: Av. Sos Baynat, s/n. Edificio Investigacion II, 3rd floor
+subtitle: | 
+  <small>
+  Room: [NB3311DI](https://www.uji.es/u/NB3311DI) <br/>
+  Edificio Investigación II, 3rd floor <br/>
+  Universitat Jaume I (UJI) <br/>
+  Av. Sos Baynat, s/n. <br/>
+  12071 Castellón, Spain
+  </small>
+
 image: images/picture20150818.jpg
 about:
     template: trestles
