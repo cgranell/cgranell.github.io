@@ -19,7 +19,7 @@ format:
 :::
 
 
-## Computationnal thinking papers
+## Computational thinking papers
 
 - Trilles, S., Juan, P., Santagueda Villanueva, M., Granell, C., Ramos, J. F. **SUCRE4KIDS: A Tangible Programming Approach for Introducing Computational Thinking in Early Education.** *ICERI25 Proceedings*, pp. 8779-8784, 2025, ISBN 978-84-09-78706-7. DOI: [10.21125/iceri.2025.2476](https://doi.org/10.21125/iceri.2025.2476). Seville, Spain, 10–12 Nov 2025.
 

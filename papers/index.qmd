@@ -13,7 +13,7 @@ format:
 
 - Scheider, S., et al. **GIScience as a meta-science: Adding the missing theory to our geo-information practice**. *In prep for [JOSIS](https://josis.org/index.php/josis)* (End Mar 2026)
 
-- Leonardo Monteiro-Fialho et al. **First Steps Towards an Open-Source Framework to Support Public Transport Data Management**. *Submitted to [GISTAM 2026](https://gistam.scitevents.org/)* (24 Feb 2026)
+- Leonardo Monteiro-Fialho et al. **First Steps Towards an Open-Source Framework to Support Public Transport Data Management**. *Accepted to [GISTAM 2026](https://gistam.scitevents.org/)* (24 Feb 2026)
 
 - Iratxe Alonso-Olea, Patricia Gual-Montolio, Laura Díaz-Sanahuja, Lucas Niño-Ruiz, Adriana Mira, Sven Casteleyn, Carlos Granell, Azucena García-Palacios, Juana María Bretón-López. **Maximizing the efficacy of in vivo exposure therapy using smartphone-assisted just-in-time adaptive intervention for anxiety disorders: study protocol for a randomized controlled trial**. *Submitted to [BMJ Open](https://bmjopen.bmj.com/)* (20 Jan 2026)
 
@@ -48,7 +48,7 @@ Iratxe Alonso Olea, Laura Díaz Sanahuja, Sven Casteleyn, Carlos Granell Canut, 
 Aaron Gutiérrez, Leonardo Monteiro-Fialho, Sergi Trilles, Benito Zaragozí, Carlos Granell, Daniel Miravet.
 **Tourists′ Local Buses Ridership and Pandemic Resilience: A Smart Card Data Analysis in Southern Catalonia**.
 *Transport*, 40(2), 173–196, 2025, ISSN 1648-4142.
-[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/)
+[CC BY 4.0](http://creativecommons.org/licenses/by/4.0/) | [Repositori UJI](http://hdl.handle.net/10234/788339)
 
 - [![2024](https://img.shields.io/badge/2024-10.1109/JBHI.2024.3456169-brightgreen.svg)](https://doi.org/10.1109/JBHI.2024.3456169)
 Miguel Matey-Sanz, Alberto González-Pérez, Sven Casteleyn, Carlos Granell.
