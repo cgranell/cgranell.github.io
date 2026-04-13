@@ -18,15 +18,15 @@ about:
           url: mailto:carlos.granell@uji.es
         - text: "{{< fa brands orcid >}} ORCID 0000-0003-1004-9695"
           url: https://orcid.org/0000-0003-1004-9695
-        - text: "{{< fa brands google-scholar >}} Google Scholar"
+        - text: "{{< ai google-scholar >}} Google Scholar"
           url: https://scholar.google.com/citations?user=K9jGzhQAAAAJ
-        - text: "RID A-A-4374-2008"
+        - text: "{{< ai researcherid >}} ResearcherID A-4374-2008"
           url: https://www.webofscience.com/wos/author/record/A-4374-2008
         - text: "{{< fa brands github >}} GitHub"
           url: https://github.com/cgranell
-        - text: "{{< fa globe >}} OSF"
+        - text: "{{< ai osf >}} OSF"
           url: https://osf.io/6xkmu/
-        - text: "{{< fa globe >}} UJI scientific portal"
+        - text: "{{< ai open-data >}} UJI scientific portal"
           url: https://portalcientific.uji.es/investigadores/1327438/detalle
 comments: false
 ---
@@ -61,7 +61,9 @@ You can explore the full [list of my publications](papers).
 
 ## Professional affiliations
 
-**[AGILE - Association of Geographic Information Laboratories in Europe](https://agile-gi.eu/)** | Member since 2003
+**[AGILE - Association of Geographic Information Laboratories in Europe](https://agile-gi.eu/)** | Institutational member since 2003
 
-**[ACM](https://www.acm.org/)** | Member since 2014
+**[AGILE Council](https://agile-gi.eu/community/council)** | Elected member (2018-2026)
+
+**[ACM](https://www.acm.org/)** | Individual member since 2017
 
