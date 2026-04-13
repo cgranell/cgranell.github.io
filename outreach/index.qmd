@@ -12,14 +12,18 @@ format:
 
 - Santágueda Villanueva, M., Granell, C., Trilles, S. **Integración del pensamiento computacional en la formación inicial del profesorado de primaria: la experiencia Sucre4Kids**. *Submitted to XXIX Congreso Internacional de Tecnología Educativa [EDUTEC 2026](https://edutec2026.uji.es/)* (13 Mar 2026). 
 
-- Celia Sáenz-Martínez, Carlos Granell, José Francisco Ramos, M. Torla-Tena, Sergio Trilles. **Implementing Interdisciplinary STEAM projects with Sucre4STEAM: from block-based programming to real prototyping in a rural school.** *Submitted to [Edulearn 2026](https://iated.org/edulearn/)* (12 Mar 2026).
-
-- Celia Sáenz-Martínez, Belén Ibáñez Montoliu, José Francisco Ramos-Romero, Carlos Granell, Sergio Trilles. **Evolución de la plataforma *Sucre4Stem* para el aprendizaje del Internet de las Cosas en las aulas**. *Submitted to 2026 Congreso de Tecnología, Aprendizaje y Enseñanza de la Electrónica ([TAEE 2026](https://congresotaee.es/))* (15 Dec 2025).
 
 :::
 
 
 ## Computational thinking papers
+
+- Celia Sáenz-Martínez, Belén Ibáñez Montoliu, José Francisco Ramos-Romero, Carlos Granell, Sergio Trilles. **Evolución de la plataforma *Sucre4Stem* para el aprendizaje del Internet de las Cosas en las aulas**. *Accepted to 2026 Congreso de Tecnología, Aprendizaje y Enseñanza de la Electrónica ([TAEE 2026](https://congresotaee.es/))*. Santander, Spain, 1-3 Jul 2026.
+
+
+- Celia Sáenz-Martínez, Carlos Granell, José Francisco Ramos, M. Torla-Tena, Sergio Trilles. **Implementing Interdisciplinary STEAM projects with Sucre4STEAM: from block-based programming to real prototyping in a rural school.** *Accepted to [Edulearn 2026](https://iated.org/edulearn/)*. 
+Palma, Spain, 29th Jun - 1st Jul 2026.
+
 
 - Trilles, S., Juan, P., Santagueda Villanueva, M., Granell, C., Ramos, J. F. **SUCRE4KIDS: A Tangible Programming Approach for Introducing Computational Thinking in Early Education.** *ICERI25 Proceedings*, pp. 8779-8784, 2025, ISBN 978-84-09-78706-7. DOI: [10.21125/iceri.2025.2476](https://doi.org/10.21125/iceri.2025.2476). Seville, Spain, 10–12 Nov 2025.
 

@@ -25,7 +25,7 @@ title-block-banner: true
 ::: {.callout-caution collapse="true"}
 ## Work in preparation or submitted (newest on top)
 
-- J. F. Ramos, S. Trilles, C. Granell. **Using LEGO® Serious Play to improve data visualization through data storytelling**. *Submitted to [Edulearn 2026](https://iated.org/edulearn/)* (12 Mar 2026).
+
 
 - Sarah Lennon et al. **ChemExpo - a Joint Master Erasmus Mundus programme on Chemical Exposome and Human Health: From Research to Decision**. *Submitted to [IMSC 2026](https://imsc26.com/)* (13 Feb 2026).
 
@@ -35,6 +35,9 @@ title-block-banner: true
 
 
 ## Teaching papers
+
+- J. F. Ramos, S. Trilles, C. Granell. **Using LEGO® Serious Play to improve data visualization through data storytelling**. *Accepted to [Edulearn 2026](https://iated.org/edulearn/)*. Palma, Spain, 29th Jun - 1st Jul 2026.
+
 
 - Matey Sanz, M., Granell Canut, C., Mollineda Cárdenas, R. A. **La IA generativa como acompañante en el ciclo de vida del software.** *Actas de las Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2025)*, vol 10, pp 45-53, 2025, ISSN 2531-0607. Valladolid, Spain, 9-11 Jul 2025. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [[download]](https://aenui.org/actas/fichas/JENUI_2025_005.html)
 
