@@ -23,7 +23,10 @@ fields: [image, title, description]
 - [Notebooks for Academics (academic year 2023/2024)](https://cgranell.github.io/n4a/), or *Use of [Quarto](https://quarto.org/) for research and teaching documents*.
 - [Open Reproducible Research: Practices and Tools (academic year 2025/2026-present)](https://cgranell.github.io/orr/) integrates the previous courses *Reproducible Research Practices* and *Notebooks for Academics* into one course using a book format.
 
-The course is designed to be practical and hands-on, with a focus on the principles and strategies of open science and on tools and practices to make research projects and scientific and technical materials more reproducible. The aim  is to provide students with the knowledge and skills they need to conduct open and reproducible research, and to help them understand the importance of these practices in the scientific community.
+The course is designed to be practical and hands-on, with a focus on the principles and strategies of open science and on tools and practices to make research projects and scientific and technical materials more reproducible. The aim is to provide participants with the knowledge and skills they need to conduct open and reproducible research, and to help them understand the importance of these practices in the scientific community. The course is not limited to a particular discipline or area of knowledge; it is intended for participants with diverse backgrounds. 
+
+The course is deposited in the UJI repository as a teaching material at [http://hdl.handle.net/10234/793030](http://hdl.handle.net/10234/793030).
+
 
 
 
