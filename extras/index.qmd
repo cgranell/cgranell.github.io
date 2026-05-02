@@ -10,7 +10,7 @@ title-block-banner: true
 - **Barcelona, Spain (13-15 Apr 2026)**. [ACM CHI 2026](https://chi2026.acm.org/) conference.
 
 ## Past trips/events
-
+- **Matarraña, Teruel, Spain (13-15 Apr 2026)**. Family trip to Mataraña area: Beceite, Valderrobres, Cretas, Calaceite, La Fresneda.
 - **Virtual (Tartu, Estonia, 2-4 Mar 2026)**. [AGILE Council meeting](https://www.agile-online.org/).
 - **Virtual (23 Jan 2026)**. [AGILE Council meeting](https://www.agile-online.org/).
 
