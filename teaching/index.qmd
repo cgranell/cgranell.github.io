@@ -29,12 +29,14 @@ title-block-banner: true
 
 - Sarah Lennon et al. **ChemExpo - a Joint Master Erasmus Mundus programme on Chemical Exposome and Human Health: From Research to Decision**. *Submitted to [IMSC 2026](https://imsc26.com/)* (13 Feb 2026).
 
-- Matey-Sanz, M., Granell, C., Mollineda, R. A. **Responsible Integration of Generative AI in Software Engineering Education.** *Submitted to IEEE Journal of Latin-American Learning Technologies (IEEE-RITA)*, ISSN 1932-8540 (5 Dec 2025).
 
 :::
 
 
 ## Teaching papers
+
+
+- Matey-Sanz, M., Granell, C., Mollineda, R. A. **Responsible Integration of Generative AI in Software Engineering Education.** *Accepted to IEEE Journal of Latin-American Learning Technologies (IEEE-RITA)*, 2026, ISSN 1932-8540.
 
 - J. F. Ramos, S. Trilles, C. Granell. **Using LEGO® Serious Play to improve data visualization through data storytelling**. *Accepted to [Edulearn 2026](https://iated.org/edulearn/)*. Palma, Spain, 29th Jun - 1st Jul 2026.
 
