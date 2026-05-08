@@ -13,8 +13,6 @@ format:
 
 - Scheider, S., et al. **GIScience as a meta-science: Adding the missing theory to our geo-information practice**. *In prep for [JOSIS](https://josis.org/index.php/josis)* (End Mar 2026)
 
-- Leonardo Monteiro-Fialho et al. **First Steps Towards an Open-Source Framework to Support Public Transport Data Management**. *Accepted to [GISTAM 2026](https://gistam.scitevents.org/)* (24 Feb 2026)
-
 - Iratxe Alonso-Olea, Patricia Gual-Montolio, Laura Díaz-Sanahuja, Lucas Niño-Ruiz, Adriana Mira, Sven Casteleyn, Carlos Granell, Azucena García-Palacios, Juana María Bretón-López. **Maximizing the efficacy of in vivo exposure therapy using smartphone-assisted just-in-time adaptive intervention for anxiety disorders: study protocol for a randomized controlled trial**. *Submitted to [BMJ Open](https://bmjopen.bmj.com/)* (20 Jan 2026)
 
 - Granell, C. et al. **Longitudinal assessment of research in GIScience domain shows a positive impact of reproducible research practices**. *Submitted to [JOSIS](https://josis.org/index.php/josis)* (3 Dec 2025). Preprint on EarthArXiv, [10.31223/X5RJ3W](https://doi.org/10.31223/X5RJ3W). Prereg study below
@@ -636,6 +634,9 @@ Hershey: Information Science Reference (IGI Global), 2008, pp. 1186-1193, ISBN 9
 © IGI Global [[download]](http://www3.uji.es/~canut/eprints/2008-BookChapter-IST.pdf)
 
 ## Intl. conference and workshop publications
+
+- Leonardo Monteiro-Fialho, Carlos Granell, Aaron Gutiérrez-Palomero, Benito Zaragozí, Daniel Miravet, Sergio Trilles. **First Steps Towards an Open-Source Framework to Support Public Transport Data Management**. *Accepted to [GISTAM 2026](https://gistam.scitevents.org/)*
+
 
 - Àngel Ruiz-Fas, Carlos Granell, José Francisco Ramos, Joaquín Huerta, Sergio Trilles. **A zone-based training approach for last-mile routing using Graph Neural Networks and Pointer Networks**. *[SMF26 – Sustainable Mobility Forum 2026](https://smf.unican.es/)*. Postprint on ArXiv, [10.48550/arXiv.2601.04705](https://doi.org/10.48550/arXiv.2601.04705)
 
