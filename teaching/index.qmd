@@ -35,7 +35,7 @@ title-block-banner: true
 
 ## Teaching/Education papers
 
-### Education on Computator Science
+### Teaching strategies/experiences in software engineering
 
 - Matey-Sanz, M., Granell, C., Mollineda, R. A. **Responsible Integration of Generative AI in Software Engineering Education.** *Accepted to IEEE Journal of Latin-American Learning Technologies (IEEE-RITA)*, 2026, ISSN 1932-8540.
 
@@ -60,7 +60,7 @@ title-block-banner: true
 - Huerta, J., Gould, M., Quirós, R., Granell, C., Chover, M. **Success Factors in the Application, Starting and Teaching of a Master's Degree within the Erasmus Mundus Program.** *Proceedings of INTED 2008*, ISBN 978-84-612-0190-7. Valencia, Spain, Mar 2008.
 
 
-### Computational thinking papers
+### Computational thinking in pre-university education
 
 - Celia Sáenz-Martínez, Belén Ibáñez Montoliu, José Francisco Ramos-Romero, Carlos Granell, Sergio Trilles. **Evolución de la plataforma *Sucre4Stem* para el aprendizaje del Internet de las Cosas en las aulas**. *Accepted to 2026 Congreso de Tecnología, Aprendizaje y Enseñanza de la Electrónica ([TAEE 2026](https://congresotaee.es/))*. Santander, Spain, 1-3 Jul 2026.
 
