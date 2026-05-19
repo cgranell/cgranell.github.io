@@ -37,7 +37,8 @@ title-block-banner: true
 
 ### Teaching strategies/experiences in software engineering
 
-- Matey-Sanz, M., Granell, C., Mollineda, R. A. **Responsible Integration of Generative AI in Software Engineering Education.** *Accepted to IEEE Journal of Latin-American Learning Technologies (IEEE-RITA)*, 2026, ISSN 1932-8540.
+- [![2026](https://img.shields.io/badge/2026-10.1109/RITA.2026.3694480-brightgreen.svg)](https://doi.org/10.1109/RITA.2026.3694480) 
+Matey-Sanz, M., Granell, C., Mollineda, R. A. **Responsible Integration of Generative AI in Software Engineering Education.** *IEEE Journal of Latin-American Learning Technologies (IEEE-RITA)*, 2026, ISSN 1932-8540. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
 
 - J. F. Ramos, S. Trilles, C. Granell. **Using LEGO® Serious Play to improve data visualization through data storytelling**. *Accepted to [Edulearn 2026](https://iated.org/edulearn/)*. Palma, Spain, 29th Jun - 1st Jul 2026.
 
