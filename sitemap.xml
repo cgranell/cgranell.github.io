@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cgranell.github.io/outreach/index.html</loc>
-    <lastmod>2026-05-19T09:59:20.626Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cgranell.github.io/teaching/repro-practices/index.html</loc>
-    <lastmod>2026-05-19T09:59:20.629Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cgranell.github.io/teaching/index.html</loc>
-    <lastmod>2026-05-19T09:59:20.628Z</lastmod>
+    <loc>https://cgranell.github.io/papers/index.html</loc>
+    <lastmod>2026-06-08T06:57:53.771Z</lastmod>
   </url>
   <url>
     <loc>https://cgranell.github.io/research/index.html</loc>
-    <lastmod>2026-05-19T09:59:20.626Z</lastmod>
+    <lastmod>2026-06-08T06:57:53.771Z</lastmod>
   </url>
   <url>
-    <loc>https://cgranell.github.io/extras/index.html</loc>
-    <lastmod>2026-05-19T09:59:20.616Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cgranell.github.io/papers/index.html</loc>
-    <lastmod>2026-05-19T09:59:20.626Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cgranell.github.io/teaching/repro-agile/index.html</loc>
-    <lastmod>2026-05-19T09:59:20.628Z</lastmod>
+    <loc>https://cgranell.github.io/teaching/repro-practices/index.html</loc>
+    <lastmod>2026-06-08T06:57:53.774Z</lastmod>
   </url>
   <url>
     <loc>https://cgranell.github.io/teaching/data-science/index.html</loc>
-    <lastmod>2026-05-19T09:59:20.628Z</lastmod>
+    <lastmod>2026-06-08T06:57:53.773Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cgranell.github.io/outreach/index.html</loc>
+    <lastmod>2026-06-08T06:57:53.770Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cgranell.github.io/teaching/repro-agile/index.html</loc>
+    <lastmod>2026-06-08T06:57:53.773Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cgranell.github.io/teaching/index.html</loc>
+    <lastmod>2026-06-08T06:57:53.773Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cgranell.github.io/extras/index.html</loc>
+    <lastmod>2026-06-08T06:57:53.761Z</lastmod>
   </url>
   <url>
     <loc>https://cgranell.github.io/index.html</loc>
-    <lastmod>2026-05-19T09:59:20.626Z</lastmod>
+    <lastmod>2026-06-08T06:57:53.770Z</lastmod>
   </url>
 </urlset>
