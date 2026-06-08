@@ -6,7 +6,6 @@ title-block-banner: true
 ## Forthcoming trips/events
 
 - **Tartu, Estonia (16-19 Jun 2026)**. [AGILE 2026](https://www.agile-online.org/) conference.
-- **(Virtual) Basel, Switzerland (8-10 Jun 2026)**. [GeoPython 2026](https://2026.geopython.net/) conference.
 
 ## Past trips/events
 - **Matarraña, Teruel, Spain (30 Apr-3 May 2026)**. Family trip to Matarraña area: Beceite (and "El Parrizal"), Valderrobres, Cretas, Calaceite, La Fresneda, Monroyo.

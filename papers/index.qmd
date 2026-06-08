@@ -634,8 +634,7 @@ Hershey: Information Science Reference (IGI Global), 2008, pp. 1186-1193, ISBN 9
 
 ## Intl. conference and workshop publications
 
-- Leonardo Monteiro-Fialho, Carlos Granell, Aaron Gutiérrez-Palomero, Benito Zaragozí, Daniel Miravet, Sergio Trilles. **First Steps Towards an Open-Source Framework to Support Public Transport Data Management**. *Accepted to [GISTAM 2026](https://gistam.scitevents.org/)*
-
+- Leonardo Monteiro-Fialho, Carlos Granell, Aaron Gutiérrez-Palomero, Benito Zaragozí, Daniel Miravet, Sergio Trilles. **First Steps Towards an Open-Source Framework to Support Public Transport Data Management**. In: (Eds.) *Proceedings of the 11th International Conference on Geographical Information Systems Theory, Applications and Management 2026 ([GISTAM 2026](https://gistam.scitevents.org/)), Benidorm, Spain. May 2026. ISBN: , published by SCITEPRESS.
 
 - Àngel Ruiz-Fas, Carlos Granell, José Francisco Ramos, Joaquín Huerta, Sergio Trilles. **A zone-based training approach for last-mile routing using Graph Neural Networks and Pointer Networks**. *[SMF26 – Sustainable Mobility Forum 2026](https://smf.unican.es/)*. Postprint on ArXiv, [10.48550/arXiv.2601.04705](https://doi.org/10.48550/arXiv.2601.04705)
 
