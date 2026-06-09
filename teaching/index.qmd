@@ -25,10 +25,10 @@ title-block-banner: true
 ::: {.callout-caution collapse="true"}
 ## Work in preparation or submitted (newest on top)
 
-- Santágueda Villanueva, M., Granell, C., Trilles, S. **Integración del pensamiento computacional en la formación inicial del profesorado de primaria: la experiencia Sucre4Kids**. *Submitted to XXIX Congreso Internacional de Tecnología Educativa [EDUTEC 2026](https://edutec2026.uji.es/)* (13 Mar 2026). 
-
+- Santágueda Villanueva, M., Granell, C., Trilles, S. **Formación docente en pensamiento computacional: la experiencia híbrida con Sucre4Kids**. *Submitted to XXIX Congreso Internacional de Tecnología Educativa [EDUTEC 2026](https://edutec2026.uji.es/)* (9 Jun 2026). 
+<!--
 - Sarah Lennon et al. **ChemExpo - a Joint Master Erasmus Mundus programme on Chemical Exposome and Human Health: From Research to Decision**. *Submitted to [IMSC 2026](https://imsc26.com/)* (13 Feb 2026).
-
+-->
 
 :::
 
