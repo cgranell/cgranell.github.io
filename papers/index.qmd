@@ -15,11 +15,6 @@ format:
 
 - Iratxe Alonso-Olea, Patricia Gual-Montolio, Laura Díaz-Sanahuja, Lucas Niño-Ruiz, Adriana Mira, Sven Casteleyn, Carlos Granell, Azucena García-Palacios, Juana María Bretón-López. **Maximizing the efficacy of in vivo exposure therapy using smartphone-assisted just-in-time adaptive intervention for anxiety disorders: study protocol for a randomized controlled trial**. *Submitted to [BMJ Open](https://bmjopen.bmj.com/)* (20 Jan 2026)
 
-- Granell, C. et al. **Improving reproducibility of GIScience publications through novel reproducibility guidelines and revised review procedures**. *Submitted to [JOSIS](https://josis.org/index.php/josis)* (9 Jun 2026). 
-
-  - Granell, C. et al. **Longitudinal assessment of research in GIScience domain shows a positive impact of reproducible research practices**. Preprint on EarthArXiv, [10.31223/X5RJ3W](https://doi.org/10.31223/X5RJ3W).
-
-  - Nüst, D., Granell, C., & Ostermann, F. O. **Impact of reproducible paper guidelines on computational papers: A longitudinal study on the AGILE and GIScience conference series**. *OSF Preregistered study*, [OSF.IO/XZJCH](https://doi.org/10.17605/OSF.IO/XZJCH) (24 Jul 2023)
 
 - Alberto González-Pérez, Juana Bretón-López, Carlos Granell, Jorge Osma, Lucas Niño-Ruiz, Javier Herrero-González, Miguel Matey-Sanz, Iratxe Alonso Olea, Laura Díaz-Sanahuja, Sven Casteleyn. **Driving a geolocation-based app for self-guided in-vivo exposure therapy towards an RCT through a qualitative evaluation**. *Submitted to [Intelligent Medicine](https://www.sciencedirect.com/journal/intelligent-medicine)* (27 Jun 2025)
 
@@ -34,6 +29,12 @@ format:
 :::
 
 ## Journal articles
+
+- [![2026](https://img.shields.io/badge/2026-10.5311/JOSIS-brightgreen.svg)](https://doi.org/10.5311/JOSIS) Carlos Granell, Frank O. Ostermann, Daniel Nüst, Peter Kedron, Eftychia Koukouraki, Miguel Matey-Sanz, Rémy Decoupes, Sergio Trilles, Anita Graser, and Tom Niers. **Improving reproducibility of GIScience publications through novel reproducibility guidelines and revised review procedures**. *Accepted to [Journal of Spatial Information Science (JOSIS)](https://josis.org/index.php/josis)*, 2026, ISSN 1948-660X. 
+
+  - Granell, C. et al. **Longitudinal assessment of research in GIScience domain shows a positive impact of reproducible research practices**. Preprint on EarthArXiv, [10.31223/X5RJ3W](https://doi.org/10.31223/X5RJ3W) (2 Dec 2025).
+
+  - Nüst, D., Granell, C., & Ostermann, F. O. **Impact of reproducible paper guidelines on computational papers: A longitudinal study on the AGILE and GIScience conference series**. *OSF Preregistered study*, [OSF.IO/XZJCH](https://doi.org/10.17605/OSF.IO/XZJCH) (24 Jul 2023).
 
 
 - [![2025](https://img.shields.io/badge/2025-10.1109/TITS.2025.3571101-brightgreen.svg)](https://doi.org/10.1109/TITS.2025.3571101)
