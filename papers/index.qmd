@@ -30,7 +30,7 @@ format:
 
 ## Journal articles
 
-- [![2026](https://img.shields.io/badge/2026-10.5311/JOSIS-brightgreen.svg)](https://doi.org/10.5311/JOSIS) Carlos Granell, Frank O. Ostermann, Daniel Nüst, Peter Kedron, Eftychia Koukouraki, Miguel Matey-Sanz, Rémy Decoupes, Sergio Trilles, Anita Graser, and Tom Niers. **Improving reproducibility of GIScience publications through novel reproducibility guidelines and revised review procedures**. *Accepted to [Journal of Spatial Information Science (JOSIS)](https://josis.org/index.php/josis)*, 2026, ISSN 1948-660X. 
+- [![2026](https://img.shields.io/badge/2026-10.5311/JOSIS.2026.32.591-brightgreen.svg)](https://doi.org/10.5311/JOSIS.2026.32.591) Carlos Granell, Frank O. Ostermann, Daniel Nüst, Peter Kedron, Eftychia Koukouraki, Miguel Matey-Sanz, Rémy Decoupes, Sergio Trilles, Anita Graser, and Tom Niers. **Improving reproducibility of GIScience publications through novel reproducibility guidelines and revised review procedures**. *Journal of Spatial Information Science (JOSIS)*, 32, 67-93, 2026, ISSN 1948-660X. 
 
   - Granell, C. et al. **Longitudinal assessment of research in GIScience domain shows a positive impact of reproducible research practices**. Preprint on EarthArXiv, [10.31223/X5RJ3W](https://doi.org/10.31223/X5RJ3W) (2 Dec 2025).
 
