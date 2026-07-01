@@ -25,7 +25,6 @@ title-block-banner: true
 ::: {.callout-caution collapse="true"}
 ## Work in preparation or submitted (newest on top)
 
-- Santágueda Villanueva, M., Granell, C., Trilles, S. **Formación docente en pensamiento computacional: la experiencia híbrida con Sucre4Kids**. *Submitted to XXIX Congreso Internacional de Tecnología Educativa [EDUTEC 2026](https://edutec2026.uji.es/)* (9 Jun 2026). 
 <!--
 - Sarah Lennon et al. **ChemExpo - a Joint Master Erasmus Mundus programme on Chemical Exposome and Human Health: From Research to Decision**. *Submitted to [IMSC 2026](https://imsc26.com/)* (13 Feb 2026).
 -->
@@ -36,6 +35,8 @@ title-block-banner: true
 ## Teaching/Education papers
 
 ### Teaching strategies/experiences in software engineering
+
+- Santágueda Villanueva, M., Granell, C., Trilles, S. **Formación docente en pensamiento computacional: la experiencia híbrida con Sucre4Kids**. *Accepted to XXIX Congreso Internacional de Tecnología Educativa [EDUTEC 2026](https://edutec2026.uji.es/)*. 
 
 - [![2026](https://img.shields.io/badge/2026-10.1109/RITA.2026.3694480-brightgreen.svg)](https://doi.org/10.1109/RITA.2026.3694480) 
 Matey-Sanz, M., Granell, C., Mollineda, R. A. **Responsible Integration of Generative AI in Software Engineering Education.** *IEEE Journal of Latin-American Learning Technologies (IEEE-RITA)*, 2026, ISSN 1932-8540. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/)
