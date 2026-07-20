@@ -39,7 +39,7 @@ I was an elected member of the [AGILE Council](https://agile-gi.eu/) (2018-2026)
 
 ## Key research interests
 
-- **GIScience**: geospatial data science, geosptial data management, GeoAI, spatial analysis & visualisation, geospatial data fusion.
+- **GIScience**: geospatial data science, geospatial data management, GeoAI, spatial analysis & visualisation, geospatial data fusion.
 
 - **Urban computing**: the use of computing and geospatial technologies to address urban problems, such as mobility, transport, aging population, environmental health, and education.
 
