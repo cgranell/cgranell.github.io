@@ -36,7 +36,7 @@ title-block-banner: true
 - [![2026](https://img.shields.io/badge/2026-10.1109/RITA.2026.3694480-brightgreen.svg)](https://doi.org/10.1109/RITA.2026.3694480) 
 Matey-Sanz, M., Granell, C., Mollineda, R. A. **Responsible Integration of Generative AI in Software Engineering Education.** *IEEE Journal of Latin-American Learning Technologies (IEEE-RITA)*, 2026, ISSN 1932-8540. [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) | [[repositori UJI]](http://hdl.handle.net/10234/810135)
 
-- J. F. Ramos, S. Trilles, C. Granell. **Using LEGO® Serious Play to improve data visualization through data storytelling**. *EDULEARN26 Proceedings*, pp. X-X, 2026, ISBN XX-XX-YY-YY. DOI: [10.21125/edulearn.2026](https://doi.org/10.21125/edulearn.2026). Palma de Mallorca, Spain, 29th Jun - 1st Jul 2026.
+- J. F. Ramos, S. Trilles, C. Granell. **Using LEGO® Serious Play to improve data visualization through data storytelling**. *EDULEARN26 Proceedings*, Article 1817, 2026, ISBN 978-84-09-88444-5. DOI: [10.21125/edulearn.2026.1817](https://doi.org/10.21125/edulearn.2026.1817). Palma de Mallorca, Spain, 29th Jun - 1st Jul 2026.
 
 - Matey Sanz, M., Granell Canut, C., Mollineda Cárdenas, R. A. **La IA generativa como acompañante en el ciclo de vida del software.** *Actas de las Jornadas sobre la Enseñanza Universitaria de la Informática (JENUI 2025)*, vol 10, pp 45-53, 2025, ISSN 2531-0607. Valladolid, Spain, 9-11 Jul 2025. [CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/) | [[download]](https://aenui.org/actas/fichas/JENUI_2025_005.html)
 
@@ -54,7 +54,7 @@ Matey-Sanz, M., Granell, C., Mollineda, R. A. **Responsible Integration of Gener
 
 - Celia Sáenz-Martínez, Belén Ibáñez Montoliu, José Francisco Ramos-Romero, Carlos Granell, Sergio Trilles. **Evolución de la plataforma *Sucre4Stem* para el aprendizaje del Internet de las Cosas en las aulas**. *2026 Congreso de Tecnología, Aprendizaje y Enseñanza de la Electrónica (TAEE)*, pp. X-X, 2026, ISBN ISBN XX-XX-YY-YY. DOI: [10.1109/TAEE54169.2026](https://doi.org/10.1109/TAEE54169.2026). Santander, Spain, 1-3 Jul 2026. **[Best Demo Award](https://congresotaee.es/premios/)**.
 
-- Celia Sáenz-Martínez, Carlos Granell, José Francisco Ramos, Manel Torla-Tena, Sergio Trilles. **Implementing Interdisciplinary STEAM projects with Sucre4STEM: from block-based programming to real prototyping in a rural school.** *EDULEARN26 Proceedings*, pp. X-X, 2026, ISBN XX-XX-YY-YY. DOI: [10.21125/edulearn.2026](https://doi.org/10.21125/edulearn.2026). Palma de Mallorca, Spain, 29th Jun - 1st Jul 2026.
+- Celia Sáenz-Martínez, Carlos Granell, José Francisco Ramos, Manel Torla-Tena, Sergio Trilles. **Implementing Interdisciplinary STEAM projects with Sucre4STEM: from block-based programming to real prototyping in a rural school.** *EDULEARN26 Proceedings*,  Article 1801, 2026, ISBN 978-84-09-88444-5. DOI: [10.21125/edulearn.2026.1801](https://doi.org/10.21125/edulearn.2026.1801). Palma de Mallorca, Spain, 29th Jun - 1st Jul 2026.
 
 - Trilles, S., Juan, P., Santagueda Villanueva, M., Granell, C., Ramos, J. F. **SUCRE4KIDS: A Tangible Programming Approach for Introducing Computational Thinking in Early Education.** *ICERI25 Proceedings*, pp. 8779-8784, 2025, ISBN 978-84-09-78706-7. DOI: [10.21125/iceri.2025.2476](https://doi.org/10.21125/iceri.2025.2476). Seville, Spain, 10–12 Nov 2025.
 
