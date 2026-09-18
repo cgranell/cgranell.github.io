@@ -25,7 +25,7 @@ format:
 
 ## Journal articles
 
-- Scheider, S., et al. **GIScience as a meta-science: Adding the missing theory to our geo-information practice**. *Accepted to [JOSIS](https://josis.org/index.php/josis)* 
+- Scheider, S., et al. **GIScience as a meta-science: Why we miss a theory of our geo-information practice**. *Accepted to [JOSIS](https://josis.org/index.php/josis)* 
 
 
 - Iratxe Alonso-Olea, Patricia Gual-Montolio, Laura Díaz-Sanahuja, Lucas Niño-Ruiz, Adriana Mira, Sven Casteleyn, Carlos Granell, Azucena García-Palacios, Juana María Bretón-López. **Maximizing the efficacy of in vivo exposure therapy using smartphone-assisted just-in-time adaptive intervention for anxiety disorders: study protocol for a randomized controlled trial**. *Accepted to [BMJ Open](https://bmjopen.bmj.com/)*, 2026, ISSN 2044-6055. 
