@@ -37,11 +37,11 @@ I am a computational GIScience researcher working on geospatial technologies, sp
 
 I was an elected member of the [AGILE Council](https://agile-gi.eu/) (2018-2026), an active team member of the [Reproducible AGILE initiative](https://reproducible-agile.github.io/) (2017-), a member of the [ACM](https://www.acm.org/) (2014-), and a member of [Geospatial Technologies research group (GEOTEC)](https://geotec.uji.es/), part of the [Institute of New Imaging Technologies (INIT)](https://www.init.uji.es/en/home/) at UJI. I have been co-coordinating GEOTEC since November 2022. At GEOTEC, we leverage computing and geospatial technologies to address everyday problems from a multidisciplinary perspective, applying diverse theoretical approaches and practical (geospatial) methods to social and environmental issues such as mobility & transport, public and mental health, environmental health, sustainable cities, and education. 
 
-## Key research interests
+## Research interests
 
-- **GIScience**: geospatial data science, GeoAI, spatial analysis & visualisation, geospatial data fusion.
+- **GIScience**: geospatial data science, GeoAI, spatial analysis & visualisation, geospatial data integration.
 
-- **Urban computing**: the use of computational geospatial technologies & GeoAI to address presing problems, speciial in urban environmemts, such as mobility, environmental health, and mental health and education.
+- **Urban computing**: Computational geospatial technologies & GeoAI to address multidisciplinary problems, specifically in urban contexts, such as mobility, environmental health, and public health.
 
 - **Open science and reproducibility practices (in GIScience)**: Reuse, reproducibility, replicability, transparency, openness, integrity, and ethics -- all in general terms, but applied specifically to computational research in GIScience. 
 
@@ -57,9 +57,9 @@ From time to time I give talks and lectures on reproducibility research practice
 
 If I had to choose five articles that define my research interests throughout my past and present career, I would invite you to read the following:
 
-- [GIScience as a meta-science: Why we miss a theory of our geo-information practice](https://josis.org/index.php/josis) in 2026
+- [GIScience as a meta-science: Why we miss a theory of our geo-information practice](https://josis.org/index.php/josis) - 2026
 
-- [Improving reproducibility of GIScience publications through novel reproducibility guidelines and revised review procedures](https://doi.org/10.5311/JOSIS.2026.32.591) in 2026
+- [Improving reproducibility of GIScience publications through novel reproducibility guidelines and revised review procedures](https://doi.org/10.5311/JOSIS.2026.32.591) - 2026
 
 - [AwarNS: A framework for developing context-aware reactive mobile applications for health and mental health](https://doi.org/10.1016/j.jbi.2023.104359) - 2023
 
