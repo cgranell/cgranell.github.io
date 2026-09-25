@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cgranell.github.io/extras/index.html</loc>
-    <lastmod>2026-09-23T15:56:22.488Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cgranell.github.io/teaching/repro-practices/index.html</loc>
-    <lastmod>2026-09-23T15:56:22.505Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cgranell.github.io/teaching/repro-agile/index.html</loc>
-    <lastmod>2026-09-23T15:56:22.504Z</lastmod>
-  </url>
-  <url>
     <loc>https://cgranell.github.io/research/index.html</loc>
-    <lastmod>2026-09-23T15:56:22.501Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cgranell.github.io/index.html</loc>
-    <lastmod>2026-09-23T15:56:22.500Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cgranell.github.io/papers/index.html</loc>
-    <lastmod>2026-09-23T15:56:22.501Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cgranell.github.io/teaching/index.html</loc>
-    <lastmod>2026-09-23T15:56:22.504Z</lastmod>
+    <lastmod>2026-09-25T07:50:47.549Z</lastmod>
   </url>
   <url>
     <loc>https://cgranell.github.io/teaching/data-science/index.html</loc>
-    <lastmod>2026-09-23T15:56:22.504Z</lastmod>
+    <lastmod>2026-09-25T07:50:47.550Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cgranell.github.io/teaching/index.html</loc>
+    <lastmod>2026-09-25T07:50:47.550Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cgranell.github.io/papers/index.html</loc>
+    <lastmod>2026-09-25T07:50:47.549Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cgranell.github.io/index.html</loc>
+    <lastmod>2026-09-25T07:50:47.548Z</lastmod>
   </url>
   <url>
     <loc>https://cgranell.github.io/outreach/index.html</loc>
-    <lastmod>2026-09-23T15:56:22.500Z</lastmod>
+    <lastmod>2026-09-25T07:50:47.548Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cgranell.github.io/teaching/repro-practices/index.html</loc>
+    <lastmod>2026-09-25T07:50:47.551Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cgranell.github.io/teaching/repro-agile/index.html</loc>
+    <lastmod>2026-09-25T07:50:47.550Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cgranell.github.io/extras/index.html</loc>
+    <lastmod>2026-09-25T07:50:47.539Z</lastmod>
   </url>
 </urlset>
