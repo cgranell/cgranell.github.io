@@ -6,14 +6,13 @@ title-block-banner: true
 ## Forthcoming trips/events
 
 - **Shanghai, China (18-22 Oct 2027)**. [GIScience 2027](https://icc2027.org/).
-
 - **Warsaw, Poland (18-23 Jul 2027)**. [33rd International Cartographic Conference (ICC 2027)](https://icc2027.org/).
-
+- **Palexpo, Geneva, Switzerland (21-24 Jun 2027)**. [AI for Good Global Summit 2027](https://2027summit.aiforgood.itu.int/).
 - **Barcelona, Spain (2-5 Dec 2026)**. [SpaceSUITE project meeting](https://www.spacesuite-project.eu/).
-- **Almaty, Kazakhstan (3-9 Oct 2026)**. [EDUC-WISE Science Diplomacy](https://educalliance.eu/news) mission.
-
 
 ## Past trips/events
+
+- **Almaty, Kazakhstan (3-9 Oct 2026)**. [EDUC-WISE Science Diplomacy](https://educalliance.eu/news) mission.
 - **Tartu, Estonia (16-19 Jun 2026)**. [AGILE 2026](https://www.agile-online.org/) conference.
 - **Matarraña, Teruel, Spain (30 Apr-3 May 2026)**. Family trip to Matarraña area: Beceite (and "El Parrizal"), Valderrobres, Cretas, Calaceite, La Fresneda, Monroyo.
 - **Virtual (Tartu, Estonia, 2-4 Mar 2026)**. [AGILE Council meeting](https://www.agile-online.org/).
