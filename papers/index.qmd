@@ -15,6 +15,9 @@ format:
 
 - Flavio Vata, Marco Octávio Painho, Ana Cristina Costa, Carlos Granell. **An Integrated Framework to Assess Social Inequity and Flood Susceptibility: A Case Study of Harris County, Texas**. *Submitted to [Progress in Disaster Science](https://www.sciencedirect.com/journal/progress-in-disaster-science)* (11 Aug 2026)
 
+<!-- Special issue: Advancing GeoAI: From Machine Learning to Foundation Models for Explainable and Generative Geospatial Intelligence -->
+- Seyed Amir Muhammad Qureshi, Carlos Granell, Sven Casteleyn. **ConLoRA-Sat: Parameter-Efficient Synthetic Satellite Imagery Generation for Data-Scarce Humanitarian Contexts**. *Submitted to [International Journal of Digital Earth](https://www.tandfonline.com/journals/tjde20)* (1 Oct 2026)
+
 <!--
 - Miguel Matey-Sanz, Joaquín Torres-Sospedra, Sven Casteleyn, Carlos Granell. **A Study on Training Set Size and Model Performance in Smartphone- and Smartwatch-Based Human Activity Recognition**. *Submitted to [IEEE Transactions on Human-Machine System](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=6221037)* (End Aug 2025)
 -->
