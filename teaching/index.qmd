@@ -55,7 +55,7 @@ Matey-Sanz, M., Granell, C., Mollineda, R. A. **Responsible Integration of Gener
 
 - Santágueda Villanueva, M., Granell, C., Trilles, S. **Formación docente en pensamiento computacional: la experiencia híbrida con Sucre4Kids**. *Accepted to XXIX Congreso Internacional de Tecnología Educativa [EDUTEC 2026](https://edutec2026.uji.es/)*. 
 
-- Celia Sáenz-Martínez, Belén Ibáñez Montoliu, José Francisco Ramos-Romero, Carlos Granell, Sergio Trilles. **Evolución de la plataforma *Sucre4Stem* para el aprendizaje del Internet de las Cosas en las aulas**. *2026 Congreso de Tecnología, Aprendizaje y Enseñanza de la Electrónica (TAEE)*, pp. X-X, 2026, ISBN ISBN XX-XX-YY-YY. DOI: [10.1109/TAEE54169.2026](https://doi.org/10.1109/TAEE54169.2026). Santander, Spain, 1-3 Jul 2026. **[Best Demo Award](https://congresotaee.es/premios/)**.
+- Celia Sáenz-Martínez, Carlos Granell, José Francisco Ramos-Romero, Sergio Trilles. **Evolution of Sucre4Stem for Learning the Internet of Things in the Classroom**. *2026 Congreso de Tecnología, Aprendizaje y Enseñanza de la Electrónica (TAEE)*, pp. 1-9, 2026, ISBN 979-8-3315-7283-9. DOI: [10.1109/TAEE68119.2026.11702145](https://doi.org/10.1109/TAEE68119.2026.11702145). Santander, Spain, 1-3 Jul 2026. **[Best Demo Award](https://congresotaee.es/premios/)**.
 
 - Celia Sáenz-Martínez, Carlos Granell, José Francisco Ramos, Manel Torla-Tena, Sergio Trilles. **Implementing Interdisciplinary STEAM projects with Sucre4STEM: from block-based programming to real prototyping in a rural school.** *EDULEARN26 Proceedings*,  Article 1801, 2026, ISBN 978-84-09-88444-5. DOI: [10.21125/edulearn.2026.1801](https://doi.org/10.21125/edulearn.2026.1801). Palma de Mallorca, Spain, 29th Jun - 1st Jul 2026.
 
