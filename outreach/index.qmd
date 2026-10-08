@@ -6,8 +6,6 @@ format:
     page-layout: full
 ---
 
-## Outreach activities
-
 
 <!-- [Ten simple rules for innovative dissemination of research](https://pmc.ncbi.nlm.nih.gov/articles/PMC7161944/) -->
 
