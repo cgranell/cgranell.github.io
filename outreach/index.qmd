@@ -9,6 +9,8 @@ format:
 ## Outreach activities
 
 
+<!-- [Ten simple rules for innovative dissemination of research](https://pmc.ncbi.nlm.nih.gov/articles/PMC7161944/) -->
+
 ## Public engagement initiatives
 
 ### SUCRE initiative
@@ -36,5 +38,9 @@ Its knowledge-exchange activities connect researchers from different disciplines
 
 <!-- TV channels, radio, newspapers, generalist website, newsletters -->
 
-<!-- seminars, talks, 11F, Ferias,  
+<!-- seminars, talks, 11F, Ferias, Noche de los investigadores, ... -->
+
+<!-- blog posts -->
+
+<!-- release a research summary: https://cgranell.github.io/orr/materials/02-agile-guidelines-impact.html --> 
 
