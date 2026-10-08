@@ -6,11 +6,35 @@ format:
     page-layout: full
 ---
 
-
-
 ## Outreach activities
 
 
-## Media
+## Public engagement initiatives
 
+### SUCRE initiative
+
+From 2017 - present
+
+
+
+### Jean Monnet Chair for EU BlueCrime and Ocean Governance
+
+From October 2026 to September 2029. *Supported by the Research Promotion Plan UJI 2025–2026, specifically through Program 5.2 – Research Networks at Universitat Jaume I. Ref EIXARXES/2025/03*
+
+The Jean Monnet Action EU BlueCrime and Ocean Governance ([EU BLUECRIME-GOV](https://bluecrimegov.uji.es/)) supports teaching, research, and public engagement on European Union environmental criminal law, maritime governance, marine protection, and ocean-related environmental harm.
+
+The Chair is designed to connect academic work with legal and policy debates on environmental crime, coastal risk, marine ecosystems, and European approaches to ocean governance.
+
+### Blue Governance Laboratory (BlueGovLab)
+From January 20925 to December 2026
+
+[BlueGovLab](https://bluegovlab.uji.es/) supports interdisciplinary collaboration on ocean governance, marine biodiversity, environmental protection, maritime security, and public policy.
+
+Its knowledge-exchange activities connect researchers from different disciplines with public authorities, civil-society organisations, environmental professionals, and actors working in the blue economy.
+
+## Communication activities
+
+<!-- TV channels, radio, newspapers, generalist website, newsletters -->
+
+<!-- seminars, talks, 11F, Ferias,  
 
