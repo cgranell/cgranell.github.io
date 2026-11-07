@@ -17,18 +17,16 @@ From 2016 - present. *Supported by the Research Promotion Plan UJI (Refs UJI-B20
 
 The [Sucre Program](https://www.sucre.uji.es/newsite/) is an initiative of GEOTEC and Universitat Jaume I that promotes computational thinking and programming among pre-university students. It involves block-based programming starting in primary school, and the use of physical cards for children in preschool.
 
-
-
 ### Jean Monnet Chair for EU BlueCrime and Ocean Governance
 
-From October 2026 to September 2029. *Supported by the Research Promotion Plan UJI 2025–2026, specifically through Program 5.2 – Research Networks at Universitat Jaume I. Ref EIXARXES/2025/03*
+From October 2026 to September 2029. *Supported by Erasmus+ Jean Monnet Actions. Grant Agreement 101319975*
 
 The Jean Monnet Action EU BlueCrime and Ocean Governance ([EU BLUECRIME-GOV](https://bluecrimegov.uji.es/)) supports teaching, research, and public engagement on European Union environmental criminal law, maritime governance, marine protection, and ocean-related environmental harm.
 
 The Chair is designed to connect academic work with legal and policy debates on environmental crime, coastal risk, marine ecosystems, and European approaches to ocean governance.
 
 ### Blue Governance Laboratory (BlueGovLab)
-From January 2025 to December 2026
+From January 2025 to December 2026. *Supported by the Research Promotion Plan UJI 2025–2026, specifically through Program 5.2 – Research Networks at Universitat Jaume I. Ref EIXARXES/2025/03*
 
 [BlueGovLab](https://bluegovlab.uji.es/) supports interdisciplinary collaboration on ocean governance, marine biodiversity, environmental protection, maritime security, and public policy.
 
