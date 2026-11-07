@@ -11,9 +11,11 @@ format:
 
 ## Public engagement initiatives
 
-### SUCRE initiative
+### SUCRE programme
 
-From 2017 - present
+From 2016 - present. *Supported by the Research Promotion Plan UJI (Refs UJI-B2020-31 and UJI-B2022-64) and [Fundación Española para la Ciencia y la Tecnología](https://www.fecyt.es/) (Refs FCT-19-15198 and FCT-23-19666)*
+
+The [Sucre Program](https://www.sucre.uji.es/newsite/) is an initiative of GEOTEC and Universitat Jaume I that promotes computational thinking and programming among pre-university students. It involves block-based programming starting in primary school, and the use of physical cards for children in preschool.
 
 
 
@@ -26,7 +28,7 @@ The Jean Monnet Action EU BlueCrime and Ocean Governance ([EU BLUECRIME-GOV](htt
 The Chair is designed to connect academic work with legal and policy debates on environmental crime, coastal risk, marine ecosystems, and European approaches to ocean governance.
 
 ### Blue Governance Laboratory (BlueGovLab)
-From January 20925 to December 2026
+From January 2025 to December 2026
 
 [BlueGovLab](https://bluegovlab.uji.es/) supports interdisciplinary collaboration on ocean governance, marine biodiversity, environmental protection, maritime security, and public policy.
 
