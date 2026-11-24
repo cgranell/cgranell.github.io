@@ -1,39 +1,39 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>https://cgranell.github.io/index.html</loc>
-    <lastmod>2026-11-07T12:52:11.644Z</lastmod>
+    <loc>https://cgranell.github.io/research/index.html</loc>
+    <lastmod>2026-11-24T08:35:48.064Z</lastmod>
   </url>
   <url>
     <loc>https://cgranell.github.io/papers/index.html</loc>
-    <lastmod>2026-11-07T12:52:11.645Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cgranell.github.io/extras/index.html</loc>
-    <lastmod>2026-11-07T12:52:11.636Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cgranell.github.io/teaching/repro-agile/index.html</loc>
-    <lastmod>2026-11-07T12:52:11.647Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cgranell.github.io/teaching/repro-practices/index.html</loc>
-    <lastmod>2026-11-07T12:52:11.648Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cgranell.github.io/teaching/data-science/index.html</loc>
-    <lastmod>2026-11-07T12:52:11.647Z</lastmod>
-  </url>
-  <url>
-    <loc>https://cgranell.github.io/teaching/index.html</loc>
-    <lastmod>2026-11-07T12:52:11.647Z</lastmod>
+    <lastmod>2026-11-24T08:35:48.064Z</lastmod>
   </url>
   <url>
     <loc>https://cgranell.github.io/outreach/index.html</loc>
-    <lastmod>2026-11-07T12:52:11.644Z</lastmod>
+    <lastmod>2026-11-24T08:35:48.064Z</lastmod>
   </url>
   <url>
-    <loc>https://cgranell.github.io/research/index.html</loc>
-    <lastmod>2026-11-07T12:52:11.645Z</lastmod>
+    <loc>https://cgranell.github.io/teaching/index.html</loc>
+    <lastmod>2026-11-24T08:35:48.066Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cgranell.github.io/teaching/repro-agile/index.html</loc>
+    <lastmod>2026-11-24T08:35:48.066Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cgranell.github.io/teaching/data-science/index.html</loc>
+    <lastmod>2026-11-24T08:35:48.066Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cgranell.github.io/teaching/repro-practices/index.html</loc>
+    <lastmod>2026-11-24T08:35:48.067Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cgranell.github.io/extras/index.html</loc>
+    <lastmod>2026-11-24T08:35:48.055Z</lastmod>
+  </url>
+  <url>
+    <loc>https://cgranell.github.io/index.html</loc>
+    <lastmod>2026-11-24T08:35:48.064Z</lastmod>
   </url>
 </urlset>
