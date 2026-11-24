@@ -25,6 +25,7 @@ title-block-banner: true
 ::: {.callout-caution collapse="true"}
 ## Work in preparation or submitted (newest on top)
 
+- Santágueda Villanueva, M.; Granell, C.; Trilles, S. Formación docente en pensamiento computacional: la experiencia híbrida con Sucre4Kids. Edutec. Revista Electrónica de Tecnología Educativa. Temática: [Formación del profesorado potenciada por herramientas digitales: desarrollo profesional docente y competencia digital en educación](https://www.edutec.es/revista/index.php/edutec-e/announcement/view/64). Fecha límite de envío: 30 de abril de 2027
 
 :::
 
